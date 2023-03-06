@@ -23,7 +23,7 @@ https://medium.com/airbnb-engineering/how-airbnb-built-wall-to-prevent-data-bugs
 
 ### BBC
 
-https://medium.com/bbc-product-technology/quality-engineering-for-a-shared-codebase-f0ee6eb24d63
+[Quality engineering for a shared codebase](https://medium.com/bbc-product-technology/quality-engineering-for-a-shared-codebase-f0ee6eb24d63)
 
 ### Babbel
 
@@ -37,11 +37,11 @@ https://www.babbel.com/en/magazine/evolution-of-babbels-data-pipeline-on-aws-fro
 
 ### Benchling
 
-https://benchling.engineering/evolving-to-enterprise-grade-permissions-493eac166449
+[Evolving to Enterprise-Grade Permissions](https://benchling.engineering/evolving-to-enterprise-grade-permissions-493eac166449)
 
 ### Bigeng
 
-https://www.bigeng.io/why-the-way-we-look-at-technical-debt-is-wrong/
+[Why the way we look at technical debt is wrong](https://www.bigeng.io/why-the-way-we-look-at-technical-debt-is-wrong/)
 
 ### Booking
 
@@ -53,11 +53,11 @@ https://booking.design/empowering-data-with-design-f6cec4e35cd
 
 ### Bumble
 
-https://medium.com/bumble-tech/hourglass-into-pyramid-ccf4b4da7785
+[Hourglass into Pyramid: how you can improve the structure of your tests](https://medium.com/bumble-tech/hourglass-into-pyramid-ccf4b4da7785)
 
 ### Canva
 
-https://canvatechblog.com/service-aligned-data-platform-architecture-6b5a6fc366c4
+[Service-aligned Data Platform Architecture](https://canvatechblog.com/service-aligned-data-platform-architecture-6b5a6fc366c4)
 
 ### Chick-fil-A
 
@@ -69,7 +69,7 @@ https://medium.com/chick-fil-atech/decentralized-model-ops-platform-w-apache-air
 
 ### Clever
 
-https://engineering.clever.com/2017/09/06/defining-clevers-engineering-culture/
+[Defining Clever’s Engineering Culture](https://engineering.clever.com/2017/09/06/defining-clevers-engineering-culture/)
 
 ### Cloudbees
 
@@ -79,11 +79,11 @@ https://www.cloudbees.com/blog/shift-left-done-right
 
 ### CockroachDB
 
-https://www.cockroachlabs.com/blog/what-is-data-partitioning-and-how-to-do-it-right/
+[What is data partitioning, and how to do it right](https://www.cockroachlabs.com/blog/what-is-data-partitioning-and-how-to-do-it-right/)
 
 ### Codelitt
 
-https://blog.codelitt.com/establishing-communication/
+[Establishing Communication](https://blog.codelitt.com/establishing-communication/)
 
 ### Commercetools
 
@@ -97,7 +97,7 @@ https://techblog.commercetools.com/its-done-or-is-it-9fe91b9a6981
 
 ### Confluent
 
-https://www.confluent.io/blog/is-kafka-a-database-with-ksqldb/
+[Is Apache Kafka a Database? With ksqlDB, Most Definitely](https://www.confluent.io/blog/is-kafka-a-database-with-ksqldb/)
 
 ### Credit Karma
 
@@ -171,11 +171,11 @@ https://dropbox.tech/infrastructure/lessons-learned-in-incident-management
 
 ### Entelo
 
-https://engineering.entelo.com/why-you-should-make-everyone-a-project-lead-f167472b580d
+[Why You Should Make Everyone a Project Lead](https://engineering.entelo.com/why-you-should-make-everyone-a-project-lead-f167472b580d)
 
 ### Etsy
 
-https://www.etsy.com/codeascraft/towards-machine-learning-observability-at-etsy
+[Towards Machine Learning Observability at Etsy](https://www.etsy.com/codeascraft/towards-machine-learning-observability-at-etsy)
 
 ### Expedia
 
@@ -231,7 +231,7 @@ https://www.future-processing.com/blog/7-common-big-data-security-issues/
 
 ### Fynd
 
-https://blog.gofynd.com/introducing-developer-less-data-workbench-making-business-analysts-masters-of-the-data-9eee49601d52
+[Introducing Developer-less Data Workbench — Making business analysts, Masters of the data!](https://blog.gofynd.com/introducing-developer-less-data-workbench-making-business-analysts-masters-of-the-data-9eee49601d52)
 
 ### Gamechanger
 
@@ -261,15 +261,15 @@ https://engineering.gusto.com/cultivating-engineering-growth-2/
 
 ### Haptik
 
-https://www.haptik.ai/tech/k8s-prod-best-practices
+[Kubernetes Production Best Practices - Part I](https://www.haptik.ai/tech/k8s-prod-best-practices)
 
 ### Hashnode
 
-https://engineering.hashnode.com/how-to-build-event-driven-architecture-on-aws
+[How to Build Event-Driven Architecture on AWS](https://engineering.hashnode.com/how-to-build-event-driven-architecture-on-aws)
 
 ### Heap
 
-https://www.heap.io/blog/how-i-learned-to-stop-worrying-and-love-tech-debt
+[How I Learned to Stop Worrying and Love Tech Debt](https://www.heap.io/blog/how-i-learned-to-stop-worrying-and-love-tech-debt)
 
 ### HelloFresh
 
@@ -279,15 +279,15 @@ https://www.heap.io/blog/how-i-learned-to-stop-worrying-and-love-tech-debt
 
 ### Helpshift
 
-https://medium.com/helpshift-engineering/building-a-data-warehouse-with-hive-at-helpshift-part-1-443046df6484
+[Building a Data warehouse with Hive at Helpshift — Part 1](https://medium.com/helpshift-engineering/building-a-data-warehouse-with-hive-at-helpshift-part-1-443046df6484)
 
 ### Instacart
 
-https://tech.instacart.com/building-for-balance-e61fb9511893
+[Building for Balance](https://tech.instacart.com/building-for-balance-e61fb9511893)
 
 ### LINE
 
-https://engineering.linecorp.com/en/blog/data-lineage-on-line-big-data-platform
+[A story of introducing data lineage into LINE's large-scale data platform](https://engineering.linecorp.com/en/blog/data-lineage-on-line-big-data-platform)
 
 ### LinkedIn
 
@@ -305,15 +305,15 @@ https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff
 
 ### New York Times
 
-https://open.nytimes.com/congrats-youre-on-call-now-what-8d36c5ad60aa
+[Congrats, You’re On Call! Now What?](https://open.nytimes.com/congrats-youre-on-call-now-what-8d36c5ad60aa)
 
 ### Nextdoor
 
-https://engblog.nextdoor.com/engineering-principles-at-nextdoor-e82743b2ef2f
+[Engineering Principles (v1) at Nextdoor](https://engblog.nextdoor.com/engineering-principles-at-nextdoor-e82743b2ef2f)
 
 ### NextRoll
 
-https://tech.nextroll.com/blog/costs/2020/07/01/coordinated-cost-savings.html
+[Coordinated Cost Savings](https://tech.nextroll.com/blog/costs/2020/07/01/coordinated-cost-savings.html)
 
 ### PayPal
 
@@ -341,7 +341,7 @@ https://medium.com/better-practices/how-postman-does-data-democratization-6aec09
 
 ### Quora
 
-https://quoraengineering.quora.com/Trino-at-Quora-Scale-Cost-Speed-and-Reliability
+[Trino at Quora Scale: Cost, Speed, and Reliability](https://quoraengineering.quora.com/Trino-at-Quora-Scale-Cost-Speed-and-Reliability)
 
 ### REA Group
 
@@ -441,7 +441,7 @@ https://shopify.engineering/developer-onboarding-at-shopify
 
 ### Sky Betting and Gambling
 
-https://sbg.technology/2016/04/08/team-size-and-why-it-matters/
+[Team Size and Why It Matters](https://sbg.technology/2016/04/08/team-size-and-why-it-matters/)
 
 ### Skyscanner
 
