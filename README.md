@@ -4,13 +4,20 @@ A collection of my favorite tech-related blog posts from companies.
 **Note: I am a Data Engineer, so the majority of these links will be data-related. However, there are plenty of general ones in here as well. I do plan on organizing this better in the future (or if someone wants to take a crack at it, be my guest :))**
 
 ## Links
+
+### HelloFresh
+
 https://engineering.hellofresh.com/how-hellotechs-working-and-knowledge-sharing-culture-supports-a-company-on-scale-cb37f1901947
 
 https://engineering.hellofresh.com/slos-for-everyone-with-sloth-1704009b20a2
 
+### LinkedIn
+
 https://engineering.linkedin.com/blog/2022/super-tables--the-road-to-building-reliable-and-discoverable-dat
 
 https://engineering.linkedin.com/blog/2022/open-sourcing-venice--linkedin-s-derived-data-platform
+
+### Shopify
 
 https://shopify.engineering/technical-debt-25-percent-rule
 
@@ -94,9 +101,13 @@ https://shopify.engineering/why-shopify-moved-to-the-production-engineering-mode
 
 https://shopify.engineering/developer-onboarding-at-shopify
 
+### Yelp
+
 https://engineeringblog.yelp.com/2022/08/spark-data-lineage.html
 
 https://engineeringblog.yelp.com/2021/05/engineering-career-series-how-we-onboard-engineers-across-the-world-at-yelp.html
+
+### Uber
 
 https://www.uber.com/blog/introducing-workflowguard/
 
@@ -137,6 +148,8 @@ https://www.uber.com/blog/engineering-routing-engine/
 https://www.uber.com/blog/argos-real-time-alerts/
 
 https://www.uber.com/blog/data-visualization-city-movement/
+
+### Nextroll
 
 https://tech.nextroll.com/blog/costs/2020/07/01/coordinated-cost-savings.html
 
@@ -474,6 +487,8 @@ https://www.babbel.com/en/magazine/how-to-fight-retrospective-fatigue
 
 https://www.babbel.com/en/magazine/evolution-of-babbels-data-pipeline-on-aws-from-sqs-to-kinesis
 
+### Spotify
+
 https://engineering.atspotify.com/2022/03/why-we-switched-our-data-orchestration-service/
 
 https://engineering.atspotify.com/2021/05/achieving-team-purpose-and-pride-with-scrum/
@@ -489,6 +504,8 @@ https://engineering.atspotify.com/2014/04/qualities-of-quality/
 https://engineering.atspotify.com/2013/05/analytics-at-spotify/
 
 https://engineering.atspotify.com/2013/03/agile-a-la-spotify/
+
+### Slack
 
 https://slack.engineering/buildrock-a-build-platform-at-slack/
 
@@ -510,11 +527,15 @@ https://slack.engineering/data-wrangling-at-slack/
 
 https://slack.engineering/data-consistency-checks/
 
+### Discord
+
 https://discord.com/blog/how-discord-stores-billions-of-messages
 
 https://discord.com/blog/how-discord-creates-insights-from-trillions-of-data-points
 
 https://discord.com/blog/how-data-science-informs-strategy-innovation-at-discord
+
+### Doordash
 
 https://doordash.engineering/2022/06/21/building-a-source-of-truth-for-a-digital-inventory-with-disparate-data-sources/
 
@@ -526,11 +547,15 @@ https://doordash.engineering/2022/03/08/ship-to-production-darkly-moving-fast-st
 
 https://doordash.engineering/2020/02/12/organizing-machine-learning-every-flavor-welcome/
 
+### Chick-fil-A
+
 https://medium.com/chick-fil-atech/enterprise-architecture-at-chick-fil-a-41bc263cf81d
 
 https://medium.com/chick-fil-atech/site-reliability-engineering-at-chick-fil-a-1e7239da7711
 
 https://medium.com/chick-fil-atech/decentralized-model-ops-platform-w-apache-airflow-5c08fc4745ad
+
+### Airbnb
 
 https://medium.com/airbnb-engineering/data-quality-at-airbnb-e582465f3ef7
 
