@@ -9,13 +9,13 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### Airbnb
 
-https://medium.com/airbnb-engineering/data-quality-at-airbnb-e582465f3ef7
+[Data Quality at Airbnb](https://medium.com/airbnb-engineering/data-quality-at-airbnb-e582465f3ef7)
 
-https://medium.com/airbnb-engineering/visualizing-data-timeliness-at-airbnb-ee638fdf4710
+[Visualizing Data Timeliness at Airbnb](https://medium.com/airbnb-engineering/visualizing-data-timeliness-at-airbnb-ee638fdf4710)
 
-https://medium.com/airbnb-engineering/achieving-insights-and-savings-with-cost-data-ec9a49fd74bc
+[Achieving Insights and Savings with Cost Data](https://medium.com/airbnb-engineering/achieving-insights-and-savings-with-cost-data-ec9a49fd74bc)
 
-https://medium.com/airbnb-engineering/how-airbnb-built-wall-to-prevent-data-bugs-ad1b081d6e8f
+[How Airbnb Built “Wall” to prevent data bugs](https://medium.com/airbnb-engineering/how-airbnb-built-wall-to-prevent-data-bugs-ad1b081d6e8f)
 
 ### Atomic Object
 
@@ -27,13 +27,13 @@ https://medium.com/airbnb-engineering/how-airbnb-built-wall-to-prevent-data-bugs
 
 ### Babbel
 
-https://www.babbel.com/en/magazine/should-you-move-into-management-as-a-software-engineer
+[Should you move into management as a software engineer?](https://www.babbel.com/en/magazine/should-you-move-into-management-as-a-software-engineer)
 
-https://www.babbel.com/en/magazine/aws-fargate-for-data-engineering
+[AWS Fargate for Data Engineering](https://www.babbel.com/en/magazine/aws-fargate-for-data-engineering)
 
-https://www.babbel.com/en/magazine/how-to-fight-retrospective-fatigue
+[How to Fight Retrospective Fatigue](https://www.babbel.com/en/magazine/how-to-fight-retrospective-fatigue)
 
-https://www.babbel.com/en/magazine/evolution-of-babbels-data-pipeline-on-aws-from-sqs-to-kinesis
+[Evolution of Babbel’s data pipeline on AWS: from SQS to Kinesis](https://www.babbel.com/en/magazine/evolution-of-babbels-data-pipeline-on-aws-from-sqs-to-kinesis)
 
 ### Benchling
 
@@ -87,13 +87,13 @@ https://www.babbel.com/en/magazine/evolution-of-babbels-data-pipeline-on-aws-fro
 
 ### Commercetools
 
-https://techblog.commercetools.com/product-tech-better-together-7d8ced10d83f
+[Product & Tech — Better Together!](https://techblog.commercetools.com/product-tech-better-together-7d8ced10d83f)
 
-https://techblog.commercetools.com/staff-and-principal-engineers-why-do-we-need-them-now-part-2-a6dcf2d6ad34
+[Staff and Principal Engineers: why do we need them now? (Part 2)](https://techblog.commercetools.com/staff-and-principal-engineers-why-do-we-need-them-now-part-2-a6dcf2d6ad34)
 
-https://techblog.commercetools.com/how-we-roadmap-in-2021-d024a4c6b180
+[How we Roadmap in 2021](https://techblog.commercetools.com/how-we-roadmap-in-2021-d024a4c6b180)
 
-https://techblog.commercetools.com/its-done-or-is-it-9fe91b9a6981
+[It’s done! Or is it?](https://techblog.commercetools.com/its-done-or-is-it-9fe91b9a6981)
 
 ### Confluent
 
@@ -109,15 +109,15 @@ https://techblog.commercetools.com/its-done-or-is-it-9fe91b9a6981
 
 ### Criteo
 
-https://medium.com/criteo-engineering/how-much-can-bad-data-cost-us-9b12a3939170
+[How Much Can Bad Data Cost Us?](https://medium.com/criteo-engineering/how-much-can-bad-data-cost-us-9b12a3939170)
 
-https://medium.com/criteo-engineering/datadoc-the-criteo-data-observability-platform-2cd826a9a1af
+[DataDoc — The Criteo Data Observability Platform](https://medium.com/criteo-engineering/datadoc-the-criteo-data-observability-platform-2cd826a9a1af)
 
-https://medium.com/criteo-engineering/technical-data-roadmap-why-and-how-to-build-it-using-a-maturity-matrix-7fa4acb8cc77
+[Technical Data Roadmap: Why and how to build it using a maturity matrix?](https://medium.com/criteo-engineering/technical-data-roadmap-why-and-how-to-build-it-using-a-maturity-matrix-7fa4acb8cc77)
 
-https://medium.com/criteo-engineering/big-data-quality-at-criteo-66c6bd0d42d8
+[Big Data Quality at Criteo](https://medium.com/criteo-engineering/big-data-quality-at-criteo-66c6bd0d42d8)
 
-https://medium.com/criteo-engineering/data-governance-at-criteo-e13b4d5047a1
+[Data Governance at Criteo](https://medium.com/criteo-engineering/data-governance-at-criteo-e13b4d5047a1)
 
 ### D2iq
 
@@ -143,15 +143,15 @@ https://medium.com/criteo-engineering/data-governance-at-criteo-e13b4d5047a1
 
 ### Doordash
 
-https://doordash.engineering/2022/06/21/building-a-source-of-truth-for-a-digital-inventory-with-disparate-data-sources/
+[Building a Source of Truth for an Inventory with Disparate Data Sources](https://doordash.engineering/2022/06/21/building-a-source-of-truth-for-a-digital-inventory-with-disparate-data-sources/)
 
-https://doordash.engineering/2020/06/29/doordashs-new-prediction-service/
+[Meet Sibyl – DoorDash’s New Prediction Service – Learn about its Ideation, Implementation and Rollout](https://doordash.engineering/2020/06/29/doordashs-new-prediction-service/)
 
-https://doordash.engineering/2023/02/15/lifecycle-of-a-successful-ml-product-reducing-dasher-wait-times/
+[Lifecycle of a Successful ML Product: Reducing Dasher Wait Times](https://doordash.engineering/2023/02/15/lifecycle-of-a-successful-ml-product-reducing-dasher-wait-times/)
 
-https://doordash.engineering/2022/03/08/ship-to-production-darkly-moving-fast-staying-safe-with-ml-deployments/
+[Ship to Production, Darkly: Moving Fast, Staying Safe with ML Deployments](https://doordash.engineering/2022/03/08/ship-to-production-darkly-moving-fast-staying-safe-with-ml-deployments/)
 
-https://doordash.engineering/2020/02/12/organizing-machine-learning-every-flavor-welcome/
+[Organizing Machine Learning: Every Flavor Welcome!](https://doordash.engineering/2020/02/12/organizing-machine-learning-every-flavor-welcome/)
 
 ### Doximity
 
@@ -185,49 +185,49 @@ https://doordash.engineering/2020/02/12/organizing-machine-learning-every-flavor
 
 ### Facebook/Meta
 
-https://engineering.fb.com/2022/11/30/data-infrastructure/static-analysis-sql-queries/
+[Enabling static analysis of SQL queries at Meta](https://engineering.fb.com/2022/11/30/data-infrastructure/static-analysis-sql-queries/)
 
-https://engineering.fb.com/2022/11/16/culture/meta-code-review-time-improving/
+[Move faster, wait less: Improving code review time at Meta](https://engineering.fb.com/2022/11/16/culture/meta-code-review-time-improving/)
 
-https://engineering.fb.com/2022/11/09/developer-tools/tulip-schematizing-metas-data-platform/
+[Tulip: Schematizing Meta’s data platform](https://engineering.fb.com/2022/11/09/developer-tools/tulip-schematizing-metas-data-platform/)
 
-https://engineering.fb.com/2022/09/19/ml-applications/data-ingestion-machine-learning-training-meta/
+[Scaling data ingestion for machine learning training at Meta](https://engineering.fb.com/2022/09/19/ml-applications/data-ingestion-machine-learning-training-meta/)
 
-https://engineering.fb.com/2022/08/29/developer-tools/improving-metas-slo-workflows-with-data-annotations/
+[Improving Meta’s SLO workflows with data annotations](https://engineering.fb.com/2022/08/29/developer-tools/improving-metas-slo-workflows-with-data-annotations/)
 
-https://engineering.fb.com/2022/06/08/developer-tools/zelos/
+[Introducing Zelos: A ZooKeeper API leveraging Delos](https://engineering.fb.com/2022/06/08/developer-tools/zelos/)
 
-https://engineering.fb.com/2022/05/05/developer-tools/belljar/
+[BellJar: A new framework for testing system recoverability at scale](https://engineering.fb.com/2022/05/05/developer-tools/belljar/)
 
-https://engineering.fb.com/2021/12/13/production-engineering/slick/
+[SLICK: Adopting SLOs for improved reliability](https://engineering.fb.com/2021/12/13/production-engineering/slick/)
 
-https://engineering.fb.com/2020/10/09/data-infrastructure/nemo/
+[Nemo: Data discovery at Facebook](https://engineering.fb.com/2020/10/09/data-infrastructure/nemo/)
 
-https://engineering.fb.com/2019/06/10/data-infrastructure/aria-presto/
+[Aria Presto: Making table scan more efficient](https://engineering.fb.com/2019/06/10/data-infrastructure/aria-presto/)
 
-https://engineering.fb.com/2018/11/06/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/
+[Getafix: How Facebook tools learn to fix bugs automatically](https://engineering.fb.com/2018/11/06/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/)
 
-https://engineering.fb.com/2018/06/26/core-data/migrating-messenger-storage-to-optimize-performance/
+[Migrating Messenger storage to optimize performance](https://engineering.fb.com/2018/06/26/core-data/migrating-messenger-storage-to-optimize-performance/)
 
-https://engineering.fb.com/2017/08/31/web/rapid-release-at-massive-scale/
+[Rapid release at massive scale](https://engineering.fb.com/2017/08/31/web/rapid-release-at-massive-scale/)
 
-https://engineering.fb.com/2016/04/15/core-data/facebook-chef-cookbooks/
+[Facebook Chef cookbooks](https://engineering.fb.com/2016/04/15/core-data/facebook-chef-cookbooks/)
 
-https://engineering.fb.com/2014/10/28/culture/engineering-culture-code-ownership/
+[Engineering Culture: Code ownership](https://engineering.fb.com/2014/10/28/culture/engineering-culture-code-ownership/)
 
-https://engineering.fb.com/2014/01/07/core-data/scaling-mercurial-at-facebook/
+[Scaling Mercurial at Facebook](https://engineering.fb.com/2014/01/07/core-data/scaling-mercurial-at-facebook/)
 
-https://engineering.fb.com/2013/11/06/core-data/presto-interacting-with-petabytes-of-data-at-facebook/
+[Presto: Interacting with petabytes of data at Facebook](https://engineering.fb.com/2013/11/06/core-data/presto-interacting-with-petabytes-of-data-at-facebook/)
 
-https://engineering.fb.com/2010/12/15/core-data/join-optimization-in-apache-hive/
+[Join Optimization in Apache Hive](https://engineering.fb.com/2010/12/15/core-data/join-optimization-in-apache-hive/)
 
-https://engineering.fb.com/2008/08/20/core-data/scaling-out/
+[Scaling Out](https://engineering.fb.com/2008/08/20/core-data/scaling-out/)
 
 ### Future Processing
 
-https://www.future-processing.com/blog/data-science-and-data-analytics-know-the-difference/
+[Data science and data analytics – know the difference](https://www.future-processing.com/blog/data-science-and-data-analytics-know-the-difference/)
 
-https://www.future-processing.com/blog/7-common-big-data-security-issues/
+[7 common Big Data security issues](https://www.future-processing.com/blog/7-common-big-data-security-issues/)
 
 ### Fynd
 
@@ -235,23 +235,23 @@ https://www.future-processing.com/blog/7-common-big-data-security-issues/
 
 ### Gamechanger
 
-https://tech.gc.com/apache-airflow-on-aws-ecs/
+[Apache Airflow on AWS ECS](https://tech.gc.com/apache-airflow-on-aws-ecs/)
 
-https://tech.gc.com/let-me-automate-that-for-you/
+[Let me automate that for you](https://tech.gc.com/let-me-automate-that-for-you/)
 
-https://tech.gc.com/data-interruption-process/
+[Data Interruption Process](https://tech.gc.com/data-interruption-process/)
 
-https://tech.gc.com/what-good-engineers-do/
+[What Good Engineers Do](https://tech.gc.com/what-good-engineers-do/)
 
 ### Grab
 
-https://engineering.grab.com/how-we-store-millions-orders
+[How we store and process millions of orders daily](https://engineering.grab.com/how-we-store-millions-orders)
 
-https://engineering.grab.com/doc-as-code
+[Embracing a Docs-as-Code approach](https://engineering.grab.com/doc-as-code)
 
-https://engineering.grab.com/real-time-data-ingestion
+[Real-time data ingestion in Grab](https://engineering.grab.com/real-time-data-ingestion)
 
-https://engineering.grab.com/trident-real-time-event-processing-at-scale
+[Trident - Real-time Event Processing at Scale](https://engineering.grab.com/trident-real-time-event-processing-at-scale)
 
 ### Gusto
 
@@ -317,19 +317,19 @@ https://engineering.grab.com/trident-real-time-event-processing-at-scale
 
 ### PayPal
 
-https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522
+[The next generation of Data Platforms is the Data Mesh](https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522)
 
-https://medium.com/paypal-tech/next-gen-data-movement-platform-at-paypal-100f70a7a6b
+[Next-Gen Data Movement Platform at PayPal](https://medium.com/paypal-tech/next-gen-data-movement-platform-at-paypal-100f70a7a6b)
 
-https://medium.com/paypal-tech/the-journey-of-metadata-at-paypal-c374ac66e2e6
+[The Journey of Metadata at PayPal](https://medium.com/paypal-tech/the-journey-of-metadata-at-paypal-c374ac66e2e6)
 
-https://medium.com/paypal-tech/gimel-paypals-analytics-data-processing-platform-22ec5890f4af
+[Gimel: PayPal’s Analytics Data Processing Platform](https://medium.com/paypal-tech/gimel-paypals-analytics-data-processing-platform-22ec5890f4af)
 
 ### Pinterest
 
-https://medium.com/pinterest-engineering/improving-efficiency-and-reducing-runtime-using-s3-read-optimization-b31da4b60fa0
+[Improving efficiency and reducing runtime using S3 read optimization](https://medium.com/pinterest-engineering/improving-efficiency-and-reducing-runtime-using-s3-read-optimization-b31da4b60fa0)
 
-https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be
+[How Pinterest runs Kafka at scale](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be)
 
 ### Postman
 
@@ -345,99 +345,103 @@ https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6
 
 ### REA Group
 
-https://www.rea-group.com/about-us/news-and-insights/blog/accelerating-experimentation-with-mlops/
+[Accelerating experimentation with MLOps](https://www.rea-group.com/about-us/news-and-insights/blog/accelerating-experimentation-with-mlops/)
 
-https://www.rea-group.com/about-us/news-and-insights/blog/data-science-principles-for-success/
+[Data Science: Principles for Success](https://www.rea-group.com/about-us/news-and-insights/blog/data-science-principles-for-success/)
 
-https://www.rea-group.com/about-us/news-and-insights/blog/data-discovery/
+[Data Discovery](https://www.rea-group.com/about-us/news-and-insights/blog/reflections-on-designing-an-enterprise-data-warehouse/)
 
-https://www.rea-group.com/about-us/news-and-insights/blog/reflections-on-designing-an-enterprise-data-warehouse/
+[Reflections On Designing An Enterprise Data Warehouse](https://developers.soundcloud.com/blog/a-better-model-of-data-ownership)
 
-https://www.rea-group.com/about-us/news-and-insights/blog/the-ops-dojo/
+[The Ops Dojo](https://www.rea-group.com/about-us/news-and-insights/blog/the-ops-dojo/)
 
 ### Shopify
 
-https://shopify.engineering/technical-debt-25-percent-rule
+[The 25 Percent Rule for Tackling Technical Debt](https://shopify.engineering/technical-debt-25-percent-rule)
 
-https://shopify.engineering/the-hardest-part-of-writing-tests-is-getting-started
+[The Hardest Part of Writing Tests is Getting Started](https://shopify.engineering/the-hardest-part-of-writing-tests-is-getting-started)
 
-https://shopify.engineering/good-documentation-productivity
+[How Good Documentation Can Improve Productivity](https://shopify.engineering/good-documentation-productivity)
 
-https://shopify.engineering/three-essential-remote-work-practices-engineering
+[Three Essential Remote Work Practices for Engineering Teams](https://shopify.engineering/three-essential-remote-work-practices-engineering)
 
-https://shopify.engineering/reducing-bigquery-costs
+[Reducing BigQuery Costs: How We Fixed A $1 Million Query](https://shopify.engineering/reducing-bigquery-costs)
 
-https://shopify.engineering/a-software-engineers-guide-to-working-across-time-zones
+[A Software Engineer's Guide to Working Across Time Zones](https://shopify.engineering/a-software-engineers-guide-to-working-across-time-zones)
 
-https://shopify.engineering/how-to-structure-data-teams
+[How to Structure Your Data Team for Maximum Influence](https://shopify.engineering/how-to-structure-data-teams)
 
-https://shopify.engineering/on-the-importance-of-pull-request-discipline
+[On the Importance of Pull Request Discipline](https://shopify.engineering/on-the-importance-of-pull-request-discipline)
 
-https://shopify.engineering/code-reviews-communication
+[When Culture and Code Reviews Collide, Communication is Key](https://shopify.engineering/code-reviews-communication)
 
-https://shopify.engineering/six-tips-staying-technical-cto
+[Six Tips for Staying Technical as a CTO](https://shopify.engineering/six-tips-staying-technical-cto)
 
-https://shopify.engineering/five-steps-to-better-performance-reviews
+[5 Steps to Bounce Back from a Negative Performance Review](https://shopify.engineering/five-steps-to-better-performance-reviews)
 
-https://shopify.engineering/lessons-learned-apache-airflow-scale
+[Lessons Learned From Running Apache Airflow at Scale](https://shopify.engineering/lessons-learned-apache-airflow-scale)
 
-https://shopify.engineering/asynchronous-communication-shopify-engineering
+[Asynchronous Communication is the Great Leveler in Engineering](https://shopify.engineering/asynchronous-communication-shopify-engineering)
 
-https://shopify.engineering/data-storytelling-shopify
+[Data Is An Art, Not Just A Science—And Storytelling Is The Key](https://shopify.engineering/data-storytelling-shopify)
 
-https://shopify.engineering/merlin-shopify-machine-learning-platform
+[The Magic of Merlin: Shopify's New Machine Learning Platform](https://shopify.engineering/merlin-shopify-machine-learning-platform)
 
-https://shopify.engineering/a-data-scientist-s-guide-to-measuring-product-success
+[A Data Scientist’s Guide To Measuring Product Success](https://shopify.engineering/a-data-scientist-s-guide-to-measuring-product-success)
 
-https://shopify.engineering/manage-infrastructure-with-terraform
+[Using Terraform to Manage Infrastructure](https://shopify.engineering/manage-infrastructure-with-terraform)
 
-https://shopify.engineering/shopify-playbook-scaling-machine-learning
+[Shopify's Playbook for Scaling Machine Learning](https://shopify.engineering/shopify-playbook-scaling-machine-learning)
 
-https://shopify.engineering/search-at-shopify
+[Search at Shopify—Range in Data and Engineering is the Future](https://shopify.engineering/search-at-shopify)
 
-https://shopify.engineering/shopify-unique-data-science-hierarchy-of-needs
+[Shopify’s Unique Data Science Hierarchy Of Needs](https://shopify.engineering/shopify-unique-data-science-hierarchy-of-needs)
 
-https://shopify.engineering/five-tips-for-engineer-career-growth
+[Five Tips for Growing Your Engineering Career](https://shopify.engineering/five-tips-for-engineer-career-growth)
 
-https://shopify.engineering/aware-development-plan
+[The AWARE Development Plan](https://shopify.engineering/aware-development-plan)
 
-https://shopify.engineering/building-business-machine-learning-models
+[5 Steps for Building Machine Learning Models for Business](https://shopify.engineering/building-business-machine-learning-models)
 
-https://shopify.engineering/modelling-developer-infrastructure-teams
+[Modelling Developer Infrastructure Teams](https://shopify.engineering/modelling-developer-infrastructure-teams)
 
-https://shopify.engineering/bridging-gap-between-developers-and-users
+[Bridging the Gap Between Developers and End Users](https://shopify.engineering/bridging-gap-between-developers-and-users)
 
-https://shopify.engineering/running-engineering-program-guide
+[A Guide to Running an Engineering Program](https://shopify.engineering/running-engineering-program-guide)
 
-https://shopify.engineering/other-driven-developments
+[Other Driven Developments](https://shopify.engineering/other-driven-developments)
 
-https://shopify.engineering/define-boundaries-prevent-burnout
+[How I Define My Boundaries to Prevent Burnout](https://shopify.engineering/define-boundaries-prevent-burnout)
 
-https://shopify.engineering/shipping-data-products-fast
+[4 Tips for Shipping Data Products Fast](https://shopify.engineering/shipping-data-products-fast)
 
-https://shopify.engineering/make-dashboards-using-product-thinking-approach
+[How to Make Dashboards Using a Product Thinking Approach](https://shopify.engineering/make-dashboards-using-product-thinking-approach)
 
-https://shopify.engineering/reliably-scale-data-platform
+[How to Reliably Scale Your Data Platform for High Volumes](https://shopify.engineering/reliably-scale-data-platform)
 
-https://shopify.engineering/shopifys-data-science-engineering-foundations
+[How to Make Dashboards Using a Product Thinking Approach](https://shopify.engineering/make-dashboards-using-product-thinking-approach)
 
-https://shopify.engineering/software-release-culture-shopify
+[How to Reliably Scale Your Data Platform for High Volumes](https://shopify.engineering/reliably-scale-data-platform)
 
-https://shopify.engineering/great-code-reviews
+[Software Release Culture at Shopify](https://shopify.engineering/software-release-culture-shopify)
 
-https://shopify.engineering/successfully-merging-work-1000-developers
+[Great Code Reviews—The Superpower Your Team Needs](https://shopify.engineering/great-code-reviews)
 
-https://shopify.engineering/five-common-data-stores-usage
+[Successfully Merging the Work of 1000+ Developers](https://shopify.engineering/successfully-merging-work-1000-developers)
 
-https://shopify.engineering/how-shopify-scales-up-its-development-teams
+[Five Common Data Stores and When to Use Them](https://shopify.engineering/five-common-data-stores-usage)
 
-https://shopify.engineering/implementing-chatops-into-our-incident-management-procedure
+[Successfully Merging the Work of 1000+ Developers](https://shopify.engineering/how-shopify-scales-up-its-development-teams)
 
-https://shopify.engineering/code-style-consistency-for-shopify-s-decade-old-codebase
+[Five Common Data Stores and When to Use Them](https://shopify.engineering/five-common-data-stores-usage)
 
-https://shopify.engineering/why-shopify-moved-to-the-production-engineering-model
+[Implementing ChatOps into our Incident Management Procedure](https://shopify.engineering/implementing-chatops-into-our-incident-management-procedure)
 
-https://shopify.engineering/developer-onboarding-at-shopify
+[Code Style Consistency for Shopify’s Decade-Old Codebase](https://shopify.engineering/code-style-consistency-for-shopify-s-decade-old-codebase)
+
+[Why Shopify Moved to The Production Engineering Model](https://shopify.engineering/why-shopify-moved-to-the-production-engineering-model)
+
+[Developer Onboarding at Shopify](https://shopify.engineering/developer-onboarding-at-shopify)
 
 ### Sky Betting and Gambling
 
@@ -453,53 +457,53 @@ https://shopify.engineering/developer-onboarding-at-shopify
 
 ### Slack
 
-https://slack.engineering/buildrock-a-build-platform-at-slack/
+[BuildRock: A Build Platform at Slack](https://slack.engineering/buildrock-a-build-platform-at-slack/)
 
-https://slack.engineering/infrastructure-observability-for-changing-the-spend-curve/
+[Infrastructure Observability for Changing the Spend Curve](https://slack.engineering/infrastructure-observability-for-changing-the-spend-curve/)
 
-https://slack.engineering/data-lineage-at-slack/
+[Data Lineage at Slack](https://slack.engineering/data-lineage-at-slack/)
 
-https://slack.engineering/how-we-design-our-apis-at-slack/
+[How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
 
-https://slack.engineering/starting-an-initiative/
+[Starting an Initiative](https://slack.engineering/starting-an-initiative/)
 
-https://slack.engineering/how-big-technical-changes-happen-at-slack/
+[How Big Technical Changes Happen at Slack](https://slack.engineering/how-big-technical-changes-happen-at-slack/)
 
-https://slack.engineering/deploys-at-slack/
+[Deploys at Slack](https://slack.engineering/deploys-at-slack/)
 
-https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering/
+[Disasterpiece Theater: Slack’s process for approachable Chaos Engineering](https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering/)
 
-https://slack.engineering/data-wrangling-at-slack/
+[Data Wrangling at Slack](https://slack.engineering/data-wrangling-at-slack/)
 
-https://slack.engineering/data-consistency-checks/
+[Data Consistency Checks](https://slack.engineering/data-consistency-checks/)
 
 ### Soundcloud
 
-https://developers.soundcloud.com/blog/building-a-healthy-on-call-culture
+[Building a Healthy On-Call Culture](https://developers.soundcloud.com/blog/building-a-healthy-on-call-culture)
 
-https://developers.soundcloud.com/blog/how-not-to-build-datasets-and-consume-data-at-your-company
+[How (Not) to Build Datasets and Consume Data at Your Company](https://developers.soundcloud.com/blog/how-not-to-build-datasets-and-consume-data-at-your-company)
 
-https://developers.soundcloud.com/blog/getting-a-team-back-on-track
+[Getting a Team Back on Track](https://developers.soundcloud.com/blog/getting-a-team-back-on-track)
 
-https://developers.soundcloud.com/blog/a-better-model-of-data-ownership
+[A Better Model of Data Ownership](https://developers.soundcloud.com/blog/a-better-model-of-data-ownership)
 
 ### Spotify
 
-https://engineering.atspotify.com/2022/03/why-we-switched-our-data-orchestration-service/
+[Why We Switched Our Data Orchestration Service](https://engineering.atspotify.com/2022/03/why-we-switched-our-data-orchestration-service/)
 
-https://engineering.atspotify.com/2021/05/achieving-team-purpose-and-pride-with-scrum/
+[Achieving Team Purpose and Pride with Scrum](https://engineering.atspotify.com/2021/05/achieving-team-purpose-and-pride-with-scrum/)
 
-https://engineering.atspotify.com/2020/09/managing-clouds-from-the-ground-up-cost-engineering-at-spotify/
+[Managing Clouds from the Ground Up: Cost Engineering at Spotify](https://engineering.atspotify.com/2020/09/managing-clouds-from-the-ground-up-cost-engineering-at-spotify/)
 
-https://engineering.atspotify.com/2020/02/how-we-improved-data-discovery-for-data-scientists-at-spotify/
+[How We Improved Data Discovery for Data Scientists at Spotify](https://engineering.atspotify.com/2020/02/how-we-improved-data-discovery-for-data-scientists-at-spotify/)
 
-https://engineering.atspotify.com/2017/10/tc4d-data-quality-by-engineers-for-engineers-2/
+[TC4D: Data Quality By Engineers, For Engineers](https://engineering.atspotify.com/2017/10/tc4d-data-quality-by-engineers-for-engineers-2/)
 
-https://engineering.atspotify.com/2014/04/qualities-of-quality/
+[Qualities of Quality](https://engineering.atspotify.com/2014/04/qualities-of-quality/)
 
-https://engineering.atspotify.com/2013/05/analytics-at-spotify/
+[Analytics at Spotify](https://engineering.atspotify.com/2013/05/analytics-at-spotify/)
 
-https://engineering.atspotify.com/2013/03/agile-a-la-spotify/
+[Agile à la Spotify](https://engineering.atspotify.com/2013/03/agile-a-la-spotify/)
 
 ### Squarespace
 
@@ -561,75 +565,75 @@ https://engineering.atspotify.com/2013/03/agile-a-la-spotify/
 
 ### Twitter
 
-https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/data-quality-automation-at-twitter
+[Data Quality Automation at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/data-quality-automation-at-twitter)
 
-https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/powering-real-time-data-analytics-with-druid-at-twitter
+[Powering real-time data analytics with Druid at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/powering-real-time-data-analytics-with-druid-at-twitter)
 
-https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries
+[Next generation data insights using natural language queries](https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries)
 
-https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/advancing-jupyter-notebooks-at-twitter---part-1--a-first-class-d
+[Advancing Jupyter Notebooks at Twitter - Part 1](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/advancing-jupyter-notebooks-at-twitter---part-1--a-first-class-d)
 
-https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-
+[Processing billions of events in real time at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-)
 
-https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/kafka-as-a-storage-system
+[Kafka as a storage system](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/kafka-as-a-storage-system)
 
-https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future
+[Building Twitter’s ad platform architecture for the future](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future)
 
-https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/democratizing-data-analysis-with-google-bigquery
+[Democratizing data analysis with Google BigQuery](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/democratizing-data-analysis-with-google-bigquery)
 
-https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/interactive-analytics-at-mopub
+[Interactive Analytics at MoPub: Querying Terabytes of Data in Seconds](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/interactive-analytics-at-mopub)
 
-https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/zookeeper-at-twitter
+[ZooKeeper at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/zookeeper-at-twitter)
 
-https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows
+[Productionizing ML with workflows at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows)
 
-https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines
+[Using Deep Learning at Scale in Twitter’s Timelines](https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines)
 
-https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale
+[The Infrastructure Behind Twitter: Scale](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale)
 
-https://blog.twitter.com/engineering/en_us/topics/insights/2016/discovery-and-consumption-of-analytics-data-at-twitter
+[Discovery and Consumption of Analytics Data at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2016/discovery-and-consumption-of-analytics-data-at-twitter)
 
 ### Uber
 
-https://www.uber.com/blog/introducing-workflowguard/
+[Introducing WorkflowGuard: The Workflow Governance and Observability System That Oversees over 120,000 Data Workflows](https://www.uber.com/blog/introducing-workflowguard/)
 
-https://www.uber.com/blog/crane-ubers-next-gen-infrastructure-stack/
+[Crane: Uber’s Next-Gen Infrastructure Stack](https://www.uber.com/blog/crane-ubers-next-gen-infrastructure-stack/)
 
-https://www.uber.com/blog/cost-efficiency-big-data/
+[Cost Efficiency @ Scale in Big Data File Format](https://www.uber.com/blog/cost-efficiency-big-data/)
 
-https://www.uber.com/blog/streaming-real-time-analytics/
+[Streaming Real-Time Analytics with Redis, AWS Fargate, and Dash Framework](https://www.uber.com/blog/streaming-real-time-analytics/)
 
-https://www.uber.com/blog/how-data-shapes-the-uber-rider-app/
+[How Data Shapes the Uber Rider App](https://www.uber.com/blog/how-data-shapes-the-uber-rider-app/)
 
-https://www.uber.com/blog/operational-excellence-data-quality/
+[How Uber Achieves Operational Excellence in the Data Quality Experience](https://www.uber.com/blog/operational-excellence-data-quality/)
 
-https://www.uber.com/blog/continuous-integration-deployment-ml/
+[Continuous Integration and Deployment for Machine Learning Online Serving and Models](https://www.uber.com/blog/continuous-integration-deployment-ml/)
 
-https://www.uber.com/blog/ubers-journey-toward-better-data-culture-from-first-principles/
+[Uber’s Journey Toward Better Data Culture From First Principles](https://www.uber.com/blog/ubers-journey-toward-better-data-culture-from-first-principles/)
 
-https://www.uber.com/blog/metadata-insights-databook/
+[Turning Metadata Into Insights with Databook](https://www.uber.com/blog/metadata-insights-databook/)
 
-https://www.uber.com/blog/monitoring-data-quality-at-scale/
+[Monitoring Data Quality at Scale with Statistical Modeling](https://www.uber.com/blog/monitoring-data-quality-at-scale/)
 
-https://www.uber.com/blog/uber-data-platform-2019/
+[Uber’s Data Platform in 2019: Transforming Information to Intelligence](https://www.uber.com/blog/uber-data-platform-2019/)
 
-https://www.uber.com/blog/solving-big-data-challenges-with-data-science-at-uber/
+[Solving Big Data Challenges with Data Science at Uber](https://www.uber.com/blog/solving-big-data-challenges-with-data-science-at-uber/)
 
-https://www.uber.com/blog/managing-data-workflows-at-scale/
+[Managing Uber’s Data Workflows at Scale](https://www.uber.com/blog/managing-data-workflows-at-scale/)
 
-https://www.uber.com/blog/databook/
+[Databook: Turning Big Data into Knowledge with Metadata at Uber](https://www.uber.com/blog/databook/)
 
-https://www.uber.com/blog/dsw/
+[Turbocharging Analytics at Uber with our Data Science Workbench](https://www.uber.com/blog/dsw/)
 
-https://www.uber.com/blog/michelangelo-machine-learning-platform/
+[Databook: Turning Big Data into Knowledge with Metadata at Uber](https://www.uber.com/blog/databook/)
 
-https://www.uber.com/blog/presto/
+[Engineering Data Analytics with Presto and Apache Parquet at Uber](https://www.uber.com/blog/presto/)
 
-https://www.uber.com/blog/engineering-routing-engine/
+[ETA Phone Home: How Uber Engineers an Efficient Route](https://www.uber.com/blog/engineering-routing-engine/)
 
-https://www.uber.com/blog/argos-real-time-alerts/
+[Identifying Outages with Argos, Uber Engineering’s Real-Time Monitoring and Root-Cause Exploration Tool](https://www.uber.com/blog/argos-real-time-alerts/)
 
-https://www.uber.com/blog/data-visualization-city-movement/
+[The Pulse of a City: How People Move Using Uber Engineering](https://www.uber.com/blog/data-visualization-city-movement/)
 
 ### VTS
 
@@ -663,25 +667,25 @@ https://www.uber.com/blog/data-visualization-city-movement/
 
 ### Zalando
 
-https://engineering.zalando.com/posts/2022/07/growth-engineering-at-zalando.html
+[Growth Engineering at Zalando](https://engineering.zalando.com/posts/2022/07/growth-engineering-at-zalando.html)
 
-https://engineering.zalando.com/posts/2022/06/accelerate-apache-airflow-testing-through-dag-versioning.html
+[Accelerate testing in Apache Airflow through DAG versioning](https://engineering.zalando.com/posts/2022/06/accelerate-apache-airflow-testing-through-dag-versioning.html)
 
-https://engineering.zalando.com/posts/2022/02/principal-engineering-at-zalando.html
+[Principal Engineering at Zalando](https://engineering.zalando.com/posts/2022/02/principal-engineering-at-zalando.html)
 
-https://engineering.zalando.com/posts/2021/11/technical-debt.html
+[A Systematic Approach to Reducing Technical Debt](https://engineering.zalando.com/posts/2021/11/technical-debt.html)
 
-https://engineering.zalando.com/posts/2019/01/product-playbook.html
+[The Product Playbook](https://engineering.zalando.com/posts/2019/01/product-playbook.html)
 
-https://engineering.zalando.com/posts/2018/10/four-pillars-leadership.html
+[Four Pillars Of Leading People](https://engineering.zalando.com/posts/2018/10/four-pillars-leadership.html)
 
-https://engineering.zalando.com/posts/2018/04/democratization-data-science.html
+[The Democratization of ‘Data Science As A Service’](https://engineering.zalando.com/posts/2018/04/democratization-data-science.html)
 
-https://engineering.zalando.com/posts/2018/04/discovering-design-sprints.html
+[Discovering Design Sprints](https://engineering.zalando.com/posts/2018/04/discovering-design-sprints.html)
 
-https://engineering.zalando.com/posts/2018/03/data-analysis-spark.html
+[Data Analysis with Spark](https://engineering.zalando.com/posts/2018/03/data-analysis-spark.html)
 
-https://engineering.zalando.com/posts/2017/11/dedicated-ownership-for-teams-at-zalon.html
+[Dedicated Ownership for Teams at Zalon](https://engineering.zalando.com/posts/2017/11/dedicated-ownership-for-teams-at-zalon.html)
 
 ### Zapier
 
