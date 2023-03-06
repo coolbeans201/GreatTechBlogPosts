@@ -1,4 +1,4 @@
-# GreatTechBlogPosts
+# Great Tech Blog Posts From Companies
 A collection of my favorite tech-related blog posts from companies.
 
 **Note: I am a Data Engineer, so the majority of these links will be data-related. However, there are plenty of general ones in here as well. I do plan on organizing this better in the future (or if someone wants to take a crack at it, be my guest :))**
