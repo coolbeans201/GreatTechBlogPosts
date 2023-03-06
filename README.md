@@ -9,15 +9,15 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### HelloFresh
 
-https://engineering.hellofresh.com/how-hellotechs-working-and-knowledge-sharing-culture-supports-a-company-on-scale-cb37f1901947
+[How HelloTech’s working and knowledge sharing culture supports a company on scale](https://engineering.hellofresh.com/how-hellotechs-working-and-knowledge-sharing-culture-supports-a-company-on-scale-cb37f1901947)
 
-https://engineering.hellofresh.com/slos-for-everyone-with-sloth-1704009b20a2
+[SLOs for everyone with Sloth](https://engineering.hellofresh.com/slos-for-everyone-with-sloth-1704009b20a2)
 
 ### LinkedIn
 
-https://engineering.linkedin.com/blog/2022/super-tables--the-road-to-building-reliable-and-discoverable-dat
+[Super Tables: The road to building reliable and discoverable data products](https://engineering.linkedin.com/blog/2022/super-tables--the-road-to-building-reliable-and-discoverable-dat)
 
-https://engineering.linkedin.com/blog/2022/open-sourcing-venice--linkedin-s-derived-data-platform
+[Open Sourcing Venice – LinkedIn’s Derived Data Platform](https://engineering.linkedin.com/blog/2022/open-sourcing-venice--linkedin-s-derived-data-platform)
 
 ### Shopify
 
@@ -157,31 +157,29 @@ https://tech.nextroll.com/blog/costs/2020/07/01/coordinated-cost-savings.html
 
 ### Xandr-Tech
 
-https://medium.com/xandr-tech/knowledge-transfer-in-engineering-both-a-challenge-and-an-opportunity-44c78fa43258
+[Knowledge Transfer in Engineering: How to make it go smoothly](https://medium.com/xandr-tech/knowledge-transfer-in-engineering-both-a-challenge-and-an-opportunity-44c78fa43258)
 
 ### Atomic Object
 
-https://spin.atomicobject.com/2023/01/04/spiking-phase-agile-development/
-
+[The Benefits of a Spiking Phase in Agile Development](https://spin.atomicobject.com/2023/01/04/spiking-phase-agile-development/)
 
 ### Zumba
 
-https://medium.com/zumba-tech/learning-to-be-a-tech-lead-cc2fa870214d
-
+[Learning to Be a Tech Lead](https://medium.com/zumba-tech/learning-to-be-a-tech-lead-cc2fa870214d)
 
 ### Zomato
 
-https://www.zomato.com/blog/food-preparation-time
+[The Deep Tech Behind Estimating Food Preparation Time](https://www.zomato.com/blog/food-preparation-time)
 
 ### Zillow
 
-https://www.zillow.com/tech/building-a-data-streaming-platform/
+[Building a Data Streaming Platform - How Zillow Sends Data to its Data Lake](https://www.zillow.com/tech/building-a-data-streaming-platform/)
 
-https://www.zillow.com/tech/airflow-at-zillow/
+[Airflow at Zillow: Easily Authoring and Managing ETL Pipelines](https://www.zillow.com/tech/airflow-at-zillow/)
 
 ### Zapier
 
-https://zapier.com/engineering/estimating/
+[Thinking Fast and Estimating Wrong](https://zapier.com/engineering/estimating/)
 
 ### Zalando
 
@@ -207,27 +205,27 @@ https://engineering.zalando.com/posts/2017/11/dedicated-ownership-for-teams-at-z
 
 ### Wepay
 
-https://wecode.wepay.com/posts/effective-software-design-documents
+[Effective Software Design Documents](https://wecode.wepay.com/posts/effective-software-design-documents)
 
-https://wecode.wepay.com/posts/improving-airflow-ui-security
+[Improving Airflow UI Security](https://wecode.wepay.com/posts/improving-airflow-ui-security)
 
 ### Wealthfront
 
-https://eng.wealthfront.com/2021/02/26/rolling-back-an-airflow-upgrade/
+[Rolling Back an Airflow Upgrade](https://eng.wealthfront.com/2021/02/26/rolling-back-an-airflow-upgrade/)
 
 ### Wayfair
 
-https://www.aboutwayfair.com/careers/tech-blog/introducing-our-machine-learning-and-data-platforms-team
+[Introducing our Machine Learning and Data Platforms Team](https://www.aboutwayfair.com/careers/tech-blog/introducing-our-machine-learning-and-data-platforms-team)
 
-https://www.aboutwayfair.com/careers/tech-blog/enabling-supplier-sales-through-real-time-data
+[Enabling Supplier Sales Through Real-time Data](https://www.aboutwayfair.com/careers/tech-blog/enabling-supplier-sales-through-real-time-data)
 
 ### VTS
 
-https://buildingvts.com/designing-for-data-e3758fb2dd2a
+[Designing for Data](https://buildingvts.com/designing-for-data-e3758fb2dd2a)
 
 ### Twitch
 
-https://blog.twitch.tv/en/2015/12/18/twitch-engineering-an-introduction-and-overview-a23917b71a25/
+[Twitch Engineering: An Introduction and Overview](https://blog.twitch.tv/en/2015/12/18/twitch-engineering-an-introduction-and-overview-a23917b71a25/)
 
 ### Twitter
 
@@ -269,15 +267,15 @@ https://tech.trivago.com/post/2015-08-31-culture_of_quality/
 
 ### Toptal
 
-https://www.toptal.com/big-data/ksqldb-kubernetes-tutorial
+[Big Data Architecture for the Masses: A ksqlDB and Kubernetes Tutorial](https://www.toptal.com/big-data/ksqldb-kubernetes-tutorial)
 
 ### Timescale
 
-https://www.timescale.com/blog/database-management-behind-the-scenes-lessons-from-a-data-architect/
+[Database Management: Behind-the-Scenes Lessons From a Data Architect](https://www.timescale.com/blog/database-management-behind-the-scenes-lessons-from-a-data-architect/)
 
 ### Thoughtworks
 
-https://www.thoughtworks.com/insights/blog/making-data-dream-reality
+[Making the data dream a reality](https://www.thoughtworks.com/insights/blog/making-data-dream-reality)
 
 ### Target
 
