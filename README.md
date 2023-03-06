@@ -23,101 +23,101 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### BBC
 
-[Quality engineering for a shared codebase](https://medium.com/bbc-product-technology/quality-engineering-for-a-shared-codebase-f0ee6eb24d63)
+[Quality engineering for a shared codebase](https://medium.com/bbc-product-technology/quality-engineering-for-a-shared-codebase-f0ee6eb24d63) - Quality engineering is always an important topic.
 
 ### Babbel
 
-[Should you move into management as a software engineer?](https://www.babbel.com/en/magazine/should-you-move-into-management-as-a-software-engineer)
+[Should you move into management as a software engineer?](https://www.babbel.com/en/magazine/should-you-move-into-management-as-a-software-engineer) - Crossing over into management from the engineering world is a difficult choice but usually has to be made at some point.
 
-[AWS Fargate for Data Engineering](https://www.babbel.com/en/magazine/aws-fargate-for-data-engineering)
+[AWS Fargate for Data Engineering](https://www.babbel.com/en/magazine/aws-fargate-for-data-engineering) - Fargate is still a relevant processor for big data jobs.
 
-[How to Fight Retrospective Fatigue](https://www.babbel.com/en/magazine/how-to-fight-retrospective-fatigue)
+[How to Fight Retrospective Fatigue](https://www.babbel.com/en/magazine/how-to-fight-retrospective-fatigue) - Retrospectives are an important part of any sprint review and should be done properly.
 
-[Evolution of Babbel’s data pipeline on AWS: from SQS to Kinesis](https://www.babbel.com/en/magazine/evolution-of-babbels-data-pipeline-on-aws-from-sqs-to-kinesis)
+[Evolution of Babbel’s data pipeline on AWS: from SQS to Kinesis](https://www.babbel.com/en/magazine/evolution-of-babbels-data-pipeline-on-aws-from-sqs-to-kinesis) - A good luck at the evolution of a data platform.
 
 ### Benchling
 
-[Evolving to Enterprise-Grade Permissions](https://benchling.engineering/evolving-to-enterprise-grade-permissions-493eac166449)
+[Evolving to Enterprise-Grade Permissions](https://benchling.engineering/evolving-to-enterprise-grade-permissions-493eac166449) - The principle of least access can never be mentioned enough.
 
 ### Bigeng
 
-[Why the way we look at technical debt is wrong](https://www.bigeng.io/why-the-way-we-look-at-technical-debt-is-wrong/)
+[Why the way we look at technical debt is wrong](https://www.bigeng.io/why-the-way-we-look-at-technical-debt-is-wrong/) - Tech debt needs to be accepted and not be viewed as a negative.
 
 ### Booking
 
-[How Reliability and Product Teams Collaborate at Booking.com](https://medium.com/booking-com-infrastructure/how-reliability-and-product-teams-collaborate-at-booking-com-f6c317cc0aeb)
+[How Reliability and Product Teams Collaborate at Booking.com](https://medium.com/booking-com-infrastructure/how-reliability-and-product-teams-collaborate-at-booking-com-f6c317cc0aeb) - Collaborating with the product team needs to become more commonplace for development teams.
 
-[What can Dungeons & Dragons teach us about User Experience?](https://medium.com/booking-writes/what-can-dungeons-dragons-teach-us-about-user-experience-be9840966875)
+[What can Dungeons & Dragons teach us about User Experience?](https://medium.com/booking-writes/what-can-dungeons-dragons-teach-us-about-user-experience-be9840966875) - A very good analogy about UX.
 
-[Empowering Data with Design](https://booking.design/empowering-data-with-design-f6cec4e35cd)
+[Empowering Data with Design](https://booking.design/empowering-data-with-design-f6cec4e35cd) - A post stressing the importance of visualization.
 
 ### Bumble
 
-[Hourglass into Pyramid: how you can improve the structure of your tests](https://medium.com/bumble-tech/hourglass-into-pyramid-ccf4b4da7785)
+[Hourglass into Pyramid: how you can improve the structure of your tests](https://medium.com/bumble-tech/hourglass-into-pyramid-ccf4b4da7785) - E2E testing needs to stop being an afterthought and part of the actual development process.
 
 ### Canva
 
-[Service-aligned Data Platform Architecture](https://canvatechblog.com/service-aligned-data-platform-architecture-6b5a6fc366c4)
+[Service-aligned Data Platform Architecture](https://canvatechblog.com/service-aligned-data-platform-architecture-6b5a6fc366c4) - A good overview of Canvas's data platform and CDC.
 
 ### Chick-fil-A
 
-[Enterprise Architecture at Chick-fil-A](https://medium.com/chick-fil-atech/enterprise-architecture-at-chick-fil-a-41bc263cf81d)
+[Enterprise Architecture at Chick-fil-A](https://medium.com/chick-fil-atech/enterprise-architecture-at-chick-fil-a-41bc263cf81d) - A great view of how important architecture can be in the restaurant industry.
 
-[Site Reliability Engineering at Chick-fil-A](https://medium.com/chick-fil-atech/site-reliability-engineering-at-chick-fil-a-1e7239da7711)
+[Site Reliability Engineering at Chick-fil-A](https://medium.com/chick-fil-atech/site-reliability-engineering-at-chick-fil-a-1e7239da7711) - An interesting overview of SRE with CFA.
 
-[Decentralized Model Ops Platform w/ Apache Airflow](https://medium.com/chick-fil-atech/decentralized-model-ops-platform-w-apache-airflow-5c08fc4745ad)
+[Decentralized Model Ops Platform w/ Apache Airflow](https://medium.com/chick-fil-atech/decentralized-model-ops-platform-w-apache-airflow-5c08fc4745ad) - A good overview of how Airflow is used to power MLOps at CFA.
 
 ### Clever
 
-[Defining Clever’s Engineering Culture](https://engineering.clever.com/2017/09/06/defining-clevers-engineering-culture/)
+[Defining Clever’s Engineering Culture](https://engineering.clever.com/2017/09/06/defining-clevers-engineering-culture/) - The principles mentioned in this engineering culture should be the standard.
 
 ### Cloudbees
 
-[DevOps Best Practices: Opinionated Software That Drives a Successful DevOps Culture](https://www.cloudbees.com/blog/devops-best-practices)
+[DevOps Best Practices: Opinionated Software That Drives a Successful DevOps Culture](https://www.cloudbees.com/blog/devops-best-practices) - A solid collection of best practices when it comes to DevOps.
 
-[DevOps Has Evolved Beyond Shift Left](https://www.cloudbees.com/blog/shift-left-done-right)
+[DevOps Has Evolved Beyond Shift Left](https://www.cloudbees.com/blog/shift-left-done-right) - Shift left isn't enough when it comes to DevOps and other key practices. Time to think bigger.
 
 ### CockroachDB
 
-[What is data partitioning, and how to do it right](https://www.cockroachlabs.com/blog/what-is-data-partitioning-and-how-to-do-it-right/)
+[What is data partitioning, and how to do it right](https://www.cockroachlabs.com/blog/what-is-data-partitioning-and-how-to-do-it-right/) - Partitioning can make or break data applications, so it's important to know how to set it up properly.
 
 ### Codelitt
 
-[Establishing Communication](https://blog.codelitt.com/establishing-communication/)
+[Establishing Communication](https://blog.codelitt.com/establishing-communication/) - A good post on the importance of communication in effective graphic design.
 
 ### Commercetools
 
-[Product & Tech — Better Together!](https://techblog.commercetools.com/product-tech-better-together-7d8ced10d83f)
+[Product & Tech — Better Together!](https://techblog.commercetools.com/product-tech-better-together-7d8ced10d83f) - Another post stressing the importance of the interaction between tech and product teams.
 
-[Staff and Principal Engineers: why do we need them now? (Part 2)](https://techblog.commercetools.com/staff-and-principal-engineers-why-do-we-need-them-now-part-2-a6dcf2d6ad34)
+[Staff and Principal Engineers: why do we need them now? (Part 2)](https://techblog.commercetools.com/staff-and-principal-engineers-why-do-we-need-them-now-part-2-a6dcf2d6ad34) - Principal/staff engineers are paramount to larger organizations, so this was a good summary of how they made a difference at Commercetools.
 
-[How we Roadmap in 2021](https://techblog.commercetools.com/how-we-roadmap-in-2021-d024a4c6b180)
+[How we Roadmap in 2021](https://techblog.commercetools.com/how-we-roadmap-in-2021-d024a4c6b180) - Effective roadmapping makes the Agile process a lot easier than it tends to be.
 
-[It’s done! Or is it?](https://techblog.commercetools.com/its-done-or-is-it-9fe91b9a6981)
+[It’s done! Or is it?](https://techblog.commercetools.com/its-done-or-is-it-9fe91b9a6981) - A proper definition of done allows there never to be any guesswork when it comes to sprint planning.
 
 ### Confluent
 
-[Is Apache Kafka a Database? With ksqlDB, Most Definitely](https://www.confluent.io/blog/is-kafka-a-database-with-ksqldb/)
+[Is Apache Kafka a Database? With ksqlDB, Most Definitely](https://www.confluent.io/blog/is-kafka-a-database-with-ksqldb/) - A good overview of ksql and how it compares to traditional databases.
 
 ### Credit Karma
 
-[Effectively attending a tech conference](https://engineering.creditkarma.com/effectively-attending-a-tech-conference)
+[Effectively attending a tech conference](https://engineering.creditkarma.com/effectively-attending-a-tech-conference) - Making the most out of a tech conference is harder than it seems.
 
-[Credit Karma Data Explorer](https://engineering.creditkarma.com/credit-karma-data-explorer)
+[Credit Karma Data Explorer](https://engineering.creditkarma.com/credit-karma-data-explorer) - A good overview of how Credit Karma is making data discovery easier.
 
-[How Engineering Rotation Programs Can Help Teams Scale](https://engineering.creditkarma.com/how-engineering-rotation-programs-can-help-teams-scale)
+[How Engineering Rotation Programs Can Help Teams Scale](https://engineering.creditkarma.com/how-engineering-rotation-programs-can-help-teams-scale) - As someone who started out in a rotational program, these can be really effective for raising the future of your workforce.
 
 ### Criteo
 
-[How Much Can Bad Data Cost Us?](https://medium.com/criteo-engineering/how-much-can-bad-data-cost-us-9b12a3939170)
+[How Much Can Bad Data Cost Us?](https://medium.com/criteo-engineering/how-much-can-bad-data-cost-us-9b12a3939170) - Bad data has many side effects, and that is why data quality is a fight you must always take on.
 
-[DataDoc — The Criteo Data Observability Platform](https://medium.com/criteo-engineering/datadoc-the-criteo-data-observability-platform-2cd826a9a1af)
+[DataDoc — The Criteo Data Observability Platform](https://medium.com/criteo-engineering/datadoc-the-criteo-data-observability-platform-2cd826a9a1af) - A wonderful overview of an effective data observability platform and how it met all of its use cases. 
 
-[Technical Data Roadmap: Why and how to build it using a maturity matrix?](https://medium.com/criteo-engineering/technical-data-roadmap-why-and-how-to-build-it-using-a-maturity-matrix-7fa4acb8cc77)
+[Technical Data Roadmap: Why and how to build it using a maturity matrix?](https://medium.com/criteo-engineering/technical-data-roadmap-why-and-how-to-build-it-using-a-maturity-matrix-7fa4acb8cc77) - An effective technique for successful roadmapping.
 
-[Big Data Quality at Criteo](https://medium.com/criteo-engineering/big-data-quality-at-criteo-66c6bd0d42d8)
+[Big Data Quality at Criteo](https://medium.com/criteo-engineering/big-data-quality-at-criteo-66c6bd0d42d8) - You can never mention data quality enough.
 
-[Data Governance at Criteo](https://medium.com/criteo-engineering/data-governance-at-criteo-e13b4d5047a1)
+[Data Governance at Criteo](https://medium.com/criteo-engineering/data-governance-at-criteo-e13b4d5047a1) - A good overview of how an effective data governance process can be set in place.
 
 ### D2iq
 
