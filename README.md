@@ -153,19 +153,35 @@ https://www.uber.com/blog/data-visualization-city-movement/
 
 https://tech.nextroll.com/blog/costs/2020/07/01/coordinated-cost-savings.html
 
+### Xandr-Tech
+
 https://medium.com/xandr-tech/knowledge-transfer-in-engineering-both-a-challenge-and-an-opportunity-44c78fa43258
+
+### Atomic Object
 
 https://spin.atomicobject.com/2023/01/04/spiking-phase-agile-development/
 
+
+### Zumba
+
 https://medium.com/zumba-tech/learning-to-be-a-tech-lead-cc2fa870214d
 
+
+### Zomato
+
 https://www.zomato.com/blog/food-preparation-time
+
+### Zillow
 
 https://www.zillow.com/tech/building-a-data-streaming-platform/
 
 https://www.zillow.com/tech/airflow-at-zillow/
 
+### Zapier
+
 https://zapier.com/engineering/estimating/
+
+### Zalando
 
 https://engineering.zalando.com/posts/2022/07/growth-engineering-at-zalando.html
 
@@ -187,19 +203,31 @@ https://engineering.zalando.com/posts/2018/03/data-analysis-spark.html
 
 https://engineering.zalando.com/posts/2017/11/dedicated-ownership-for-teams-at-zalon.html
 
+### Wepay
+
 https://wecode.wepay.com/posts/effective-software-design-documents
 
 https://wecode.wepay.com/posts/improving-airflow-ui-security
 
+### Wealthfront
+
 https://eng.wealthfront.com/2021/02/26/rolling-back-an-airflow-upgrade/
+
+### Wayfair
 
 https://www.aboutwayfair.com/careers/tech-blog/introducing-our-machine-learning-and-data-platforms-team
 
 https://www.aboutwayfair.com/careers/tech-blog/enabling-supplier-sales-through-real-time-data
 
+### VTS
+
 https://buildingvts.com/designing-for-data-e3758fb2dd2a
 
+### Twitch
+
 https://blog.twitch.tv/en/2015/12/18/twitch-engineering-an-introduction-and-overview-a23917b71a25/
+
+### Twitter
 
 https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/data-quality-automation-at-twitter
 
@@ -229,29 +257,45 @@ https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infras
 
 https://blog.twitter.com/engineering/en_us/topics/insights/2016/discovery-and-consumption-of-analytics-data-at-twitter
 
+### Trivago
+
 https://tech.trivago.com/post/2022-07-18-sre-on-call-procedure-at-trivago/
 
 https://tech.trivago.com/post/2021-05-17-remasteringguildsafterfiveyears/
 
 https://tech.trivago.com/post/2015-08-31-culture_of_quality/
 
+### Toptal
+
 https://www.toptal.com/big-data/ksqldb-kubernetes-tutorial
+
+### Timescale
 
 https://www.timescale.com/blog/database-management-behind-the-scenes-lessons-from-a-data-architect/
 
+### Thoughtworks
+
 https://www.thoughtworks.com/insights/blog/making-data-dream-reality
+
+### Target
 
 https://tech.target.com/blog/chaos-leads-to-resilience
 
 https://tech.target.com/blog/review-scrutiny
 
+### Stride
+
 https://www.stridenyc.com/blog/what-is-devops
 
 https://www.stridenyc.com/blog/how-to-create-core-values-that-stick
 
+### Stitchfix
+
 https://multithreaded.stitchfix.com/blog/2022/03/14/spark-eks/
 
 https://multithreaded.stitchfix.com/blog/2021/02/09/aggressively-helpful-platform-teams/
+
+### Stack Overflow
 
 https://stackoverflow.blog/2019/10/23/why-devs-should-like-estimates/
 
@@ -259,11 +303,15 @@ https://stackoverflow.blog/2015/09/18/culture-of-trust/
 
 https://stackoverflow.blog/2015/08/07/developer-turned-manager/
 
+### Squarespace
+
 https://engineering.squarespace.com/blog/2019/code-review-culture-part-1
 
 https://engineering.squarespace.com/blog/2019/code-review-culture-part-2
 
 https://engineering.squarespace.com/blog/2016/date-traceability-and-lineage
+
+### Soundcloud
 
 https://developers.soundcloud.com/blog/building-a-healthy-on-call-culture
 
@@ -273,13 +321,19 @@ https://developers.soundcloud.com/blog/getting-a-team-back-on-track
 
 https://developers.soundcloud.com/blog/a-better-model-of-data-ownership
 
+### Skyscanner
+
 https://medium.com/@SkyscannerEng/automating-cloud-governance-at-scale-895695fe4a1f
 
 https://medium.com/@SkyscannerEng/using-engineering-principles-to-create-autonomous-teams-at-scale-a73120c4e252
 
 https://medium.com/@SkyscannerEng/monoliths-and-microservices-8c65708c3dbf
 
+### Sky Betting and Gambling
+
 https://sbg.technology/2016/04/08/team-size-and-why-it-matters/
+
+### REA Group
 
 https://www.rea-group.com/about-us/news-and-insights/blog/accelerating-experimentation-with-mlops/
 
@@ -291,7 +345,11 @@ https://www.rea-group.com/about-us/news-and-insights/blog/reflections-on-designi
 
 https://www.rea-group.com/about-us/news-and-insights/blog/the-ops-dojo/
 
+### Quora
+
 https://quoraengineering.quora.com/Trino-at-Quora-Scale-Cost-Speed-and-Reliability
+
+### Postman
 
 https://medium.com/better-practices/how-and-why-postman-created-a-data-driven-hiring-process-d2269a025ae6
 
@@ -299,9 +357,13 @@ https://medium.com/better-practices/the-postman-data-teams-hub-and-spoke-model-6
 
 https://medium.com/better-practices/how-postman-does-data-democratization-6aec096dc9bf
 
+### Pinterest
+
 https://medium.com/pinterest-engineering/improving-efficiency-and-reducing-runtime-using-s3-read-optimization-b31da4b60fa0
 
 https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be
+
+### Paypal
 
 https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522
 
@@ -311,13 +373,21 @@ https://medium.com/paypal-tech/the-journey-of-metadata-at-paypal-c374ac66e2e6
 
 https://medium.com/paypal-tech/gimel-paypals-analytics-data-processing-platform-22ec5890f4af
 
+### Nextdoor
+
 https://engblog.nextdoor.com/engineering-principles-at-nextdoor-e82743b2ef2f
 
+### NYT
+
 https://open.nytimes.com/congrats-youre-on-call-now-what-8d36c5ad60aa
+
+### D2iq
 
 https://d2iq.com/blog/all-together-finops-kubernetes-platform-engineering
 
 https://d2iq.com/blog/the-best-way-to-control-kubernetes-and-cloud-costs
+
+### Lyft
 
 https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a2821
 
@@ -325,25 +395,43 @@ https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platfo
 
 https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff
 
+### Linecorp
+
 https://engineering.linecorp.com/en/blog/data-lineage-on-line-big-data-platform
 
+### Instacart
+
 https://tech.instacart.com/building-for-balance-e61fb9511893
+
+### Expedia
 
 https://medium.com/expedia-group-tech/software-architectural-patterns-in-data-engineering-5d3bf22106a0
 
 https://medium.com/expedia-group-tech/rethinking-data-visualization-39e105cca4e8
 
+### Helpshift
+
 https://medium.com/helpshift-engineering/building-a-data-warehouse-with-hive-at-helpshift-part-1-443046df6484
+
+### Heap
 
 https://www.heap.io/blog/how-i-learned-to-stop-worrying-and-love-tech-debt
 
+### Hashnode
+
 https://engineering.hashnode.com/how-to-build-event-driven-architecture-on-aws
 
+### Haptik
+
 https://www.haptik.ai/tech/k8s-prod-best-practices
+
+### Gusto
 
 https://engineering.gusto.com/the-accidental-tech-lead/
 
 https://engineering.gusto.com/cultivating-engineering-growth-2/
+
+### Grab
 
 https://engineering.grab.com/how-we-store-millions-orders
 
@@ -353,6 +441,8 @@ https://engineering.grab.com/real-time-data-ingestion
 
 https://engineering.grab.com/trident-real-time-event-processing-at-scale
 
+### Gamechanger
+
 https://tech.gc.com/apache-airflow-on-aws-ecs/
 
 https://tech.gc.com/let-me-automate-that-for-you/
@@ -361,11 +451,17 @@ https://tech.gc.com/data-interruption-process/
 
 https://tech.gc.com/what-good-engineers-do/
 
+### Fynd
+
 https://blog.gofynd.com/introducing-developer-less-data-workbench-making-business-analysts-masters-of-the-data-9eee49601d52
+
+### Future Processing
 
 https://www.future-processing.com/blog/data-science-and-data-analytics-know-the-difference/
 
 https://www.future-processing.com/blog/7-common-big-data-security-issues/
+
+### Facebook/Meta
 
 https://engineering.fb.com/2022/11/30/data-infrastructure/static-analysis-sql-queries/
 
@@ -405,9 +501,15 @@ https://engineering.fb.com/2010/12/15/core-data/join-optimization-in-apache-hive
 
 https://engineering.fb.com/2008/08/20/core-data/scaling-out/
 
+### Etsy
+
 https://www.etsy.com/codeascraft/towards-machine-learning-observability-at-etsy
 
+### Entelo
+
 https://engineering.entelo.com/why-you-should-make-everyone-a-project-lead-f167472b580d
+
+### Dropbox
 
 https://dropbox.tech/infrastructure/balancing-quality-and-coverage-with-our-data-validation-framework
 
@@ -415,17 +517,23 @@ https://dropbox.tech/application/why-we-chose-apache-superset-as-our-data-explor
 
 https://dropbox.tech/infrastructure/lessons-learned-in-incident-management
 
+### Doximity
+
 https://technology.doximity.com/articles/finding-joy-in-git-conflict-resolution
 
 https://technology.doximity.com/articles/data-science-analytics-practitioner-insights
 
 https://technology.doximity.com/articles/stars-and-dimensions
 
+### Deliveroo
+
 https://deliveroo.engineering/2022/01/19/the-emergence-and-evolution-of-analytics-engineering-at-deliveroo.html
 
 https://deliveroo.engineering/2020/01/02/CloudFormation-To-Terraform.html
 
 https://deliveroo.engineering/2017/06/15/data-sink.html
+
+### Criteo
 
 https://medium.com/criteo-engineering/how-much-can-bad-data-cost-us-9b12a3939170
 
@@ -437,13 +545,19 @@ https://medium.com/criteo-engineering/big-data-quality-at-criteo-66c6bd0d42d8
 
 https://medium.com/criteo-engineering/data-governance-at-criteo-e13b4d5047a1
 
+### Credit Karma
+
 https://engineering.creditkarma.com/effectively-attending-a-tech-conference
 
 https://engineering.creditkarma.com/credit-karma-data-explorer
 
 https://engineering.creditkarma.com/how-engineering-rotation-programs-can-help-teams-scale
 
+### Confluent
+
 https://www.confluent.io/blog/is-kafka-a-database-with-ksqldb/
+
+### Commercetools
 
 https://techblog.commercetools.com/product-tech-better-together-7d8ced10d83f
 
@@ -453,17 +567,29 @@ https://techblog.commercetools.com/how-we-roadmap-in-2021-d024a4c6b180
 
 https://techblog.commercetools.com/its-done-or-is-it-9fe91b9a6981
 
+### Cloudbees
+
 https://www.cloudbees.com/blog/devops-best-practices
 
 https://www.cloudbees.com/blog/shift-left-done-right
 
+### Codelitt
+
 https://blog.codelitt.com/establishing-communication/
+
+### CockroachDB
 
 https://www.cockroachlabs.com/blog/what-is-data-partitioning-and-how-to-do-it-right/
 
+### Clever
+
 https://engineering.clever.com/2017/09/06/defining-clevers-engineering-culture/
 
+### Canva
+
 https://canvatechblog.com/service-aligned-data-platform-architecture-6b5a6fc366c4
+
+### Booking
 
 https://medium.com/booking-com-infrastructure/how-reliability-and-product-teams-collaborate-at-booking-com-f6c317cc0aeb
 
@@ -471,13 +597,23 @@ https://medium.com/booking-writes/what-can-dungeons-dragons-teach-us-about-user-
 
 https://booking.design/empowering-data-with-design-f6cec4e35cd
 
+### Bigeng
+
 https://www.bigeng.io/why-the-way-we-look-at-technical-debt-is-wrong/
+
+### Benchling
 
 https://benchling.engineering/evolving-to-enterprise-grade-permissions-493eac166449
 
+### BBC
+
 https://medium.com/bbc-product-technology/quality-engineering-for-a-shared-codebase-f0ee6eb24d63
 
+### Bumble
+
 https://medium.com/bumble-tech/hourglass-into-pyramid-ccf4b4da7785
+
+### Babbel
 
 https://www.babbel.com/en/magazine/should-you-move-into-management-as-a-software-engineer
 
