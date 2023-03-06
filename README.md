@@ -9,17 +9,17 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### Airbnb
 
-[Data Quality at Airbnb](https://medium.com/airbnb-engineering/data-quality-at-airbnb-e582465f3ef7)
+[Data Quality at Airbnb](https://medium.com/airbnb-engineering/data-quality-at-airbnb-e582465f3ef7) - The gold standard when it comes to data quality and how it should be followed.
 
-[Visualizing Data Timeliness at Airbnb](https://medium.com/airbnb-engineering/visualizing-data-timeliness-at-airbnb-ee638fdf4710)
+[Visualizing Data Timeliness at Airbnb](https://medium.com/airbnb-engineering/visualizing-data-timeliness-at-airbnb-ee638fdf4710) - Having the insight to properly track SLAs is helpful for the operational side of things.
 
-[Achieving Insights and Savings with Cost Data](https://medium.com/airbnb-engineering/achieving-insights-and-savings-with-cost-data-ec9a49fd74bc)
+[Achieving Insights and Savings with Cost Data](https://medium.com/airbnb-engineering/achieving-insights-and-savings-with-cost-data-ec9a49fd74bc) - Cost dashboards are a big one to identify the biggest pain points for a team.
 
-[How Airbnb Built “Wall” to prevent data bugs](https://medium.com/airbnb-engineering/how-airbnb-built-wall-to-prevent-data-bugs-ad1b081d6e8f)
+[How Airbnb Built “Wall” to prevent data bugs](https://medium.com/airbnb-engineering/how-airbnb-built-wall-to-prevent-data-bugs-ad1b081d6e8f) - A great framework for holding up data quality.
 
 ### Atomic Object
 
-[The Benefits of a Spiking Phase in Agile Development](https://spin.atomicobject.com/2023/01/04/spiking-phase-agile-development/)
+[The Benefits of a Spiking Phase in Agile Development](https://spin.atomicobject.com/2023/01/04/spiking-phase-agile-development/) - How spiking helps for proper planning in Agile.
 
 ### BBC
 
