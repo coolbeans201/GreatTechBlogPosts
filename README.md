@@ -45,11 +45,11 @@ https://www.babbel.com/en/magazine/evolution-of-babbels-data-pipeline-on-aws-fro
 
 ### Booking
 
-https://medium.com/booking-com-infrastructure/how-reliability-and-product-teams-collaborate-at-booking-com-f6c317cc0aeb
+[How Reliability and Product Teams Collaborate at Booking.com](https://medium.com/booking-com-infrastructure/how-reliability-and-product-teams-collaborate-at-booking-com-f6c317cc0aeb)
 
-https://medium.com/booking-writes/what-can-dungeons-dragons-teach-us-about-user-experience-be9840966875
+[What can Dungeons & Dragons teach us about User Experience?](https://medium.com/booking-writes/what-can-dungeons-dragons-teach-us-about-user-experience-be9840966875)
 
-https://booking.design/empowering-data-with-design-f6cec4e35cd
+[Empowering Data with Design](https://booking.design/empowering-data-with-design-f6cec4e35cd)
 
 ### Bumble
 
@@ -61,11 +61,11 @@ https://booking.design/empowering-data-with-design-f6cec4e35cd
 
 ### Chick-fil-A
 
-https://medium.com/chick-fil-atech/enterprise-architecture-at-chick-fil-a-41bc263cf81d
+[Enterprise Architecture at Chick-fil-A](https://medium.com/chick-fil-atech/enterprise-architecture-at-chick-fil-a-41bc263cf81d)
 
-https://medium.com/chick-fil-atech/site-reliability-engineering-at-chick-fil-a-1e7239da7711
+[Site Reliability Engineering at Chick-fil-A](https://medium.com/chick-fil-atech/site-reliability-engineering-at-chick-fil-a-1e7239da7711)
 
-https://medium.com/chick-fil-atech/decentralized-model-ops-platform-w-apache-airflow-5c08fc4745ad
+[Decentralized Model Ops Platform w/ Apache Airflow](https://medium.com/chick-fil-atech/decentralized-model-ops-platform-w-apache-airflow-5c08fc4745ad)
 
 ### Clever
 
@@ -73,9 +73,9 @@ https://medium.com/chick-fil-atech/decentralized-model-ops-platform-w-apache-air
 
 ### Cloudbees
 
-https://www.cloudbees.com/blog/devops-best-practices
+[DevOps Best Practices: Opinionated Software That Drives a Successful DevOps Culture](https://www.cloudbees.com/blog/devops-best-practices)
 
-https://www.cloudbees.com/blog/shift-left-done-right
+[DevOps Has Evolved Beyond Shift Left](https://www.cloudbees.com/blog/shift-left-done-right)
 
 ### CockroachDB
 
@@ -101,11 +101,11 @@ https://techblog.commercetools.com/its-done-or-is-it-9fe91b9a6981
 
 ### Credit Karma
 
-https://engineering.creditkarma.com/effectively-attending-a-tech-conference
+[Effectively attending a tech conference](https://engineering.creditkarma.com/effectively-attending-a-tech-conference)
 
-https://engineering.creditkarma.com/credit-karma-data-explorer
+[Credit Karma Data Explorer](https://engineering.creditkarma.com/credit-karma-data-explorer)
 
-https://engineering.creditkarma.com/how-engineering-rotation-programs-can-help-teams-scale
+[How Engineering Rotation Programs Can Help Teams Scale](https://engineering.creditkarma.com/how-engineering-rotation-programs-can-help-teams-scale)
 
 ### Criteo
 
@@ -121,25 +121,25 @@ https://medium.com/criteo-engineering/data-governance-at-criteo-e13b4d5047a1
 
 ### D2iq
 
-https://d2iq.com/blog/all-together-finops-kubernetes-platform-engineering
+[All Together Now: FinOps, Kubernetes, and Platform Engineering](https://d2iq.com/blog/all-together-finops-kubernetes-platform-engineering)
 
-https://d2iq.com/blog/the-best-way-to-control-kubernetes-and-cloud-costs
+[The Best Way to Control Kubernetes and Cloud Costs](https://d2iq.com/blog/the-best-way-to-control-kubernetes-and-cloud-costs)
 
 ### Deliveroo
 
-https://deliveroo.engineering/2022/01/19/the-emergence-and-evolution-of-analytics-engineering-at-deliveroo.html
+[The Emergence and Evolution of Analytics Engineering at Deliveroo](https://deliveroo.engineering/2022/01/19/the-emergence-and-evolution-of-analytics-engineering-at-deliveroo.html)
 
-https://deliveroo.engineering/2020/01/02/CloudFormation-To-Terraform.html
+[CloudFormation To Terraform](https://deliveroo.engineering/2020/01/02/CloudFormation-To-Terraform.html)
 
-https://deliveroo.engineering/2017/06/15/data-sink.html
+[Data Sink](https://deliveroo.engineering/2017/06/15/data-sink.html)
 
 ### Discord
 
-https://discord.com/blog/how-discord-stores-billions-of-messages
+[How Discord Stores Billions of Messages](https://discord.com/blog/how-discord-stores-billions-of-messages)
 
-https://discord.com/blog/how-discord-creates-insights-from-trillions-of-data-points
+[How Discord Creates Insights From Trillions Of Data Points](https://discord.com/blog/how-discord-creates-insights-from-trillions-of-data-points)
 
-https://discord.com/blog/how-data-science-informs-strategy-innovation-at-discord
+[How Data Science Informs Strategy Innovation At Discord](https://discord.com/blog/how-data-science-informs-strategy-innovation-at-discord)
 
 ### Doordash
 
@@ -155,19 +155,19 @@ https://doordash.engineering/2020/02/12/organizing-machine-learning-every-flavor
 
 ### Doximity
 
-https://technology.doximity.com/articles/finding-joy-in-git-conflict-resolution
+[Finding Joy in Git Conflict Resolution](https://technology.doximity.com/articles/finding-joy-in-git-conflict-resolution)
 
-https://technology.doximity.com/articles/data-science-analytics-practitioner-insights
+[Data Science & Analytics: Practitioner Insights](https://technology.doximity.com/articles/data-science-analytics-practitioner-insights)
 
-https://technology.doximity.com/articles/stars-and-dimensions
+[Stars and Dimensions](https://technology.doximity.com/articles/stars-and-dimensions)
 
 ### Dropbox
 
-https://dropbox.tech/infrastructure/balancing-quality-and-coverage-with-our-data-validation-framework
+[Balancing quality and coverage with our data validation framework](https://dropbox.tech/infrastructure/balancing-quality-and-coverage-with-our-data-validation-framework)
 
-https://dropbox.tech/application/why-we-chose-apache-superset-as-our-data-exploration-platform
+[Why we chose Apache Superset as our data exploration platform](https://dropbox.tech/application/why-we-chose-apache-superset-as-our-data-exploration-platform)
 
-https://dropbox.tech/infrastructure/lessons-learned-in-incident-management
+[Lessons learned in incident management](https://dropbox.tech/infrastructure/lessons-learned-in-incident-management)
 
 ### Entelo
 
@@ -179,9 +179,9 @@ https://dropbox.tech/infrastructure/lessons-learned-in-incident-management
 
 ### Expedia
 
-https://medium.com/expedia-group-tech/software-architectural-patterns-in-data-engineering-5d3bf22106a0
+[Software Architectural Patterns in Data Engineering](https://medium.com/expedia-group-tech/software-architectural-patterns-in-data-engineering-5d3bf22106a0)
 
-https://medium.com/expedia-group-tech/rethinking-data-visualization-39e105cca4e8
+[Rethinking Data Visualization](https://medium.com/expedia-group-tech/rethinking-data-visualization-39e105cca4e8)
 
 ### Facebook/Meta
 
@@ -255,9 +255,9 @@ https://engineering.grab.com/trident-real-time-event-processing-at-scale
 
 ### Gusto
 
-https://engineering.gusto.com/the-accidental-tech-lead/
+[The Accidental Tech Lead](https://engineering.gusto.com/the-accidental-tech-lead/)
 
-https://engineering.gusto.com/cultivating-engineering-growth-2/
+[Cultivating Engineering Growth](https://engineering.gusto.com/cultivating-engineering-growth-2/)
 
 ### Haptik
 
@@ -297,11 +297,11 @@ https://engineering.gusto.com/cultivating-engineering-growth-2/
 
 ### Lyft
 
-https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a2821
+[Securing Apache Airflow UI With DAG Level Access](https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a2821)
 
-https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platform-2282bb436234
+[Open Sourcing Amundsen: A Data Discovery And Metadata Platform](https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platform-2282bb436234)
 
-https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff
+[Running Apache Airflow At Lyft](https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff)
 
 ### New York Times
 
@@ -333,11 +333,11 @@ https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6
 
 ### Postman
 
-https://medium.com/better-practices/how-and-why-postman-created-a-data-driven-hiring-process-d2269a025ae6
+[How (and Why) Postman Created a Data-Driven Hiring Process](https://medium.com/better-practices/how-and-why-postman-created-a-data-driven-hiring-process-d2269a025ae6)
 
-https://medium.com/better-practices/the-postman-data-teams-hub-and-spoke-model-662707e0ef9e
+[The Postman Data Team’s Hub-and-Spoke Model](https://medium.com/better-practices/the-postman-data-teams-hub-and-spoke-model-662707e0ef9e)
 
-https://medium.com/better-practices/how-postman-does-data-democratization-6aec096dc9bf
+[How Postman Does Data Democratization](https://medium.com/better-practices/how-postman-does-data-democratization-6aec096dc9bf)
 
 ### Quora
 
@@ -445,11 +445,11 @@ https://shopify.engineering/developer-onboarding-at-shopify
 
 ### Skyscanner
 
-https://medium.com/@SkyscannerEng/automating-cloud-governance-at-scale-895695fe4a1f
+[Automating cloud governance at scale](https://medium.com/@SkyscannerEng/automating-cloud-governance-at-scale-895695fe4a1f)
 
-https://medium.com/@SkyscannerEng/using-engineering-principles-to-create-autonomous-teams-at-scale-a73120c4e252
+[Using engineering principles to create autonomous teams at scale](https://medium.com/@SkyscannerEng/using-engineering-principles-to-create-autonomous-teams-at-scale-a73120c4e252)
 
-https://medium.com/@SkyscannerEng/monoliths-and-microservices-8c65708c3dbf
+[Monoliths and Microservices](https://medium.com/@SkyscannerEng/monoliths-and-microservices-8c65708c3dbf)
 
 ### Slack
 
@@ -503,37 +503,37 @@ https://engineering.atspotify.com/2013/03/agile-a-la-spotify/
 
 ### Squarespace
 
-https://engineering.squarespace.com/blog/2019/code-review-culture-part-1
+[Creating a Code Review Culture, Part 1: Organizations and Authors](https://engineering.squarespace.com/blog/2019/code-review-culture-part-1)
 
-https://engineering.squarespace.com/blog/2019/code-review-culture-part-2
+[Creating a Code Review Culture, Part 2: Code Reviewers](https://engineering.squarespace.com/blog/2019/code-review-culture-part-2)
 
-https://engineering.squarespace.com/blog/2016/date-traceability-and-lineage
+[Data Traceability and Lineage](https://engineering.squarespace.com/blog/2016/date-traceability-and-lineage)
 
 ### Stack Overflow
 
-https://stackoverflow.blog/2019/10/23/why-devs-should-like-estimates/
+[Why Devs (Should) Like Estimates](https://stackoverflow.blog/2019/10/23/why-devs-should-like-estimates/)
 
-https://stackoverflow.blog/2015/09/18/culture-of-trust/
+[A Culture of Trust](https://stackoverflow.blog/2015/09/18/culture-of-trust/)
 
-https://stackoverflow.blog/2015/08/07/developer-turned-manager/
+[Developer Turned Manager](https://stackoverflow.blog/2015/08/07/developer-turned-manager/)
 
 ### Stitchfix
 
-https://multithreaded.stitchfix.com/blog/2022/03/14/spark-eks/
+[Migrating Spark from EMR on EC2 to EMR on EKS](https://stackoverflow.blog/2019/10/23/why-devs-should-like-estimates/)
 
-https://multithreaded.stitchfix.com/blog/2021/02/09/aggressively-helpful-platform-teams/
+[Aggressively Helpful Platform Teams](https://multithreaded.stitchfix.com/blog/2021/02/09/aggressively-helpful-platform-teams/)
 
 ### Stride
 
-https://www.stridenyc.com/blog/what-is-devops
+[What is DevOps?](https://www.stridenyc.com/blog/what-is-devops)
 
-https://www.stridenyc.com/blog/how-to-create-core-values-that-stick
+[Creating Core Values that Actually Stick](https://www.stridenyc.com/blog/how-to-create-core-values-that-stick)
 
 ### Target
 
-https://tech.target.com/blog/chaos-leads-to-resilience
+[Chaos Leads to Resilience](https://tech.target.com/blog/chaos-leads-to-resilience)
 
-https://tech.target.com/blog/review-scrutiny
+[Review Scrutiny](https://tech.target.com/blog/review-scrutiny)
 
 ### Thoughtworks
 
@@ -549,11 +549,11 @@ https://tech.target.com/blog/review-scrutiny
 
 ### Trivago
 
-https://tech.trivago.com/post/2022-07-18-sre-on-call-procedure-at-trivago/
+[SRE: On-Call Procedure at trivago](https://tech.trivago.com/post/2022-07-18-sre-on-call-procedure-at-trivago/)
 
-https://tech.trivago.com/post/2021-05-17-remasteringguildsafterfiveyears/
+[Remastering Guilds After Five Years](https://tech.trivago.com/post/2021-05-17-remasteringguildsafterfiveyears/)
 
-https://tech.trivago.com/post/2015-08-31-culture_of_quality/
+[Creating a Culture of Quality](https://tech.trivago.com/post/2015-08-31-culture_of_quality/)
 
 ### Twitch
 
@@ -657,9 +657,9 @@ https://www.uber.com/blog/data-visualization-city-movement/
 
 ### Yelp
 
-https://engineeringblog.yelp.com/2022/08/spark-data-lineage.html
+[Spark Data Lineage](https://engineeringblog.yelp.com/2022/08/spark-data-lineage.html)
 
-https://engineeringblog.yelp.com/2021/05/engineering-career-series-how-we-onboard-engineers-across-the-world-at-yelp.html
+[Engineering Career Series: How we onboard engineers across the world at Yelp](https://engineeringblog.yelp.com/2021/05/engineering-career-series-how-we-onboard-engineers-across-the-world-at-yelp.html)
 
 ### Zalando
 
