@@ -237,23 +237,23 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### Gamechanger
 
-[Apache Airflow on AWS ECS](https://tech.gc.com/apache-airflow-on-aws-ecs/)
+[Apache Airflow on AWS ECS](https://tech.gc.com/apache-airflow-on-aws-ecs/) - Many different implementations of Airflow are available, but I haven't see too many leveraging ECS before
 
-[Let me automate that for you](https://tech.gc.com/let-me-automate-that-for-you/)
+[Let me automate that for you](https://tech.gc.com/let-me-automate-that-for-you/) - Obviously, we want automation wherever we can have it, so this was a simple walkthrough of how it's done at Gamechanger
 
-[Data Interruption Process](https://tech.gc.com/data-interruption-process/)
+[Data Interruption Process](https://tech.gc.com/data-interruption-process/) - This was a strange way to word on-call, but it's an effective (albeit older) approach nonetheless
 
-[What Good Engineers Do](https://tech.gc.com/what-good-engineers-do/)
+[What Good Engineers Do](https://tech.gc.com/what-good-engineers-do/) - A solid set of principles for what makes a good engineer
 
 ### Grab
 
-[How we store and process millions of orders daily](https://engineering.grab.com/how-we-store-millions-orders)
+[How we store and process millions of orders daily](https://engineering.grab.com/how-we-store-millions-orders) - For those who want to know more about DynamoDB, this is helpful
 
-[Embracing a Docs-as-Code approach](https://engineering.grab.com/doc-as-code)
+[Embracing a Docs-as-Code approach](https://engineering.grab.com/doc-as-code) - Documentation is an often overlooked area, but this is a good approach to making sure it remains a chief priority
 
-[Real-time data ingestion in Grab](https://engineering.grab.com/real-time-data-ingestion)
+[Real-time data ingestion in Grab](https://engineering.grab.com/real-time-data-ingestion) - How food service handles real-time data ingestion
 
-[Trident - Real-time Event Processing at Scale](https://engineering.grab.com/trident-real-time-event-processing-at-scale)
+[Trident - Real-time Event Processing at Scale](https://engineering.grab.com/trident-real-time-event-processing-at-scale) - I was not too familiar with IFTTT (if this, then that) design before, so this was an interesting read
 
 ### Gusto
 
@@ -347,15 +347,15 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### REA Group
 
-[Accelerating experimentation with MLOps](https://www.rea-group.com/about-us/news-and-insights/blog/accelerating-experimentation-with-mlops/)
+[Accelerating experimentation with MLOps](https://www.rea-group.com/about-us/news-and-insights/blog/accelerating-experimentation-with-mlops/) - A great resource for those who want to know more about best practices in MLOps
 
-[Data Science: Principles for Success](https://www.rea-group.com/about-us/news-and-insights/blog/data-science-principles-for-success/)
+[Data Science: Principles for Success](https://www.rea-group.com/about-us/news-and-insights/blog/data-science-principles-for-success/) - A solid set of principles for enabling success in a Data Science team
 
-[Data Discovery](https://www.rea-group.com/about-us/news-and-insights/blog/reflections-on-designing-an-enterprise-data-warehouse/)
+[Data Discovery](https://www.rea-group.com/about-us/news-and-insights/blog/data-discovery/) - A sensible implementation of Amundsen
 
-[Reflections On Designing An Enterprise Data Warehouse](https://developers.soundcloud.com/blog/a-better-model-of-data-ownership)
+[Reflections On Designing An Enterprise Data Warehouse](https://www.rea-group.com/about-us/news-and-insights/blog/reflections-on-designing-an-enterprise-data-warehouse/) - Tips on how to design an effective data warehouse
 
-[The Ops Dojo](https://www.rea-group.com/about-us/news-and-insights/blog/the-ops-dojo/)
+[The Ops Dojo](https://www.rea-group.com/about-us/news-and-insights/blog/the-ops-dojo/) - I'll all for the term "dojo" to better describe more of what we need to be doing
 
 ### Shopify
 
@@ -451,11 +451,11 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### Skyscanner
 
-[Automating cloud governance at scale](https://medium.com/@SkyscannerEng/automating-cloud-governance-at-scale-895695fe4a1f)
+[Automating cloud governance at scale](https://medium.com/@SkyscannerEng/automating-cloud-governance-at-scale-895695fe4a1f) - For those who work in governance, this is a good way to keep guardrails on resource provisioning
 
-[Using engineering principles to create autonomous teams at scale](https://medium.com/@SkyscannerEng/using-engineering-principles-to-create-autonomous-teams-at-scale-a73120c4e252)
+[Using engineering principles to create autonomous teams at scale](https://medium.com/@SkyscannerEng/using-engineering-principles-to-create-autonomous-teams-at-scale-a73120c4e252) - A good set of principles for ensuring teams are successful
 
-[Monoliths and Microservices](https://medium.com/@SkyscannerEng/monoliths-and-microservices-8c65708c3dbf)
+[Monoliths and Microservices](https://medium.com/@SkyscannerEng/monoliths-and-microservices-8c65708c3dbf) - How to move away from monoliths to microservices
 
 ### Slack
 
@@ -481,13 +481,13 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### Soundcloud
 
-[Building a Healthy On-Call Culture](https://developers.soundcloud.com/blog/building-a-healthy-on-call-culture)
+[Building a Healthy On-Call Culture](https://developers.soundcloud.com/blog/building-a-healthy-on-call-culture) - Tips for helping ensure a smooth on-call process
 
-[How (Not) to Build Datasets and Consume Data at Your Company](https://developers.soundcloud.com/blog/how-not-to-build-datasets-and-consume-data-at-your-company)
+[How (Not) to Build Datasets and Consume Data at Your Company](https://developers.soundcloud.com/blog/how-not-to-build-datasets-and-consume-data-at-your-company) - An effective approach towards ensure healthy data usage
 
-[Getting a Team Back on Track](https://developers.soundcloud.com/blog/getting-a-team-back-on-track)
+[Getting a Team Back on Track](https://developers.soundcloud.com/blog/getting-a-team-back-on-track) - This is an underdiscussed topic that should be mentioned more. A helpful set of tips for helping keep teams afloat amidst change.
 
-[A Better Model of Data Ownership](https://developers.soundcloud.com/blog/a-better-model-of-data-ownership)
+[A Better Model of Data Ownership](https://developers.soundcloud.com/blog/a-better-model-of-data-ownership) - A helpful definition of what exactly ownership means in relation to data
 
 ### Spotify
 
