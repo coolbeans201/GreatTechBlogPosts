@@ -173,17 +173,17 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### Entelo
 
-[Why You Should Make Everyone a Project Lead](https://engineering.entelo.com/why-you-should-make-everyone-a-project-lead-f167472b580d)
+[Why You Should Make Everyone a Project Lead](https://engineering.entelo.com/why-you-should-make-everyone-a-project-lead-f167472b580d) - Leading a project is a great way to further your leadership skills
 
 ### Etsy
 
-[Towards Machine Learning Observability at Etsy](https://www.etsy.com/codeascraft/towards-machine-learning-observability-at-etsy)
+[Towards Machine Learning Observability at Etsy](https://www.etsy.com/codeascraft/towards-machine-learning-observability-at-etsy) - A good overview on how Etsy is keeping all their ML models within scope
 
 ### Expedia
 
-[Software Architectural Patterns in Data Engineering](https://medium.com/expedia-group-tech/software-architectural-patterns-in-data-engineering-5d3bf22106a0)
+[Software Architectural Patterns in Data Engineering](https://medium.com/expedia-group-tech/software-architectural-patterns-in-data-engineering-5d3bf22106a0) - A helpful expalantion of the software patterns underlying all our popular DE tools
 
-[Rethinking Data Visualization](https://medium.com/expedia-group-tech/rethinking-data-visualization-39e105cca4e8)
+[Rethinking Data Visualization](https://medium.com/expedia-group-tech/rethinking-data-visualization-39e105cca4e8) - Product thinking applied to data visualization
 
 ### Facebook/Meta
 
@@ -227,13 +227,13 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### Future Processing
 
-[Data science and data analytics – know the difference](https://www.future-processing.com/blog/data-science-and-data-analytics-know-the-difference/)
+[Data science and data analytics – know the difference](https://www.future-processing.com/blog/data-science-and-data-analytics-know-the-difference/) - These terms sometimes are used interchangeably but have their differences, so it's important to distinguish them
 
-[7 common Big Data security issues](https://www.future-processing.com/blog/7-common-big-data-security-issues/)
+[7 common Big Data security issues](https://www.future-processing.com/blog/7-common-big-data-security-issues/) - Security is sometimes an afterthought when it comes to big data, so it's important to be aware of the various issues you may encounter while setting up these applications
 
 ### Fynd
 
-[Introducing Developer-less Data Workbench — Making business analysts, Masters of the data!](https://blog.gofynd.com/introducing-developer-less-data-workbench-making-business-analysts-masters-of-the-data-9eee49601d52)
+[Introducing Developer-less Data Workbench — Making business analysts, Masters of the data!](https://blog.gofynd.com/introducing-developer-less-data-workbench-making-business-analysts-masters-of-the-data-9eee49601d52) - Considering this was written in 2015, this is an impressive overview of data enablement with automation
 
 ### Gamechanger
 
@@ -257,93 +257,93 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### Gusto
 
-[The Accidental Tech Lead](https://engineering.gusto.com/the-accidental-tech-lead/)
+[The Accidental Tech Lead](https://engineering.gusto.com/the-accidental-tech-lead/) - Growing into being a tech lead, which can sometimes happen by accident just on account of experience
 
-[Cultivating Engineering Growth](https://engineering.gusto.com/cultivating-engineering-growth-2/)
+[Cultivating Engineering Growth](https://engineering.gusto.com/cultivating-engineering-growth-2/) - Good tips on how to enable engineers for success through mentorship
 
 ### Haptik
 
-[Kubernetes Production Best Practices - Part I](https://www.haptik.ai/tech/k8s-prod-best-practices)
+[Kubernetes Production Best Practices - Part I](https://www.haptik.ai/tech/k8s-prod-best-practices) - For those using Kubernetes in their workflows, a solid set of best practices
 
 ### Hashnode
 
-[How to Build Event-Driven Architecture on AWS](https://engineering.hashnode.com/how-to-build-event-driven-architecture-on-aws)
+[How to Build Event-Driven Architecture on AWS](https://engineering.hashnode.com/how-to-build-event-driven-architecture-on-aws) - A good tutorial on setting up event-driven architectures in AWS, including the different routes that can be taken
 
 ### Heap
 
-[How I Learned to Stop Worrying and Love Tech Debt](https://www.heap.io/blog/how-i-learned-to-stop-worrying-and-love-tech-debt)
+[How I Learned to Stop Worrying and Love Tech Debt](https://www.heap.io/blog/how-i-learned-to-stop-worrying-and-love-tech-debt) - The term "papercuts" is definitely a reasonable way to pull in tech debt items into planning
 
 ### HelloFresh
 
-[How HelloTech’s working and knowledge sharing culture supports a company on scale](https://engineering.hellofresh.com/how-hellotechs-working-and-knowledge-sharing-culture-supports-a-company-on-scale-cb37f1901947)
+[How HelloTech’s working and knowledge sharing culture supports a company on scale](https://engineering.hellofresh.com/how-hellotechs-working-and-knowledge-sharing-culture-supports-a-company-on-scale-cb37f1901947) - Companies with good knowledge sharing cultures are the ones whose employees succeed the most IMO
 
-[SLOs for everyone with Sloth](https://engineering.hellofresh.com/slos-for-everyone-with-sloth-1704009b20a2)
+[SLOs for everyone with Sloth](https://engineering.hellofresh.com/slos-for-everyone-with-sloth-1704009b20a2) - A very well-detailed explanation of how HelloFresh has full-scale monitoring for their SLOs in place
 
 ### Helpshift
 
-[Building a Data warehouse with Hive at Helpshift — Part 1](https://medium.com/helpshift-engineering/building-a-data-warehouse-with-hive-at-helpshift-part-1-443046df6484)
+[Building a Data warehouse with Hive at Helpshift — Part 1](https://medium.com/helpshift-engineering/building-a-data-warehouse-with-hive-at-helpshift-part-1-443046df6484) - A little more outdated, but still a useful overview of how you can build a warehouse with Hive as your backbone
 
 ### Instacart
 
-[Building for Balance](https://tech.instacart.com/building-for-balance-e61fb9511893)
+[Building for Balance](https://tech.instacart.com/building-for-balance-e61fb9511893) - A very thorough overview of how Instacart finds the balance between fast deliveries and high-earning opportunities for their drivers
 
 ### LINE
 
-[A story of introducing data lineage into LINE's large-scale data platform](https://engineering.linecorp.com/en/blog/data-lineage-on-line-big-data-platform)
+[A story of introducing data lineage into LINE's large-scale data platform](https://engineering.linecorp.com/en/blog/data-lineage-on-line-big-data-platform) - A good implementation of lineage in many different capacities at LINE
 
 ### LinkedIn
 
-[Super Tables: The road to building reliable and discoverable data products](https://engineering.linkedin.com/blog/2022/super-tables--the-road-to-building-reliable-and-discoverable-dat)
+[Super Tables: The road to building reliable and discoverable data products](https://engineering.linkedin.com/blog/2022/super-tables--the-road-to-building-reliable-and-discoverable-dat) - LinkedIn's overview of "super tables" helps bring out the best in their data products
 
-[Open Sourcing Venice – LinkedIn’s Derived Data Platform](https://engineering.linkedin.com/blog/2022/open-sourcing-venice--linkedin-s-derived-data-platform)
+[Open Sourcing Venice – LinkedIn’s Derived Data Platform](https://engineering.linkedin.com/blog/2022/open-sourcing-venice--linkedin-s-derived-data-platform) - An impressive data platform implementation from LinkedIn
 
 ### Lyft
 
-[Securing Apache Airflow UI With DAG Level Access](https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a2821)
+[Securing Apache Airflow UI With DAG Level Access](https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a2821) - DAG-level access may be the next evolution of Airflow UI access combined with RBAC
 
-[Open Sourcing Amundsen: A Data Discovery And Metadata Platform](https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platform-2282bb436234)
+[Open Sourcing Amundsen: A Data Discovery And Metadata Platform](https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platform-2282bb436234) - Amundsen is becoming a very popular data discoverability platform, and for good reason
 
-[Running Apache Airflow At Lyft](https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff)
+[Running Apache Airflow At Lyft](https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff) - Lyft is one of the big "power" users of Airflow, and their model can serve as a template for many
 
 ### New York Times
 
-[Congrats, You’re On Call! Now What?](https://open.nytimes.com/congrats-youre-on-call-now-what-8d36c5ad60aa)
+[Congrats, You’re On Call! Now What?](https://open.nytimes.com/congrats-youre-on-call-now-what-8d36c5ad60aa) - How to effectively handle an on-call rotation
 
 ### Nextdoor
 
-[Engineering Principles (v1) at Nextdoor](https://engblog.nextdoor.com/engineering-principles-at-nextdoor-e82743b2ef2f)
+[Engineering Principles (v1) at Nextdoor](https://engblog.nextdoor.com/engineering-principles-at-nextdoor-e82743b2ef2f) - A gold standard for engineering principles
 
 ### NextRoll
 
-[Coordinated Cost Savings](https://tech.nextroll.com/blog/costs/2020/07/01/coordinated-cost-savings.html)
+[Coordinated Cost Savings](https://tech.nextroll.com/blog/costs/2020/07/01/coordinated-cost-savings.html) - Cost savings is a team effort and takes a village, as this post details
 
 ### PayPal
 
-[The next generation of Data Platforms is the Data Mesh](https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522)
+[The next generation of Data Platforms is the Data Mesh](https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522) - A very solid explanation of why data mesh is needed in data platforms
 
-[Next-Gen Data Movement Platform at PayPal](https://medium.com/paypal-tech/next-gen-data-movement-platform-at-paypal-100f70a7a6b)
+[Next-Gen Data Movement Platform at PayPal](https://medium.com/paypal-tech/next-gen-data-movement-platform-at-paypal-100f70a7a6b) - Lots of parts in play, but detailed insight into everything that drives PayPal
 
-[The Journey of Metadata at PayPal](https://medium.com/paypal-tech/the-journey-of-metadata-at-paypal-c374ac66e2e6)
+[The Journey of Metadata at PayPal](https://medium.com/paypal-tech/the-journey-of-metadata-at-paypal-c374ac66e2e6) - Bringing data ownership and discoverability to the masses at PayPal
 
-[Gimel: PayPal’s Analytics Data Processing Platform](https://medium.com/paypal-tech/gimel-paypals-analytics-data-processing-platform-22ec5890f4af)
+[Gimel: PayPal’s Analytics Data Processing Platform](https://medium.com/paypal-tech/gimel-paypals-analytics-data-processing-platform-22ec5890f4af) - The coolest part of this blog was realizing Romit now works in a related team at Disney :). But this platform is certainly impressive nonetheless. 
 
 ### Pinterest
 
-[Improving efficiency and reducing runtime using S3 read optimization](https://medium.com/pinterest-engineering/improving-efficiency-and-reducing-runtime-using-s3-read-optimization-b31da4b60fa0)
+[Improving efficiency and reducing runtime using S3 read optimization](https://medium.com/pinterest-engineering/improving-efficiency-and-reducing-runtime-using-s3-read-optimization-b31da4b60fa0) - Reducing runtime with S3 reads is every data engineer's dream
 
-[How Pinterest runs Kafka at scale](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be)
+[How Pinterest runs Kafka at scale](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be) - A good overview on how Kafka can be effectively scaled within an organization
 
 ### Postman
 
-[How (and Why) Postman Created a Data-Driven Hiring Process](https://medium.com/better-practices/how-and-why-postman-created-a-data-driven-hiring-process-d2269a025ae6)
+[How (and Why) Postman Created a Data-Driven Hiring Process](https://medium.com/better-practices/how-and-why-postman-created-a-data-driven-hiring-process-d2269a025ae6) - I have never really liked the interviewing process, on both sides. Postman has a good model in place here.
 
-[The Postman Data Team’s Hub-and-Spoke Model](https://medium.com/better-practices/the-postman-data-teams-hub-and-spoke-model-662707e0ef9e)
+[The Postman Data Team’s Hub-and-Spoke Model](https://medium.com/better-practices/the-postman-data-teams-hub-and-spoke-model-662707e0ef9e) - A good explanation of how the hub-and-spoke model works for Postman and its data teams
 
-[How Postman Does Data Democratization](https://medium.com/better-practices/how-postman-does-data-democratization-6aec096dc9bf)
+[How Postman Does Data Democratization](https://medium.com/better-practices/how-postman-does-data-democratization-6aec096dc9bf) - A very thorough overview of how Postman enhances their data with proper democratization
 
 ### Quora
 
-[Trino at Quora Scale: Cost, Speed, and Reliability](https://quoraengineering.quora.com/Trino-at-Quora-Scale-Cost-Speed-and-Reliability)
+[Trino at Quora Scale: Cost, Speed, and Reliability](https://quoraengineering.quora.com/Trino-at-Quora-Scale-Cost-Speed-and-Reliability) - For those using Trino/Presto, a good overview on how it's done in a larger environment
 
 ### REA Group
 
@@ -447,7 +447,7 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### Sky Betting and Gambling
 
-[Team Size and Why It Matters](https://sbg.technology/2016/04/08/team-size-and-why-it-matters/)
+[Team Size and Why It Matters](https://sbg.technology/2016/04/08/team-size-and-why-it-matters/) - A good breakdown of how smaller vs. bigger teams differ
 
 ### Skyscanner
 
@@ -509,19 +509,19 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### Squarespace
 
-[Creating a Code Review Culture, Part 1: Organizations and Authors](https://engineering.squarespace.com/blog/2019/code-review-culture-part-1)
+[Creating a Code Review Culture, Part 1: Organizations and Authors](https://engineering.squarespace.com/blog/2019/code-review-culture-part-1) - Good tips on how to more effectively put code together for review
 
-[Creating a Code Review Culture, Part 2: Code Reviewers](https://engineering.squarespace.com/blog/2019/code-review-culture-part-2)
+[Creating a Code Review Culture, Part 2: Code Reviewers](https://engineering.squarespace.com/blog/2019/code-review-culture-part-2) - Good tips on how to be an effective code reviewer
 
-[Data Traceability and Lineage](https://engineering.squarespace.com/blog/2016/date-traceability-and-lineage)
+[Data Traceability and Lineage](https://engineering.squarespace.com/blog/2016/date-traceability-and-lineage) - A bit older on this topic, but setting the foundations for effective lineage in data
 
 ### Stack Overflow
 
-[Why Devs (Should) Like Estimates](https://stackoverflow.blog/2019/10/23/why-devs-should-like-estimates/)
+[Why Devs (Should) Like Estimates](https://stackoverflow.blog/2019/10/23/why-devs-should-like-estimates/) - Good tips on how to more effectively estimate when it comes to planning
 
-[A Culture of Trust](https://stackoverflow.blog/2015/09/18/culture-of-trust/)
+[A Culture of Trust](https://stackoverflow.blog/2015/09/18/culture-of-trust/) - Trust is one of the most important things you need to have within a team, and I totally agree with Stack Overflow's discussion on it
 
-[Developer Turned Manager](https://stackoverflow.blog/2015/08/07/developer-turned-manager/)
+[Developer Turned Manager](https://stackoverflow.blog/2015/08/07/developer-turned-manager/) - A good retrospective on transitioning from development to the management side of things
 
 ### Stitchfix
 
