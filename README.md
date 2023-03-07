@@ -525,45 +525,45 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### Stitchfix
 
-[Migrating Spark from EMR on EC2 to EMR on EKS](https://stackoverflow.blog/2019/10/23/why-devs-should-like-estimates/)
+[Migrating Spark from EMR on EC2 to EMR on EKS](https://multithreaded.stitchfix.com/blog/2022/03/14/spark-eks/) - EKS is the "new" standard for Spark processing, so this is a helpful tutorial on moving Spark from EC2 to EKS
 
-[Aggressively Helpful Platform Teams](https://multithreaded.stitchfix.com/blog/2021/02/09/aggressively-helpful-platform-teams/)
+[Aggressively Helpful Platform Teams](https://multithreaded.stitchfix.com/blog/2021/02/09/aggressively-helpful-platform-teams/) - "Aggressively helpful" is exactly what platform teams need to be in order to better enable success within an organization
 
 ### Stride
 
-[What is DevOps?](https://www.stridenyc.com/blog/what-is-devops)
+[What is DevOps?](https://www.stridenyc.com/blog/what-is-devops) - A well done primer on DevOps
 
-[Creating Core Values that Actually Stick](https://www.stridenyc.com/blog/how-to-create-core-values-that-stick)
+[Creating Core Values that Actually Stick](https://www.stridenyc.com/blog/how-to-create-core-values-that-stick) - Core values are often brushed away, but the organizations that really put time and effort into them are the ones that stand out amongst the crowd
 
 ### Target
 
-[Chaos Leads to Resilience](https://tech.target.com/blog/chaos-leads-to-resilience)
+[Chaos Leads to Resilience](https://tech.target.com/blog/chaos-leads-to-resilience) - Chaos engineering can better protect your system in the long run, so it's cool to see how Target is preparing themselves for those scenarios
 
-[Review Scrutiny](https://tech.target.com/blog/review-scrutiny)
+[Review Scrutiny](https://tech.target.com/blog/review-scrutiny) - Code review etiquette is an underappreciated topic but a good one to go back to from time to time
 
 ### Thoughtworks
 
-[Making the data dream a reality](https://www.thoughtworks.com/insights/blog/making-data-dream-reality)
+[Making the data dream a reality](https://www.thoughtworks.com/insights/blog/making-data-dream-reality) - The origins of data mesh and how it can better enable data-driven thinking
 
 ### Timescale
 
-[Database Management: Behind-the-Scenes Lessons From a Data Architect](https://www.timescale.com/blog/database-management-behind-the-scenes-lessons-from-a-data-architect/)
+[Database Management: Behind-the-Scenes Lessons From a Data Architect](https://www.timescale.com/blog/database-management-behind-the-scenes-lessons-from-a-data-architect/) - For those who want to learn more about data centers and the ins and outs of big data, this is definitely a good post
 
 ### Toptal
 
-[Big Data Architecture for the Masses: A ksqlDB and Kubernetes Tutorial](https://www.toptal.com/big-data/ksqldb-kubernetes-tutorial)
+[Big Data Architecture for the Masses: A ksqlDB and Kubernetes Tutorial](https://www.toptal.com/big-data/ksqldb-kubernetes-tutorial) - A good overview of ksqlDB
 
 ### Trivago
 
-[SRE: On-Call Procedure at trivago](https://tech.trivago.com/post/2022-07-18-sre-on-call-procedure-at-trivago/)
+[SRE: On-Call Procedure at trivago](https://tech.trivago.com/post/2022-07-18-sre-on-call-procedure-at-trivago/) - On-call procedures would be a lot better for everyone if they followed how Trivago is doing it
 
-[Remastering Guilds After Five Years](https://tech.trivago.com/post/2021-05-17-remasteringguildsafterfiveyears/)
+[Remastering Guilds After Five Years](https://tech.trivago.com/post/2021-05-17-remasteringguildsafterfiveyears/) - Guilds are a great way to bring out more collaboration within an organization
 
-[Creating a Culture of Quality](https://tech.trivago.com/post/2015-08-31-culture_of_quality/)
+[Creating a Culture of Quality](https://tech.trivago.com/post/2015-08-31-culture_of_quality/) - A good post on proper quality when it comes to CI/CD
 
 ### Twitch
 
-[Twitch Engineering: An Introduction and Overview](https://blog.twitch.tv/en/2015/12/18/twitch-engineering-an-introduction-and-overview-a23917b71a25/)
+[Twitch Engineering: An Introduction and Overview](https://blog.twitch.tv/en/2015/12/18/twitch-engineering-an-introduction-and-overview-a23917b71a25/) - Older post, but still a cool overview of how Twitch is set up
 
 ### Twitter
 
@@ -639,70 +639,70 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### VTS
 
-[Designing for Data](https://buildingvts.com/designing-for-data-e3758fb2dd2a)
+[Designing for Data](https://buildingvts.com/designing-for-data-e3758fb2dd2a) - Telling a story with data is underrated
 
 ### Wayfair
 
-[Introducing our Machine Learning and Data Platforms Team](https://www.aboutwayfair.com/careers/tech-blog/introducing-our-machine-learning-and-data-platforms-team)
+[Introducing our Machine Learning and Data Platforms Team](https://www.aboutwayfair.com/careers/tech-blog/introducing-our-machine-learning-and-data-platforms-team) - Platform teams enable a lot of success within an organization
 
-[Enabling Supplier Sales Through Real-time Data](https://www.aboutwayfair.com/careers/tech-blog/enabling-supplier-sales-through-real-time-data)
+[Enabling Supplier Sales Through Real-time Data](https://www.aboutwayfair.com/careers/tech-blog/enabling-supplier-sales-through-real-time-data) - How real-time data unlocks more potential for Wayfair
 
 ### Wealthfront
 
-[Rolling Back an Airflow Upgrade](https://eng.wealthfront.com/2021/02/26/rolling-back-an-airflow-upgrade/)
+[Rolling Back an Airflow Upgrade](https://eng.wealthfront.com/2021/02/26/rolling-back-an-airflow-upgrade/) - Things are never perfect, so this is a good post on how to recover from a failed Airflow upgrade.
 
 ### WePay
 
-[Effective Software Design Documents](https://wecode.wepay.com/posts/effective-software-design-documents)
+[Effective Software Design Documents](https://wecode.wepay.com/posts/effective-software-design-documents) - Effective design documents are super helpful when iterating on a product
 
-[Improving Airflow UI Security](https://wecode.wepay.com/posts/improving-airflow-ui-security)
+[Improving Airflow UI Security](https://wecode.wepay.com/posts/improving-airflow-ui-security) - A good model for ensuring proper security within the Airflow UI
 
 ### Xandr
 
-[Knowledge Transfer in Engineering: How to make it go smoothly](https://medium.com/xandr-tech/knowledge-transfer-in-engineering-both-a-challenge-and-an-opportunity-44c78fa43258)
+[Knowledge Transfer in Engineering: How to make it go smoothly](https://medium.com/xandr-tech/knowledge-transfer-in-engineering-both-a-challenge-and-an-opportunity-44c78fa43258) - Effective KTs are a gamechanger for engineers, so this is a solid set of principles for better enabling it
 
 ### Yelp
 
-[Spark Data Lineage](https://engineeringblog.yelp.com/2022/08/spark-data-lineage.html)
+[Spark Data Lineage](https://engineeringblog.yelp.com/2022/08/spark-data-lineage.html) - I've never really seen Spark being used for lineage purposes, but this is a cool implementation from Yelp on how it can be accomplished
 
-[Engineering Career Series: How we onboard engineers across the world at Yelp](https://engineeringblog.yelp.com/2021/05/engineering-career-series-how-we-onboard-engineers-across-the-world-at-yelp.html)
+[Engineering Career Series: How we onboard engineers across the world at Yelp](https://engineeringblog.yelp.com/2021/05/engineering-career-series-how-we-onboard-engineers-across-the-world-at-yelp.html) - Effective onboarding programs make the process so much easier for engineers as they start their journey
 
 ### Zalando
 
-[Growth Engineering at Zalando](https://engineering.zalando.com/posts/2022/07/growth-engineering-at-zalando.html)
+[Growth Engineering at Zalando](https://engineering.zalando.com/posts/2022/07/growth-engineering-at-zalando.html) - Mentoring and role frameworks help enable growth and success for engineers
 
-[Accelerate testing in Apache Airflow through DAG versioning](https://engineering.zalando.com/posts/2022/06/accelerate-apache-airflow-testing-through-dag-versioning.html)
+[Accelerate testing in Apache Airflow through DAG versioning](https://engineering.zalando.com/posts/2022/06/accelerate-apache-airflow-testing-through-dag-versioning.html) - DAG versioning makes complete sense for dealing with testing alongside ongoing production processes leveraging the same DAGs
 
-[Principal Engineering at Zalando](https://engineering.zalando.com/posts/2022/02/principal-engineering-at-zalando.html)
+[Principal Engineering at Zalando](https://engineering.zalando.com/posts/2022/02/principal-engineering-at-zalando.html) - A good primer on what principal engineers mean to an organization
 
-[A Systematic Approach to Reducing Technical Debt](https://engineering.zalando.com/posts/2021/11/technical-debt.html)
+[A Systematic Approach to Reducing Technical Debt](https://engineering.zalando.com/posts/2021/11/technical-debt.html) - The concept of a tech debt rotation isn't a bad idea to help keep that area in check
 
-[The Product Playbook](https://engineering.zalando.com/posts/2019/01/product-playbook.html)
+[The Product Playbook](https://engineering.zalando.com/posts/2019/01/product-playbook.html) - The 4 D's is a sensible approach for product design
 
-[Four Pillars Of Leading People](https://engineering.zalando.com/posts/2018/10/four-pillars-leadership.html)
+[Four Pillars Of Leading People](https://engineering.zalando.com/posts/2018/10/four-pillars-leadership.html) - Good principles to follow for those in leadership roles.
 
-[The Democratization of ‘Data Science As A Service’](https://engineering.zalando.com/posts/2018/04/democratization-data-science.html)
+[The Democratization of ‘Data Science As A Service’](https://engineering.zalando.com/posts/2018/04/democratization-data-science.html) - I'm always a fan of promoting data science/engineering as a service
 
-[Discovering Design Sprints](https://engineering.zalando.com/posts/2018/04/discovering-design-sprints.html)
+[Discovering Design Sprints](https://engineering.zalando.com/posts/2018/04/discovering-design-sprints.html) - Sometimes the war room doesn't have to be such a bad thing
 
-[Data Analysis with Spark](https://engineering.zalando.com/posts/2018/03/data-analysis-spark.html)
+[Data Analysis with Spark](https://engineering.zalando.com/posts/2018/03/data-analysis-spark.html) - For those newer to DE, a basic overview of Spark.
 
-[Dedicated Ownership for Teams at Zalon](https://engineering.zalando.com/posts/2017/11/dedicated-ownership-for-teams-at-zalon.html)
+[Dedicated Ownership for Teams at Zalon](https://engineering.zalando.com/posts/2017/11/dedicated-ownership-for-teams-at-zalon.html) - A good model on team structure
 
 ### Zapier
 
-[Thinking Fast and Estimating Wrong](https://zapier.com/engineering/estimating/)
+[Thinking Fast and Estimating Wrong](https://zapier.com/engineering/estimating/) - Estimation never seems to be right when it comes to planning in software development, so I totally agree with the message of this post.
 
 ### Zillow
 
-[Building a Data Streaming Platform - How Zillow Sends Data to its Data Lake](https://www.zillow.com/tech/building-a-data-streaming-platform/)
+[Building a Data Streaming Platform - How Zillow Sends Data to its Data Lake](https://www.zillow.com/tech/building-a-data-streaming-platform/) - An interesting look at how Zillow combines all its data sources into the lake
 
-[Airflow at Zillow: Easily Authoring and Managing ETL Pipelines](https://www.zillow.com/tech/airflow-at-zillow/)
+[Airflow at Zillow: Easily Authoring and Managing ETL Pipelines](https://www.zillow.com/tech/airflow-at-zillow/) - Zillow has always had a strong Airflow presence, and this article from 2017 still holds up.
 
 ### Zomato
 
-[The Deep Tech Behind Estimating Food Preparation Time](https://www.zomato.com/blog/food-preparation-time)
+[The Deep Tech Behind Estimating Food Preparation Time](https://www.zomato.com/blog/food-preparation-time) - Interesting post into the logic behind food service.
 
 ### Zumba
 
-[Learning to Be a Tech Lead](https://medium.com/zumba-tech/learning-to-be-a-tech-lead-cc2fa870214d)
+[Learning to Be a Tech Lead](https://medium.com/zumba-tech/learning-to-be-a-tech-lead-cc2fa870214d) - Becoming a tech lead is not a simple change and requires shifting your priorities/frame of reference.
