@@ -121,53 +121,55 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### D2iq
 
-[All Together Now: FinOps, Kubernetes, and Platform Engineering](https://d2iq.com/blog/all-together-finops-kubernetes-platform-engineering)
+[All Together Now: FinOps, Kubernetes, and Platform Engineering](https://d2iq.com/blog/all-together-finops-kubernetes-platform-engineering) - Applying FinOps to Kubernetes savings
 
-[The Best Way to Control Kubernetes and Cloud Costs](https://d2iq.com/blog/the-best-way-to-control-kubernetes-and-cloud-costs)
+[The Best Way to Control Kubernetes and Cloud Costs](https://d2iq.com/blog/the-best-way-to-control-kubernetes-and-cloud-costs) - More FinOps with Kubernetes
 
 ### Deliveroo
 
-[The Emergence and Evolution of Analytics Engineering at Deliveroo](https://deliveroo.engineering/2022/01/19/the-emergence-and-evolution-of-analytics-engineering-at-deliveroo.html)
+[The Emergence and Evolution of Analytics Engineering at Deliveroo](https://deliveroo.engineering/2022/01/19/the-emergence-and-evolution-of-analytics-engineering-at-deliveroo.html) - Analytics engineering is definitely on the rise as of late, so this is a good introduction to what exactly that is
 
-[CloudFormation To Terraform](https://deliveroo.engineering/2020/01/02/CloudFormation-To-Terraform.html)
+[CloudFormation To Terraform](https://deliveroo.engineering/2020/01/02/CloudFormation-To-Terraform.html) - I've always been a proponent of Terraform, and it was good to see that Deliveroo agrees with me
 
-[Data Sink](https://deliveroo.engineering/2017/06/15/data-sink.html)
+[Data Sink](https://deliveroo.engineering/2017/06/15/data-sink.html) - An application of data sinks
 
 ### Discord
 
-[How Discord Stores Billions of Messages](https://discord.com/blog/how-discord-stores-billions-of-messages)
+[How Discord Stores Billions of Messages](https://discord.com/blog/how-discord-stores-billions-of-messages) - Discord is one of the fastest growing communities out there, so it's interesting to see how they manage to hold onto all those messages
 
-[How Discord Creates Insights From Trillions Of Data Points](https://discord.com/blog/how-discord-creates-insights-from-trillions-of-data-points)
+[How Discord Creates Insights From Trillions Of Data Points](https://discord.com/blog/how-discord-creates-insights-from-trillions-of-data-points) - Dealing with a lot of data isn't easy, so we can all take a page from Discord
 
-[How Data Science Informs Strategy Innovation At Discord](https://discord.com/blog/how-data-science-informs-strategy-innovation-at-discord)
+[How Data Science Informs Strategy Innovation At Discord](https://discord.com/blog/how-data-science-informs-strategy-innovation-at-discord) - A good post about how relevant Data Science needs to be in the grand scheme of things
+
+[How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages) - An impressive view of how Discord has continued to grow and managed to sustain that growth
 
 ### Doordash
 
-[Building a Source of Truth for an Inventory with Disparate Data Sources](https://doordash.engineering/2022/06/21/building-a-source-of-truth-for-a-digital-inventory-with-disparate-data-sources/)
+[Building a Source of Truth for an Inventory with Disparate Data Sources](https://doordash.engineering/2022/06/21/building-a-source-of-truth-for-a-digital-inventory-with-disparate-data-sources/) - Bringing together a single source of truth in a massive organization is definitely a challenge
 
-[Meet Sibyl – DoorDash’s New Prediction Service – Learn about its Ideation, Implementation and Rollout](https://doordash.engineering/2020/06/29/doordashs-new-prediction-service/)
+[Meet Sibyl – DoorDash’s New Prediction Service – Learn about its Ideation, Implementation and Rollout](https://doordash.engineering/2020/06/29/doordashs-new-prediction-service/) - I've always been impressed by the role ML plays in the food service industry, so this was a cool implementation from Doordash
 
-[Lifecycle of a Successful ML Product: Reducing Dasher Wait Times](https://doordash.engineering/2023/02/15/lifecycle-of-a-successful-ml-product-reducing-dasher-wait-times/)
+[Lifecycle of a Successful ML Product: Reducing Dasher Wait Times](https://doordash.engineering/2023/02/15/lifecycle-of-a-successful-ml-product-reducing-dasher-wait-times/) - Another good overview of the role that ML plays in the food service industry
 
-[Ship to Production, Darkly: Moving Fast, Staying Safe with ML Deployments](https://doordash.engineering/2022/03/08/ship-to-production-darkly-moving-fast-staying-safe-with-ml-deployments/)
+[Ship to Production, Darkly: Moving Fast, Staying Safe with ML Deployments](https://doordash.engineering/2022/03/08/ship-to-production-darkly-moving-fast-staying-safe-with-ml-deployments/) - DevOps meets ML
 
-[Organizing Machine Learning: Every Flavor Welcome!](https://doordash.engineering/2020/02/12/organizing-machine-learning-every-flavor-welcome/)
+[Organizing Machine Learning: Every Flavor Welcome!](https://doordash.engineering/2020/02/12/organizing-machine-learning-every-flavor-welcome/) - A solid set of principles for growing ML
 
 ### Doximity
 
-[Finding Joy in Git Conflict Resolution](https://technology.doximity.com/articles/finding-joy-in-git-conflict-resolution)
+[Finding Joy in Git Conflict Resolution](https://technology.doximity.com/articles/finding-joy-in-git-conflict-resolution) - A cool way to make merge conflicts a lot easier
 
-[Data Science & Analytics: Practitioner Insights](https://technology.doximity.com/articles/data-science-analytics-practitioner-insights)
+[Data Science & Analytics: Practitioner Insights](https://technology.doximity.com/articles/data-science-analytics-practitioner-insights) - A good set of principles for bringing the most out of data
 
-[Stars and Dimensions](https://technology.doximity.com/articles/stars-and-dimensions)
+[Stars and Dimensions](https://technology.doximity.com/articles/stars-and-dimensions) - For those who want to learn more about data modeling, this post has a nice refresher
 
 ### Dropbox
 
-[Balancing quality and coverage with our data validation framework](https://dropbox.tech/infrastructure/balancing-quality-and-coverage-with-our-data-validation-framework)
+[Balancing quality and coverage with our data validation framework](https://dropbox.tech/infrastructure/balancing-quality-and-coverage-with-our-data-validation-framework) - Data validation frameworks are very helpful, and I like the way Dropbox has implemented theirs
 
-[Why we chose Apache Superset as our data exploration platform](https://dropbox.tech/application/why-we-chose-apache-superset-as-our-data-exploration-platform)
+[Why we chose Apache Superset as our data exploration platform](https://dropbox.tech/application/why-we-chose-apache-superset-as-our-data-exploration-platform) - Superset seems to fly under the radar from time to time but is always a dependable choice
 
-[Lessons learned in incident management](https://dropbox.tech/infrastructure/lessons-learned-in-incident-management)
+[Lessons learned in incident management](https://dropbox.tech/infrastructure/lessons-learned-in-incident-management) - Oncall can be a messy process sometimes, but Dropbox has made it much more streamlined
 
 ### Entelo
 
