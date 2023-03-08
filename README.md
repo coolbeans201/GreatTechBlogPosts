@@ -359,91 +359,85 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### Shopify
 
-[The 25 Percent Rule for Tackling Technical Debt](https://shopify.engineering/technical-debt-25-percent-rule)
+[The 25 Percent Rule for Tackling Technical Debt](https://shopify.engineering/technical-debt-25-percent-rule) - 25% allotment for tackling technical debt would be a dream, but Shopify raises a very valid point on why it's necessary
 
-[The Hardest Part of Writing Tests is Getting Started](https://shopify.engineering/the-hardest-part-of-writing-tests-is-getting-started)
+[The Hardest Part of Writing Tests is Getting Started](https://shopify.engineering/the-hardest-part-of-writing-tests-is-getting-started) - A very truthful title. TDD is needed but actually getting to that initial state can be a challenge.
 
-[How Good Documentation Can Improve Productivity](https://shopify.engineering/good-documentation-productivity)
+[How Good Documentation Can Improve Productivity](https://shopify.engineering/good-documentation-productivity) - As someone who very much agrees with good documentation, I couldn't agree more
 
-[Three Essential Remote Work Practices for Engineering Teams](https://shopify.engineering/three-essential-remote-work-practices-engineering)
+[Three Essential Remote Work Practices for Engineering Teams](https://shopify.engineering/three-essential-remote-work-practices-engineering) - Some of these are easier said than done, but very much true for remote work these days
 
-[Reducing BigQuery Costs: How We Fixed A $1 Million Query](https://shopify.engineering/reducing-bigquery-costs)
+[Reducing BigQuery Costs: How We Fixed A $1 Million Query](https://shopify.engineering/reducing-bigquery-costs) - Good tips on how to keep your costs low
 
-[A Software Engineer's Guide to Working Across Time Zones](https://shopify.engineering/a-software-engineers-guide-to-working-across-time-zones)
+[A Software Engineer's Guide to Working Across Time Zones](https://shopify.engineering/a-software-engineers-guide-to-working-across-time-zones) - As someone who works on a team with teammates halfway around the world, very relatable points
 
-[How to Structure Your Data Team for Maximum Influence](https://shopify.engineering/how-to-structure-data-teams)
+[How to Structure Your Data Team for Maximum Influence](https://shopify.engineering/how-to-structure-data-teams) - The "Diamond Defense" is not one I've ever seen before, but it makes sense on team structure
 
-[On the Importance of Pull Request Discipline](https://shopify.engineering/on-the-importance-of-pull-request-discipline)
+[On the Importance of Pull Request Discipline](https://shopify.engineering/on-the-importance-of-pull-request-discipline) - Good practices to follow for raising PRs
 
-[When Culture and Code Reviews Collide, Communication is Key](https://shopify.engineering/code-reviews-communication)
+[When Culture and Code Reviews Collide, Communication is Key](https://shopify.engineering/code-reviews-communication) - More relevant points than you might think
 
-[Six Tips for Staying Technical as a CTO](https://shopify.engineering/six-tips-staying-technical-cto)
+[Six Tips for Staying Technical as a CTO](https://shopify.engineering/six-tips-staying-technical-cto) - My fear when getting into management is not being technical, so it's cool to see this advice on how to "stay in the game"
 
-[5 Steps to Bounce Back from a Negative Performance Review](https://shopify.engineering/five-steps-to-better-performance-reviews)
+[5 Steps to Bounce Back from a Negative Performance Review](https://shopify.engineering/five-steps-to-better-performance-reviews) - A bad performance review isn't the end of the world. It provides an opportunity to really grow.
 
-[Lessons Learned From Running Apache Airflow at Scale](https://shopify.engineering/lessons-learned-apache-airflow-scale)
+[Lessons Learned From Running Apache Airflow at Scale](https://shopify.engineering/lessons-learned-apache-airflow-scale) - Shopify has a good model in place for running Airflow
 
-[Asynchronous Communication is the Great Leveler in Engineering](https://shopify.engineering/asynchronous-communication-shopify-engineering)
+[Asynchronous Communication is the Great Leveler in Engineering](https://shopify.engineering/asynchronous-communication-shopify-engineering) - Asynchronous communication is absolutely necessary in our current state of work
 
-[Data Is An Art, Not Just A Science—And Storytelling Is The Key](https://shopify.engineering/data-storytelling-shopify)
+[Data Is An Art, Not Just A Science—And Storytelling Is The Key](https://shopify.engineering/data-storytelling-shopify) - Absolutely agree with the title here. Telling a story with data is critical.
 
-[The Magic of Merlin: Shopify's New Machine Learning Platform](https://shopify.engineering/merlin-shopify-machine-learning-platform)
+[The Magic of Merlin: Shopify's New Machine Learning Platform](https://shopify.engineering/merlin-shopify-machine-learning-platform) - Merlin is a very cool implementation of ML
 
-[A Data Scientist’s Guide To Measuring Product Success](https://shopify.engineering/a-data-scientist-s-guide-to-measuring-product-success)
+[A Data Scientist’s Guide To Measuring Product Success](https://shopify.engineering/a-data-scientist-s-guide-to-measuring-product-success) - Good tips on how to better enable product success
 
-[Using Terraform to Manage Infrastructure](https://shopify.engineering/manage-infrastructure-with-terraform)
+[Using Terraform to Manage Infrastructure](https://shopify.engineering/manage-infrastructure-with-terraform) - As a big Terraform proponent, this is a good overview on how Shopify is using it
 
-[Shopify's Playbook for Scaling Machine Learning](https://shopify.engineering/shopify-playbook-scaling-machine-learning)
+[Shopify's Playbook for Scaling Machine Learning](https://shopify.engineering/shopify-playbook-scaling-machine-learning) - A good model to follow for ML
 
-[Search at Shopify—Range in Data and Engineering is the Future](https://shopify.engineering/search-at-shopify)
+[Search at Shopify—Range in Data and Engineering is the Future](https://shopify.engineering/search-at-shopify) - A great post on why range is necessary for future development
 
-[Shopify’s Unique Data Science Hierarchy Of Needs](https://shopify.engineering/shopify-unique-data-science-hierarchy-of-needs)
+[Shopify’s Unique Data Science Hierarchy Of Needs](https://shopify.engineering/shopify-unique-data-science-hierarchy-of-needs) - Shopify has a good model in place here for Data Science
 
-[Five Tips for Growing Your Engineering Career](https://shopify.engineering/five-tips-for-engineer-career-growth)
+[Five Tips for Growing Your Engineering Career](https://shopify.engineering/five-tips-for-engineer-career-growth) - A good set of tips for elevating your career
 
-[The AWARE Development Plan](https://shopify.engineering/aware-development-plan)
+[The AWARE Development Plan](https://shopify.engineering/aware-development-plan) - A very good acronym to follow for a successful career
 
-[5 Steps for Building Machine Learning Models for Business](https://shopify.engineering/building-business-machine-learning-models)
+[5 Steps for Building Machine Learning Models for Business](https://shopify.engineering/building-business-machine-learning-models) - Good tips on getting ML into the picture
 
-[Modelling Developer Infrastructure Teams](https://shopify.engineering/modelling-developer-infrastructure-teams)
+[Modelling Developer Infrastructure Teams](https://shopify.engineering/modelling-developer-infrastructure-teams) - A good explanation of the difference between horizontal and vertical teams
 
-[Bridging the Gap Between Developers and End Users](https://shopify.engineering/bridging-gap-between-developers-and-users)
+[Bridging the Gap Between Developers and End Users](https://shopify.engineering/bridging-gap-between-developers-and-users) - Very good tips on how to bring product and tech closer together
 
-[A Guide to Running an Engineering Program](https://shopify.engineering/running-engineering-program-guide)
+[A Guide to Running an Engineering Program](https://shopify.engineering/running-engineering-program-guide) - Not sure if I'll ever get to this stage, but this seems like a very sensible guide if that day ever were to come
 
-[Other Driven Developments](https://shopify.engineering/other-driven-developments)
+[Other Driven Developments](https://shopify.engineering/other-driven-developments) - Developments we'd never think about, but they're totally out there
 
-[How I Define My Boundaries to Prevent Burnout](https://shopify.engineering/define-boundaries-prevent-burnout)
+[How I Define My Boundaries to Prevent Burnout](https://shopify.engineering/define-boundaries-prevent-burnout) - Good tips here, including ones I need to follow more honestly
 
-[4 Tips for Shipping Data Products Fast](https://shopify.engineering/shipping-data-products-fast)
+[4 Tips for Shipping Data Products Fast](https://shopify.engineering/shipping-data-products-fast) - As someone who works with data products, I can attest following these will make things go much smoother
 
-[How to Make Dashboards Using a Product Thinking Approach](https://shopify.engineering/make-dashboards-using-product-thinking-approach)
+[How to Make Dashboards Using a Product Thinking Approach](https://shopify.engineering/make-dashboards-using-product-thinking-approach) - Good principles to follow for getting the most out of dashboards
 
-[How to Reliably Scale Your Data Platform for High Volumes](https://shopify.engineering/reliably-scale-data-platform)
+[How to Reliably Scale Your Data Platform for High Volumes](https://shopify.engineering/reliably-scale-data-platform) - I feel like this isn't used as often as it should be, but it totally makes sense for making sure platforms scale
 
-[How to Make Dashboards Using a Product Thinking Approach](https://shopify.engineering/make-dashboards-using-product-thinking-approach)
+[Software Release Culture at Shopify](https://shopify.engineering/software-release-culture-shopify) - This should set a standard for proper release culture
 
-[How to Reliably Scale Your Data Platform for High Volumes](https://shopify.engineering/reliably-scale-data-platform)
+[Great Code Reviews—The Superpower Your Team Needs](https://shopify.engineering/great-code-reviews) - Good practices to follow for successful code reviews
 
-[Software Release Culture at Shopify](https://shopify.engineering/software-release-culture-shopify)
+[Successfully Merging the Work of 1000+ Developers](https://shopify.engineering/successfully-merging-work-1000-developers) - A good set of proper CI standards
 
-[Great Code Reviews—The Superpower Your Team Needs](https://shopify.engineering/great-code-reviews)
+[How Shopify Scales Up Its Development Teams](https://shopify.engineering/how-shopify-scales-up-its-development-teams) - I very much agree with the points listed here on upleveling your team
 
-[Successfully Merging the Work of 1000+ Developers](https://shopify.engineering/successfully-merging-work-1000-developers)
+[Five Common Data Stores and When to Use Them](https://shopify.engineering/five-common-data-stores-usage) - For those who need to evaluate with what type of data store to go with, this is a good reference
 
-[Five Common Data Stores and When to Use Them](https://shopify.engineering/five-common-data-stores-usage)
+[Implementing ChatOps into our Incident Management Procedure](https://shopify.engineering/implementing-chatops-into-our-incident-management-procedure) - I very much agree with the role of ChatOps in incident management 
 
-[Successfully Merging the Work of 1000+ Developers](https://shopify.engineering/how-shopify-scales-up-its-development-teams)
+[Code Style Consistency for Shopify’s Decade-Old Codebase](https://shopify.engineering/code-style-consistency-for-shopify-s-decade-old-codebase) - Code style is something that try to preach and uphold for our team
 
-[Five Common Data Stores and When to Use Them](https://shopify.engineering/five-common-data-stores-usage)
+[Why Shopify Moved to The Production Engineering Model](https://shopify.engineering/why-shopify-moved-to-the-production-engineering-model) - Having a model in place like this makes everyone's lives easier
 
-[Implementing ChatOps into our Incident Management Procedure](https://shopify.engineering/implementing-chatops-into-our-incident-management-procedure)
-
-[Code Style Consistency for Shopify’s Decade-Old Codebase](https://shopify.engineering/code-style-consistency-for-shopify-s-decade-old-codebase)
-
-[Why Shopify Moved to The Production Engineering Model](https://shopify.engineering/why-shopify-moved-to-the-production-engineering-model)
-
-[Developer Onboarding at Shopify](https://shopify.engineering/developer-onboarding-at-shopify)
+[Developer Onboarding at Shopify](https://shopify.engineering/developer-onboarding-at-shopify) - Proper onboarding can make a world of difference for engineers, and it seems like Shopify has it down pat
 
 ### Sky Betting and Gambling
 
@@ -491,21 +485,21 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### Spotify
 
-[Why We Switched Our Data Orchestration Service](https://engineering.atspotify.com/2022/03/why-we-switched-our-data-orchestration-service/)
+[Why We Switched Our Data Orchestration Service](https://engineering.atspotify.com/2022/03/why-we-switched-our-data-orchestration-service/) - Flyte isn't necessarily on Airflow or Prefect level yet but Spotify's explanations of why they're doing it makes total sense
 
-[Achieving Team Purpose and Pride with Scrum](https://engineering.atspotify.com/2021/05/achieving-team-purpose-and-pride-with-scrum/)
+[Achieving Team Purpose and Pride with Scrum](https://engineering.atspotify.com/2021/05/achieving-team-purpose-and-pride-with-scrum/) - Getting the most out of scrum, done the right way
 
-[Managing Clouds from the Ground Up: Cost Engineering at Spotify](https://engineering.atspotify.com/2020/09/managing-clouds-from-the-ground-up-cost-engineering-at-spotify/)
+[Managing Clouds from the Ground Up: Cost Engineering at Spotify](https://engineering.atspotify.com/2020/09/managing-clouds-from-the-ground-up-cost-engineering-at-spotify/) - We all could benefit from a dashboard tool like this (and many companies are now realizing how relevant it is)
 
-[How We Improved Data Discovery for Data Scientists at Spotify](https://engineering.atspotify.com/2020/02/how-we-improved-data-discovery-for-data-scientists-at-spotify/)
+[How We Improved Data Discovery for Data Scientists at Spotify](https://engineering.atspotify.com/2020/02/how-we-improved-data-discovery-for-data-scientists-at-spotify/) - A very thorough overview of how Spotify has implemented data discovery
 
-[TC4D: Data Quality By Engineers, For Engineers](https://engineering.atspotify.com/2017/10/tc4d-data-quality-by-engineers-for-engineers-2/)
+[TC4D: Data Quality By Engineers, For Engineers](https://engineering.atspotify.com/2017/10/tc4d-data-quality-by-engineers-for-engineers-2/) - A fun initiative for bringing out the best in testing
 
-[Qualities of Quality](https://engineering.atspotify.com/2014/04/qualities-of-quality/)
+[Qualities of Quality](https://engineering.atspotify.com/2014/04/qualities-of-quality/) - A very solid set of principles for holding up quality
 
-[Analytics at Spotify](https://engineering.atspotify.com/2013/05/analytics-at-spotify/)
+[Analytics at Spotify](https://engineering.atspotify.com/2013/05/analytics-at-spotify/) - Old post but that only goes to show how much Spotify embraces data
 
-[Agile à la Spotify](https://engineering.atspotify.com/2013/03/agile-a-la-spotify/)
+[Agile à la Spotify](https://engineering.atspotify.com/2013/03/agile-a-la-spotify/) - You don't see many places rewriting the Agile manifesto, but the principles Spotify's outlining make sense
 
 ### Squarespace
 
@@ -567,33 +561,33 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### Twitter
 
-[Data Quality Automation at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/data-quality-automation-at-twitter)
+[Data Quality Automation at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/data-quality-automation-at-twitter) - For those using Great Expectations, this is an effective look at how Twitter is doing it
 
-[Powering real-time data analytics with Druid at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/powering-real-time-data-analytics-with-druid-at-twitter)
+[Powering real-time data analytics with Druid at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/powering-real-time-data-analytics-with-druid-at-twitter) - Druid may not be the most relevant platform anymore, but it's cool to see how Twitter is using it to power their use cases
 
-[Next generation data insights using natural language queries](https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries)
+[Next generation data insights using natural language queries](https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries) - This implementation of Qurious looks really, really cool
 
-[Advancing Jupyter Notebooks at Twitter - Part 1](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/advancing-jupyter-notebooks-at-twitter---part-1--a-first-class-d)
+[Advancing Jupyter Notebooks at Twitter - Part 1](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/advancing-jupyter-notebooks-at-twitter---part-1--a-first-class-d) - How Twitter leverages Jupyter notebooks for true data-driven analysis
 
-[Processing billions of events in real time at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-)
+[Processing billions of events in real time at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-) - 400 billion events per day is insane, so to see how Twitter's able to do it under the hood is very interesting
 
-[Kafka as a storage system](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/kafka-as-a-storage-system)
+[Kafka as a storage system](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/kafka-as-a-storage-system) - You don't really think of Kafka being used for storage, but Twitter seems to have done it effectively
 
-[Building Twitter’s ad platform architecture for the future](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future)
+[Building Twitter’s ad platform architecture for the future](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future) - An AdServer per product is a lot, but it definitely does better enable proper scale
 
-[Democratizing data analysis with Google BigQuery](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/democratizing-data-analysis-with-google-bigquery)
+[Democratizing data analysis with Google BigQuery](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/democratizing-data-analysis-with-google-bigquery) - A very sensible approach to proper data democratization at Twitter
 
-[Interactive Analytics at MoPub: Querying Terabytes of Data in Seconds](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/interactive-analytics-at-mopub)
+[Interactive Analytics at MoPub: Querying Terabytes of Data in Seconds](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/interactive-analytics-at-mopub) - An effective use of Druid and microservices to power interactive analytics
 
-[ZooKeeper at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/zookeeper-at-twitter)
+[ZooKeeper at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/zookeeper-at-twitter) - Similar to FB, a detailed breakdown on how a big platform is using ZooKeeper to stay afloat
 
-[Productionizing ML with workflows at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows)
+[Productionizing ML with workflows at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows) - How Twitter uses Airflow to solve their ML use cases
 
-[Using Deep Learning at Scale in Twitter’s Timelines](https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines)
+[Using Deep Learning at Scale in Twitter’s Timelines](https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines) - This is a really cool overview of how deep learning is used to power what we see on our Twitter timelines
 
-[The Infrastructure Behind Twitter: Scale](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale)
+[The Infrastructure Behind Twitter: Scale](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale) - This is a lot of context on how Twitter manages to scale, and you know it's only gotten more complex since then
 
-[Discovery and Consumption of Analytics Data at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2016/discovery-and-consumption-of-analytics-data-at-twitter)
+[Discovery and Consumption of Analytics Data at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2016/discovery-and-consumption-of-analytics-data-at-twitter) - A pretty detailed discussion on data discovery, especially given that this was in 2016
 
 ### Uber
 
