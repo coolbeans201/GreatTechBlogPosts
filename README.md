@@ -187,43 +187,43 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### Facebook/Meta
 
-[Enabling static analysis of SQL queries at Meta](https://engineering.fb.com/2022/11/30/data-infrastructure/static-analysis-sql-queries/)
+[Enabling static analysis of SQL queries at Meta](https://engineering.fb.com/2022/11/30/data-infrastructure/static-analysis-sql-queries/) - A really neat overview of how FB handles SQL linting, amongst other things
 
-[Move faster, wait less: Improving code review time at Meta](https://engineering.fb.com/2022/11/16/culture/meta-code-review-time-improving/)
+[Move faster, wait less: Improving code review time at Meta](https://engineering.fb.com/2022/11/16/culture/meta-code-review-time-improving/) - FB's code review, especially considering it's a monorepo, is extremely well done
 
-[Tulip: Schematizing Meta’s data platform](https://engineering.fb.com/2022/11/09/developer-tools/tulip-schematizing-metas-data-platform/)
+[Tulip: Schematizing Meta’s data platform](https://engineering.fb.com/2022/11/09/developer-tools/tulip-schematizing-metas-data-platform/) - Logging is very important to FB, so this is good insight into how that performance is maintained
 
-[Scaling data ingestion for machine learning training at Meta](https://engineering.fb.com/2022/09/19/ml-applications/data-ingestion-machine-learning-training-meta/)
+[Scaling data ingestion for machine learning training at Meta](https://engineering.fb.com/2022/09/19/ml-applications/data-ingestion-machine-learning-training-meta/) - I didn't necessarily understand everything here, but this was an interesting read nonetheless
 
-[Improving Meta’s SLO workflows with data annotations](https://engineering.fb.com/2022/08/29/developer-tools/improving-metas-slo-workflows-with-data-annotations/)
+[Improving Meta’s SLO workflows with data annotations](https://engineering.fb.com/2022/08/29/developer-tools/improving-metas-slo-workflows-with-data-annotations/) - Annotations can certainly give more insight into observability
 
-[Introducing Zelos: A ZooKeeper API leveraging Delos](https://engineering.fb.com/2022/06/08/developer-tools/zelos/)
+[Introducing Zelos: A ZooKeeper API leveraging Delos](https://engineering.fb.com/2022/06/08/developer-tools/zelos/) - Interesting overview of how FB plans on moving from ZooKepper to something more at their scale
 
-[BellJar: A new framework for testing system recoverability at scale](https://engineering.fb.com/2022/05/05/developer-tools/belljar/)
+[BellJar: A new framework for testing system recoverability at scale](https://engineering.fb.com/2022/05/05/developer-tools/belljar/) - Recovering from an outage can't be easy for something the scale of FB, so this was a good overview of how they accomplish it
 
-[SLICK: Adopting SLOs for improved reliability](https://engineering.fb.com/2021/12/13/production-engineering/slick/)
+[SLICK: Adopting SLOs for improved reliability](https://engineering.fb.com/2021/12/13/production-engineering/slick/) - FB's monitoring is top-notch, and it's overviews like these that show why
 
-[Nemo: Data discovery at Facebook](https://engineering.fb.com/2020/10/09/data-infrastructure/nemo/)
+[Nemo: Data discovery at Facebook](https://engineering.fb.com/2020/10/09/data-infrastructure/nemo/) - FB's data discovery, speaking from personal experience, is immensely impressive
 
-[Aria Presto: Making table scan more efficient](https://engineering.fb.com/2019/06/10/data-infrastructure/aria-presto/)
+[Aria Presto: Making table scan more efficient](https://engineering.fb.com/2019/06/10/data-infrastructure/aria-presto/) - Table scans are a painful activity, so making that more efficiently holds a lot of weight in SQL engines
 
-[Getafix: How Facebook tools learn to fix bugs automatically](https://engineering.fb.com/2018/11/06/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/)
+[Getafix: How Facebook tools learn to fix bugs automatically](https://engineering.fb.com/2018/11/06/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/) - Obviosuly treading into dangerous territory, but automating bug squashing could be very useful for many places
 
-[Migrating Messenger storage to optimize performance](https://engineering.fb.com/2018/06/26/core-data/migrating-messenger-storage-to-optimize-performance/)
+[Migrating Messenger storage to optimize performance](https://engineering.fb.com/2018/06/26/core-data/migrating-messenger-storage-to-optimize-performance/) - How a service the size of Messenger is able to stay afloat
 
-[Rapid release at massive scale](https://engineering.fb.com/2017/08/31/web/rapid-release-at-massive-scale/)
+[Rapid release at massive scale](https://engineering.fb.com/2017/08/31/web/rapid-release-at-massive-scale/) - DevOps applied to FB
 
-[Facebook Chef cookbooks](https://engineering.fb.com/2016/04/15/core-data/facebook-chef-cookbooks/)
+[Facebook Chef cookbooks](https://engineering.fb.com/2016/04/15/core-data/facebook-chef-cookbooks/) - How Facebook (although an older post) puts CI/CD to use
 
-[Engineering Culture: Code ownership](https://engineering.fb.com/2014/10/28/culture/engineering-culture-code-ownership/)
+[Engineering Culture: Code ownership](https://engineering.fb.com/2014/10/28/culture/engineering-culture-code-ownership/) - Code ownership is certainly a debatable topic
 
-[Scaling Mercurial at Facebook](https://engineering.fb.com/2014/01/07/core-data/scaling-mercurial-at-facebook/)
+[Scaling Mercurial at Facebook](https://engineering.fb.com/2014/01/07/core-data/scaling-mercurial-at-facebook/) - The Mercurial monorepo is FB is gigantic, so this is an interesting insight into how it's actually serving the thousands of engineers who work on it.
 
-[Presto: Interacting with petabytes of data at Facebook](https://engineering.fb.com/2013/11/06/core-data/presto-interacting-with-petabytes-of-data-at-facebook/)
+[Presto: Interacting with petabytes of data at Facebook](https://engineering.fb.com/2013/11/06/core-data/presto-interacting-with-petabytes-of-data-at-facebook/) - Presto laid the foundation for what's Trino now, so understanding how Presto is as efficient as it is will help explain Starburst Galaxy and the like
 
-[Join Optimization in Apache Hive](https://engineering.fb.com/2010/12/15/core-data/join-optimization-in-apache-hive/)
+[Join Optimization in Apache Hive](https://engineering.fb.com/2010/12/15/core-data/join-optimization-in-apache-hive/) - Older article, but join optimizations in Hive is still a relevant topic
 
-[Scaling Out](https://engineering.fb.com/2008/08/20/core-data/scaling-out/)
+[Scaling Out](https://engineering.fb.com/2008/08/20/core-data/scaling-out/) - An earlier post before FB was the FB we know today, but still a good lesson to be learned
 
 ### Future Processing
 
@@ -459,25 +459,25 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### Slack
 
-[BuildRock: A Build Platform at Slack](https://slack.engineering/buildrock-a-build-platform-at-slack/)
+[BuildRock: A Build Platform at Slack](https://slack.engineering/buildrock-a-build-platform-at-slack/) - Proper CI/CD platforms help unblock many teams, so it's imperative to do it right
 
-[Infrastructure Observability for Changing the Spend Curve](https://slack.engineering/infrastructure-observability-for-changing-the-spend-curve/)
+[Infrastructure Observability for Changing the Spend Curve](https://slack.engineering/infrastructure-observability-for-changing-the-spend-curve/) - Generally, it's not CI infrastructure that hogs costs, but always good to be aware of everything
 
-[Data Lineage at Slack](https://slack.engineering/data-lineage-at-slack/)
+[Data Lineage at Slack](https://slack.engineering/data-lineage-at-slack/) - Effective implementation of data lineage, especially with Slack notifications involved
 
-[How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
+[How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/) - For those interested in API design, this is a good set of principles to follow
 
-[Starting an Initiative](https://slack.engineering/starting-an-initiative/)
+[Starting an Initiative](https://slack.engineering/starting-an-initiative/) - Finding impact can be difficult at first, but persistence is key
 
-[How Big Technical Changes Happen at Slack](https://slack.engineering/how-big-technical-changes-happen-at-slack/)
+[How Big Technical Changes Happen at Slack](https://slack.engineering/how-big-technical-changes-happen-at-slack/) - Good discussion on when the hype is real and joining the trend
 
-[Deploys at Slack](https://slack.engineering/deploys-at-slack/)
+[Deploys at Slack](https://slack.engineering/deploys-at-slack/) - A very solid CI/CD implementation
 
-[Disasterpiece Theater: Slack’s process for approachable Chaos Engineering](https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering/)
+[Disasterpiece Theater: Slack’s process for approachable Chaos Engineering](https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering/) - Chaos engineering helps keep websites like Slack up around the clock
 
-[Data Wrangling at Slack](https://slack.engineering/data-wrangling-at-slack/)
+[Data Wrangling at Slack](https://slack.engineering/data-wrangling-at-slack/) - An older article, but an effective implementation for data wrangling
 
-[Data Consistency Checks](https://slack.engineering/data-consistency-checks/)
+[Data Consistency Checks](https://slack.engineering/data-consistency-checks/) - An older article, but still covers valuable points related to data quality
 
 ### Soundcloud
 
@@ -597,45 +597,43 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 ### Uber
 
-[Introducing WorkflowGuard: The Workflow Governance and Observability System That Oversees over 120,000 Data Workflows](https://www.uber.com/blog/introducing-workflowguard/)
+[Introducing WorkflowGuard: The Workflow Governance and Observability System That Oversees over 120,000 Data Workflows](https://www.uber.com/blog/introducing-workflowguard/) - Automated tools like these will become more of a reality, especially in the larger organizations
 
-[Crane: Uber’s Next-Gen Infrastructure Stack](https://www.uber.com/blog/crane-ubers-next-gen-infrastructure-stack/)
+[Crane: Uber’s Next-Gen Infrastructure Stack](https://www.uber.com/blog/crane-ubers-next-gen-infrastructure-stack/) - The future of big data processing at Uber
 
-[Cost Efficiency @ Scale in Big Data File Format](https://www.uber.com/blog/cost-efficiency-big-data/)
+[Cost Efficiency @ Scale in Big Data File Format](https://www.uber.com/blog/cost-efficiency-big-data/) - A bit advanced, but a nice overview on how Uber keeps their costs in check
 
-[Streaming Real-Time Analytics with Redis, AWS Fargate, and Dash Framework](https://www.uber.com/blog/streaming-real-time-analytics/)
+[Streaming Real-Time Analytics with Redis, AWS Fargate, and Dash Framework](https://www.uber.com/blog/streaming-real-time-analytics/) - A good implementation of real-time analytics
 
-[How Data Shapes the Uber Rider App](https://www.uber.com/blog/how-data-shapes-the-uber-rider-app/)
+[How Data Shapes the Uber Rider App](https://www.uber.com/blog/how-data-shapes-the-uber-rider-app/) - A good overview on what role data plays in the Uber app
 
-[How Uber Achieves Operational Excellence in the Data Quality Experience](https://www.uber.com/blog/operational-excellence-data-quality/)
+[How Uber Achieves Operational Excellence in the Data Quality Experience](https://www.uber.com/blog/operational-excellence-data-quality/) - +1 for operational excellence and proper data quality
 
-[Continuous Integration and Deployment for Machine Learning Online Serving and Models](https://www.uber.com/blog/continuous-integration-deployment-ml/)
+[Continuous Integration and Deployment for Machine Learning Online Serving and Models](https://www.uber.com/blog/continuous-integration-deployment-ml/) - How Uber tackles some of their MLOps challenges
 
-[Uber’s Journey Toward Better Data Culture From First Principles](https://www.uber.com/blog/ubers-journey-toward-better-data-culture-from-first-principles/)
+[Uber’s Journey Toward Better Data Culture From First Principles](https://www.uber.com/blog/ubers-journey-toward-better-data-culture-from-first-principles/) - I'm a big fan of the principles mentioned in this page
 
-[Turning Metadata Into Insights with Databook](https://www.uber.com/blog/metadata-insights-databook/)
+[Turning Metadata Into Insights with Databook](https://www.uber.com/blog/metadata-insights-databook/) - A data discovery/observability platform that can be the gold standard for others
 
-[Monitoring Data Quality at Scale with Statistical Modeling](https://www.uber.com/blog/monitoring-data-quality-at-scale/)
+[Monitoring Data Quality at Scale with Statistical Modeling](https://www.uber.com/blog/monitoring-data-quality-at-scale/) - Very useful applications of modeling for proper DQM
 
-[Uber’s Data Platform in 2019: Transforming Information to Intelligence](https://www.uber.com/blog/uber-data-platform-2019/)
+[Uber’s Data Platform in 2019: Transforming Information to Intelligence](https://www.uber.com/blog/uber-data-platform-2019/) - A bit outdated by DE standards, but valuable insight into how Uber manages to continue to perform at scale
 
-[Solving Big Data Challenges with Data Science at Uber](https://www.uber.com/blog/solving-big-data-challenges-with-data-science-at-uber/)
+[Solving Big Data Challenges with Data Science at Uber](https://www.uber.com/blog/solving-big-data-challenges-with-data-science-at-uber/) - Fun applications of Data Science within Uber
 
-[Managing Uber’s Data Workflows at Scale](https://www.uber.com/blog/managing-data-workflows-at-scale/)
+[Managing Uber’s Data Workflows at Scale](https://www.uber.com/blog/managing-data-workflows-at-scale/) - Eliminating single points of failure and converging to unified products when possible are very solid principles to be considering for larger platforms
 
-[Databook: Turning Big Data into Knowledge with Metadata at Uber](https://www.uber.com/blog/databook/)
+[Databook: Turning Big Data into Knowledge with Metadata at Uber](https://www.uber.com/blog/databook/) - Cool overview on how Uber brings out their data discovery
 
-[Turbocharging Analytics at Uber with our Data Science Workbench](https://www.uber.com/blog/dsw/)
+[Turbocharging Analytics at Uber with our Data Science Workbench](https://www.uber.com/blog/dsw/) - Self-serve analytics platforms like what Uber has built are the backbone of larger organizations
 
-[Databook: Turning Big Data into Knowledge with Metadata at Uber](https://www.uber.com/blog/databook/)
+[Engineering Data Analytics with Presto and Apache Parquet at Uber](https://www.uber.com/blog/presto/) - How Uber uses Presto and Parquet for an efficient SQL engine
 
-[Engineering Data Analytics with Presto and Apache Parquet at Uber](https://www.uber.com/blog/presto/)
+[ETA Phone Home: How Uber Engineers an Efficient Route](https://www.uber.com/blog/engineering-routing-engine/) - An interesting read on how Uber puts routes together
 
-[ETA Phone Home: How Uber Engineers an Efficient Route](https://www.uber.com/blog/engineering-routing-engine/)
+[Identifying Outages with Argos, Uber Engineering’s Real-Time Monitoring and Root-Cause Exploration Tool](https://www.uber.com/blog/argos-real-time-alerts/) - An earlier but still extremely relevant post on anomaly detection and the role it plays in monitoring
 
-[Identifying Outages with Argos, Uber Engineering’s Real-Time Monitoring and Root-Cause Exploration Tool](https://www.uber.com/blog/argos-real-time-alerts/)
-
-[The Pulse of a City: How People Move Using Uber Engineering](https://www.uber.com/blog/data-visualization-city-movement/)
+[The Pulse of a City: How People Move Using Uber Engineering](https://www.uber.com/blog/data-visualization-city-movement/) - For those into data visualization, a nice view into Uber transport in big cities
 
 ### VTS
 
