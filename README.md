@@ -185,6 +185,8 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 [Rethinking Data Visualization](https://medium.com/expedia-group-tech/rethinking-data-visualization-39e105cca4e8) - Product thinking applied to data visualization
 
+[Unified Machine Learning Platforms At Expedia Group](https://medium.com/expedia-group-tech/unified-machine-learning-platform-at-expedia-group-5aee72606c74) - Awesome overview of Expedia's ML journey
+
 ### Facebook/Meta
 
 [Enabling static analysis of SQL queries at Meta](https://engineering.fb.com/2022/11/30/data-infrastructure/static-analysis-sql-queries/) - A really neat overview of how FB handles SQL linting, amongst other things
@@ -438,6 +440,8 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 [Why Shopify Moved to The Production Engineering Model](https://shopify.engineering/why-shopify-moved-to-the-production-engineering-model) - Having a model in place like this makes everyone's lives easier
 
 [Developer Onboarding at Shopify](https://shopify.engineering/developer-onboarding-at-shopify) - Proper onboarding can make a world of difference for engineers, and it seems like Shopify has it down pat
+
+[Unlocking Real-time Predictions with Shopify's Machine Learning Platform](https://shopifyengineering.myshopify.com/blogs/engineering/shopifys-machine-learning-platform-real-time-predictions) - Very well-done explanation of how Merlin us being used at scale today
 
 ### Sky Betting and Gambling
 
