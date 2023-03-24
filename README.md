@@ -125,6 +125,12 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 [The Best Way to Control Kubernetes and Cloud Costs](https://d2iq.com/blog/the-best-way-to-control-kubernetes-and-cloud-costs) - More FinOps with Kubernetes
 
+### DataKitchen
+
+[Data Observability and Monitoring with DataOps](https://medium.com/data-ops/data-observability-and-monitoring-with-dataops-45fe822196f7) - A very useful overview of DataOps and a platform that supports it
+
+[Use DataOps With Your Data Mesh to Prevent Data Mush](https://medium.com/data-ops/use-dataops-with-your-data-mesh-to-prevent-data-mush-ec341492cebc) - A good post on how DataOps and data mesh are intertwined
+
 ### Deliveroo
 
 [The Emergence and Evolution of Analytics Engineering at Deliveroo](https://deliveroo.engineering/2022/01/19/the-emergence-and-evolution-of-analytics-engineering-at-deliveroo.html) - Analytics engineering is definitely on the rise as of late, so this is a good introduction to what exactly that is
