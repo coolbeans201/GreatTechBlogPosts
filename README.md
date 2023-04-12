@@ -161,6 +161,8 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 [Organizing Machine Learning: Every Flavor Welcome!](https://doordash.engineering/2020/02/12/organizing-machine-learning-every-flavor-welcome/) - A solid set of principles for growing ML
 
+[Using Metrics Layer to Standardize and Scale Experimentation at DoorDash](https://doordash.engineering/2023/04/12/using-metrics-layer-to-standardize-and-scale-experimentation-at-doordash/) - As someone wanting to know more about the metrics layer, this was a great post with a very detailed overview
+
 ### Doximity
 
 [Finding Joy in Git Conflict Resolution](https://technology.doximity.com/articles/finding-joy-in-git-conflict-resolution) - A cool way to make merge conflicts a lot easier
