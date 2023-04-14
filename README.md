@@ -315,6 +315,8 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 [Running Apache Airflow At Lyft](https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff) - Lyft is one of the big "power" users of Airflow, and their model can serve as a template for many
 
+[Big Savings On Big Data](https://medium.com/lyft-engineering/big-savings-on-big-data-9c74b7a35326) - A nice overview of how Lyft managed to bring down their costs in their processing
+
 ### New York Times
 
 [Congrats, You’re On Call! Now What?](https://open.nytimes.com/congrats-youre-on-call-now-what-8d36c5ad60aa) - How to effectively handle an on-call rotation
