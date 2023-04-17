@@ -381,6 +381,14 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 [Big Savings On Big Data](https://medium.com/lyft-engineering/big-savings-on-big-data-9c74b7a35326) - A nice overview of how Lyft managed to bring down their costs in their processing
 
+### McDonald's
+
+[Searching for quality and speed? Observability can help](https://medium.com/mcdonalds-technical-blog/searching-for-quality-and-speed-observability-can-help-860e770ab1ce) - How observability is helping keep McDonald's development go quickly
+
+[A single source of truth: Building a design system library](https://medium.com/mcdonalds-technical-blog/a-single-source-of-truth-building-a-design-system-library-8e12188809a8) - This provides a good template for those who want to ensure they provide a consistent user experience
+
+[Proactive monitoring: The why, what and how](https://medium.com/mcdonalds-technical-blog/proactive-monitoring-the-why-what-and-how-c280b117a835) - Proactive monitoring helps prevent bigger incidents from ever arising. It's the best way to pull off proper monitoring.
+
 ### New York Times
 
 [Congrats, You’re On Call! Now What?](https://open.nytimes.com/congrats-youre-on-call-now-what-8d36c5ad60aa) - How to effectively handle an on-call rotation
