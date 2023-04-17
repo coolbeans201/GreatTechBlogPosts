@@ -59,6 +59,70 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 [Service-aligned Data Platform Architecture](https://canvatechblog.com/service-aligned-data-platform-architecture-6b5a6fc366c4) - A good overview of Canvas's data platform and CDC.
 
+### Capital One
+
+[The evolution of issue tracking](https://medium.com/@CapitalOneTech/the-evolution-of-issue-tracking-capital-one-937a0a7ce09) - An important part of being on top of everything, how issue tracking has evolved at Capital One
+
+[Data Profiler: Data Drift Model Monitoring Tool](https://medium.com/@CapitalOneTech/data-profiler-data-drift-model-monitoring-tool-capital-one-e69631f5a058) - Data drift is an underappreciated topic sometimes, so this was a good overview of how it can be properly monitored
+
+[Serverless Computing Reduces Collaboration Costs](https://medium.com/@CapitalOneTech/serverless-computing-reduces-collaboration-costs-capital-one-a60e8cba03c9) - Capital One is really all-in on the serverless revolution, and this is a good explanation of why
+
+[5 reasons to use ML for better data quality](https://medium.com/@CapitalOneTech/5-reasons-to-use-ml-for-better-data-quality-capital-one-75a45592f7d7) - A good post on how ML can be used to enhance data quality
+
+[Serverless architecture technology](https://medium.com/@CapitalOneTech/serverless-architecture-technology-80db4063d3df) - A good overview on different serverless technologies in AWS
+
+[So You Want to Be a Techie?](https://medium.com/capital-one-tech/so-you-want-to-be-a-techie-2a05df05ef57) - Tech is not only for people from a CS background. Anyone can thrive
+
+[How Machine Learning Can Help Fight Money Laundering](https://medium.com/capital-one-tech/how-machine-learning-can-help-fight-money-laundering-d22d8bed7cbc) - Applications of ML in the banking industry
+
+[Giving a Fast-Changing Data Ecosystem Room to Grow](https://medium.com/capital-one-tech/giving-a-fast-changing-data-ecosystem-room-to-grow-5d0cb24a8276) - A good post on how an always-evolving domain is allowed to properly grow
+
+[The “Why” of Inner Source](https://medium.com/capital-one-tech/the-why-of-inner-source-13ee805407f8) - As someone who's big on inner-source, this is a good post of why it's useful
+
+[From the CIO’s View: Building a Nimble Learning Organization](https://medium.com/capital-one-tech/from-the-cios-view-building-a-nimble-learning-organization-f0f2d64506a) - Learning done right within an organization
+
+[Batch and Streaming in the World of Data Science and Data Engineering](https://medium.com/capital-one-tech/batch-and-streaming-in-the-world-of-data-science-and-data-engineering-2cc029cdf554) - A good overview of both batch and stream processing as it relates to DS/DE
+
+[The Journey from Batch to Real-time with Change Data Capture](https://medium.com/capital-one-tech/the-journey-from-batch-to-real-time-with-change-data-capture-c598e56146be) - An explanation of the different technologies that can be used in CDC
+
+[CICD and Data](https://medium.com/capital-one-tech/cicd-pipelines-and-data-platforms-758b074b38b1) - An older post that helps give rise to DataOps
+
+[Doing The Hard Things First — Lessons From Our Cloud Journey](https://medium.com/capital-one-tech/doing-the-hard-things-first-lessons-from-our-cloud-journey-6f6da77ae147) - The financial industry is usually the last when it comes to bigger migration efforts, so this was a good overview of Capital One's cloud migration
+
+[Scaling to Billions of Requests-The Serverless Way at Capital One](https://medium.com/capital-one-tech/scaling-to-billions-of-requests-the-serverless-way-at-capital-one-e5958b4fa1b7) - How Capital One properly scales to support all the transactions it handles
+
+[Guardrails for AWS Event-Driven Serverless Architectures](https://medium.com/capital-one-tech/guardrails-for-aws-event-driven-serverless-architectures-f9bc12ad689f) - Best practices for using serverless technologies in AWS
+
+[The 3 R’s of SREs: Resiliency, Recovery & Reliability](https://medium.com/capital-one-tech/the-3-rs-of-sres-resiliency-recovery-reliability-5f2f5360a91b) - Even though this post is about SRE, many of the same principles apply to DRE as well
+
+[3 Considerations for Containers & Serverless Compute Options](https://medium.com/capital-one-tech/3-considerations-for-containers-serverless-compute-options-583d5d6ee93d) - Things to consider when making the migration to serverless
+
+[Serverless Stream Consumers — Common Pitfalls and Best Practices](https://medium.com/capital-one-tech/serverless-stream-consumers-common-pitfalls-and-best-practices-8fd431a892f) - Best practices for properly ingesting stream data
+
+[4 Serverless Myths to Understand Before Getting Started with AWS](https://medium.com/capital-one-tech/4-serverless-myths-to-understand-before-getting-started-with-aws-48c4ab1203ab) - A good overview on misconceptions to ignore before getting started with serverless
+
+[Embrace the Chaos … Engineering](https://medium.com/capital-one-tech/embrace-the-chaos-engineering-203fd6fc6ff7) - A good overview on how to properly do chaos engineering
+
+[6 Principles of a Well Managed Change](https://medium.com/capital-one-tech/6-principles-of-a-well-managed-change-35a3f4fed28e) - Good principles to consider when it comes to bigger changes
+
+[Governance in a DevOps Environment](https://medium.com/capital-one-tech/devops-and-governance-56f6ecae1181) - Properly integrated DevOps with governance
+
+[4 Steps for Pairing the Cloud and DevOps to Improve Resiliency](https://medium.com/capital-one-tech/4-steps-for-pairing-cloud-and-devops-to-improve-resiliency-c72fe2e52b05) - A very good post on how DevOps can be used to improve overall resiliency of an architecture
+
+[https://medium.com/capital-one-tech/focusing-on-the-devops-pipeline-topo-pal-833d15edf0bd](https://medium.com/capital-one-tech/focusing-on-the-devops-pipeline-topo-pal-833d15edf0bd) - The intersection of Agile and DevOps
+
+[Continuous Chaos — Introducing Chaos Engineering into DevOps Practices](https://medium.com/capital-one-tech/continuous-chaos-introducing-chaos-engineering-into-devops-practices-75757e1cca6d) - How chaos engineering and DevOps can feed off of one another
+
+[Continuous Delivery and What the Heck Happened to QA?](https://medium.com/capital-one-tech/continuous-delivery-and-what-the-heck-happened-to-qa-d6f999bc7643) - Why CD works and the importance of having a QA environment
+
+[DevOps is a State of Mind, Not Just a Role](https://medium.com/capital-one-tech/devops-is-a-state-of-mind-not-just-a-role-b58e577e9358) - I 100% agree with the premise of this post, as DevOps is a bigger adjustment than just learning a set of principles
+
+[No Testing Strategy, No DevOps](https://medium.com/capital-one-tech/no-testing-strategy-no-devops-915287e1b4fd) - A great overview on why proper testing is needed to successfully pull off DevOps
+
+[The Mon-ifesto Part 2: Alerting and Graphing](https://medium.com/capital-one-developers/the-mon-ifesto-part-2-alerting-and-graphing-bf51828a008f) - Proper alerting/graphing principles in application monitoring
+
+[The Mon-ifesto Part 3: Alert Response and Post-Mortem](https://medium.com/capital-one-tech/the-mon-ifesto-part-3-alert-response-and-post-mortem-cd227c684ac0) - Postmortems are an underappreciated aspect of monitoring and incident management, but they're very relevant to helping ensure that issues suppress themselves in the future
+
 ### Chick-fil-A
 
 [Enterprise Architecture at Chick-fil-A](https://medium.com/chick-fil-atech/enterprise-architecture-at-chick-fil-a-41bc263cf81d) - A great view of how important architecture can be in the restaurant industry.
