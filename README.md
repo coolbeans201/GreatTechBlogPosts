@@ -353,6 +353,8 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 [SLOs for everyone with Sloth](https://engineering.hellofresh.com/slos-for-everyone-with-sloth-1704009b20a2) - A very well-detailed explanation of how HelloFresh has full-scale monitoring for their SLOs in place
 
+[How HelloFresh establishes Data Quality with an in-house tool](https://medium.com/hellofresh-dev/how-hellofresh-establishes-data-quality-with-an-in-house-tool-ecb6fe060ba2) - A very nice implementation of data quality and attempting to shift left with it as well
+
 ### Helpshift
 
 [Building a Data warehouse with Hive at Helpshift — Part 1](https://medium.com/helpshift-engineering/building-a-data-warehouse-with-hive-at-helpshift-part-1-443046df6484) - A little more outdated, but still a useful overview of how you can build a warehouse with Hive as your backbone
