@@ -643,6 +643,10 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 [Creating a Culture of Quality](https://tech.trivago.com/post/2015-08-31-culture_of_quality/) - A good post on proper quality when it comes to CI/CD
 
+[Technical Decision-Making](https://tech.trivago.com/post/2023-02-22-technical-decision-making) - A good guide to help standardize the technical decision-making process
+
+[What Have I Even Been Doing Today?](https://tech.trivago.com/post/2023-01-03-engineer-to-manager-three-mindset-shifts) - How to come to terms with moving from an IC into a management role
+
 ### Twitch
 
 [Twitch Engineering: An Introduction and Overview](https://blog.twitch.tv/en/2015/12/18/twitch-engineering-an-introduction-and-overview-a23917b71a25/) - Older post, but still a cool overview of how Twitch is set up
