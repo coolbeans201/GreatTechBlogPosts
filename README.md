@@ -43,6 +43,16 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 [Why the way we look at technical debt is wrong](https://www.bigeng.io/why-the-way-we-look-at-technical-debt-is-wrong/) - Tech debt needs to be accepted and not be viewed as a negative.
 
+### Blackrock
+
+[Developer Engagement One Code Review at a Time](https://medium.com/blackrock-engineering/developer-engagement-one-code-review-at-a-time-e01fe5cfc36b) - A good overview of how to really handle code review in an efficient manner
+
+[Domain-Driven Asset Management](https://engineering.blackrock.com/domain-driven-asset-management-1d93ef63ba35) - Asset management is a discussion that doesn't get a lot of hype but is very relevant in the context of systems like the one at Blackrock
+
+[Citizen Developer Cookbook: Python Multiprocessing](https://engineering.blackrock.com/citizen-developer-cookbook-python-multiprocessing-3dc3c8cab29a) - I've always wanted to know more about multiprocessing in Python, so this was a helpful tutorial
+
+[Telemetry and Observability at BlackRock](https://engineering.blackrock.com/telemetry-and-observability-at-blackrock-99cc6ed865ee) - A great primer for those wanting to understand more about telemetry and observability
+
 ### Booking
 
 [How Reliability and Product Teams Collaborate at Booking.com](https://medium.com/booking-com-infrastructure/how-reliability-and-product-teams-collaborate-at-booking-com-f6c317cc0aeb) - Collaborating with the product team needs to become more commonplace for development teams.
