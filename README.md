@@ -309,6 +309,10 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 [Scaling Out](https://engineering.fb.com/2008/08/20/core-data/scaling-out/) - An earlier post before FB was the FB we know today, but still a good lesson to be learned
 
+### Funding Circle
+
+[How we manage documentation at Funding Circle for our Data Platform](https://medium.com/funding-circle/how-we-manage-documentation-at-funding-circle-for-our-data-platform-960a422b9b2e) - A great guide on properly handling documentation
+
 ### Future Processing
 
 [Data science and data analytics – know the difference](https://www.future-processing.com/blog/data-science-and-data-analytics-know-the-difference/) - These terms sometimes are used interchangeably but have their differences, so it's important to distinguish them
@@ -372,6 +376,12 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 ### Instacart
 
 [Building for Balance](https://tech.instacart.com/building-for-balance-e61fb9511893) - A very thorough overview of how Instacart finds the balance between fast deliveries and high-earning opportunities for their drivers
+
+### Intuit
+
+[Democratizing AI to Accelerate ML Model Development in Weeks vs. Months](https://medium.com/intuit-engineering/democratizing-ai-to-accelerate-ml-model-development-in-weeks-vs-months-9e895e3239a9) - A good overview on how the ML development process has been sped up at Intuit
+
+[How to Ensure Release Candidates are Good2Go? Automated Performance Pipelines.](https://medium.com/intuit-engineering/how-to-ensure-release-candidates-are-good2go-automated-performance-pipelines-9e2d28200ca0) - Proper performance testing as a part of the CI/CD process is not something that's done enough, but this is a good set of principles to employ to accomplish that
 
 ### LINE
 
@@ -734,6 +744,46 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 ### VTS
 
 [Designing for Data](https://buildingvts.com/designing-for-data-e3758fb2dd2a) - Telling a story with data is underrated
+
+### Walmart Global Tech
+
+[Rapid & Reliable ML Experiments using MLOps Best Practices.](https://medium.com/walmartglobaltech/rapid-reliable-ml-experiments-using-mlops-best-practices-7f01e563cb3e) - A good application of MLOps principles
+
+[element: Walmart’s Machine Learning Platform](https://medium.com/@bagavath/element-walmarts-machine-learning-platform-b8a1f7870784) - A very good overview of the ML platform that's in place at Walmart
+
+[Unsung Saga of MLOps](https://medium.com/walmartglobaltech/unsung-saga-of-mlops-1b494f587638) - This is a good set of principles to really kick ML engineering into high gear
+
+[MLOps — Is it a Buzzword??? Part -1](https://medium.com/walmartglobaltech/mlops-is-it-a-buzzword-part-1-8573fe95290e) - MLOps is more than just a buzzword or a trend. It's a cultural change.
+
+[The Importance of Good Data](https://medium.com/walmartglobaltech/the-importance-of-good-data-c5d6c5d3095d) - For those who like to sleep on data quality, this one's for you
+
+[Pillars of Walmart’s Demand Forecasting](https://medium.com/walmartglobaltech/pillars-of-walmarts-demand-forecasting-f6722de86e1a) - The pillars used to accomplish proper demand forecasting make sense for any company in the same line of work
+
+[DataBathing — A Framework for Transferring the Query to Spark Code](https://medium.com/walmartglobaltech/databathing-a-framework-for-transferring-the-query-to-spark-code-484957a7e049) - We actually use a similar process to simplify SparkSQL queries. It's good to see others do the same.
+
+[Engineering Acceleration with InnerSource Culture](https://medium.com/walmartglobaltech/engineering-acceleration-with-innersource-culture-5dfaeab32921) - Inner-source culture is a big one in companies.
+
+[Unified Monitoring of ETL Performance with BumbleBee](https://medium.com/walmartglobaltech/unified-monitoring-of-etl-performance-with-bumblebee-bc2580954584) - A good overview of how to do effective ETL monitoring
+
+[Resiliency Through Message-Driven Architecture](https://medium.com/walmartglobaltech/resiliency-through-message-driven-architecture-137c4547dc80) - The message/event-driven architecture is definitely a sensible one based on the internals of your application
+
+[Cloud Native Architecture Fundamentals](https://medium.com/walmartglobaltech/cloud-native-architecture-fundamentals-ac13f979916d) - A good overview of what it really means to be Cloud-native
+
+[Data as a Service](https://medium.com/walmartglobaltech/data-as-a-service-c75c0fe3660b) - A lot of these same concepts are a part of data products as we know them now
+
+[Auditing Airflow Job Runs](https://medium.com/walmartglobaltech/auditing-airflow-batch-jobs-73b45100045) - Auditing Airflow job runs is crucial as a part of proper observability
+
+[The Keystone of Happy Teams](https://medium.com/walmartglobaltech/the-keystone-of-happy-teams-db071d076058) - Psychological safety is a great term to use when distinguishing the average team from happy teams
+
+[Building a Platform Team — Laying the Foundations](https://medium.com/walmartglobaltech/building-a-platform-team-d915221d5654) - A great overview on how to really set up a proper platform team
+
+[Product Management 101: 8 Steps to Design Better Products](https://medium.com/walmartglobaltech/product-management-101-8-steps-to-design-better-products-b3a4436da27b) - Even as engineers, we should be familiar with many of these concepts so we can help our product stakeholders accordingly
+
+[The Power of an Invisible Leader](https://medium.com/walmartglobaltech/the-power-of-an-invisible-leader-8c4a6143895) - I've never heard the term "invisible leader" before, but it's a sensible one based on the description
+
+[Work Got You Stressed? Here Is My Secret To Controlling The Chaos.](https://medium.com/walmartglobaltech/work-got-you-stressed-here-is-my-secret-to-controlling-the-chaos-c5d19c4d450f) - A very applicable guide to myself, as I struggle with work stress all the time
+
+[5 Principles Guaranteed to Help Build a Strong Team Culture](https://medium.com/walmartglobaltech/5-principles-guaranteed-to-help-build-a-strong-team-culture-6055ab478c56) - As someone who is big on team culture, I thought this was a great read.
 
 ### Wayfair
 
