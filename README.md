@@ -581,6 +581,22 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 
 [Data Consistency Checks](https://slack.engineering/data-consistency-checks/) - An older article, but still covers valuable points related to data quality
 
+### Slalom
+
+[Cloud Trends: A Mainstream Evolution to DataOps](https://medium.com/slalom-data-ai/cloud-trends-a-mainstream-evolution-to-dataops-219f2d7fd764) - A good overview on the relevance of DataOps in this current era
+
+[The Building Blocks of Success: Is Data Mesh Right for My Organization?](https://medium.com/slalom-data-ai/the-building-blocks-of-success-is-data-mesh-right-for-my-organization-f05931f029db) - Data mesh is (rightfully) a buzzword right now, but that doesn't mean it's for everyone. This is a good guide on when data mesh makes sense.
+
+[Data Is Everywhere. Is Yours Under Control?](https://medium.com/slalom-data-ai/data-is-everywhere-is-yours-under-control-7b77cc7df259) - A good post on the relevance of data governance
+
+[Data Modelling is More than Documentation](https://medium.com/slalom-data-ai/data-modelling-is-more-than-documentation-3e9a1b73f511) - A good explanation on the different types of data models
+
+[Deconstructing Data Mesh Principles](https://medium.com/slalom-data-ai/data-mesh-232e50f42e66) - A good overview on the different key principles of a data mesh
+
+[Data Mesh: is the argument a strawman?](https://medium.com/slalom-data-ai/data-mesh-is-the-argument-a-strawman-3cffaf55ce5e) - A post battling the hype of data meshes
+
+[Building a Culture of Data and Insights](https://medium.com/slalom-data-ai/building-a-culture-of-data-and-insights-ed0c6a81f943) - A nice overview of how to enable a data-driven culture
+
 ### Soundcloud
 
 [Building a Healthy On-Call Culture](https://developers.soundcloud.com/blog/building-a-healthy-on-call-culture) - Tips for helping ensure a smooth on-call process
