@@ -1,7 +1,7 @@
 # Great Tech Blog Posts From Companies
 A collection of my favorite tech-related blog posts from companies.
 
-Inspiration for this README comes from @kilimchoi's repo: https://github.com/kilimchoi/engineering-blogs
+Inspiration for this README comes from @kilimchoi's [repo](https://github.com/kilimchoi/engineering-blogs)
 
 **Note: I am a Data Engineer, so the majority of these links will be data-related. However, there are plenty of general ones in here as well. I do plan on organizing this better in the future (or if someone wants to take a crack at it, be my guest :))**
 
@@ -168,6 +168,16 @@ Inspiration for this README comes from @kilimchoi's repo: https://github.com/kil
 [How we Roadmap in 2021](https://techblog.commercetools.com/how-we-roadmap-in-2021-d024a4c6b180) - Effective roadmapping makes the Agile process a lot easier than it tends to be.
 
 [It’s done! Or is it?](https://techblog.commercetools.com/its-done-or-is-it-9fe91b9a6981) - A proper definition of done allows there never to be any guesswork when it comes to sprint planning.
+
+### Compass
+
+[Building Great Products at Compass IDC](https://medium.com/compass-true-north/building-great-products-at-compass-idc-9c8c7587a5b3) - A good guide on what it takes to build "great" products.
+
+[Repositories — One or Many](https://medium.com/compass-true-north/repositories-one-or-many-f9da590611af) - This is worth more of a discussion than you think. The monorepo vs. multiple repo debate can have cascading effect based on which approach you choose.
+
+[The Engineering Manager Guide: Spinning Up a Results Oriented Team](https://medium.com/compass-true-north/the-engineering-manager-guide-spinning-up-a-results-oriented-team-ed3337675a5b) - Teams need to be focused on impact/results. This was a great overview on the practices needed to get there.
+
+[Writing Good Commit Messages](https://medium.com/compass-true-north/writing-good-commit-messages-fc33af9d6321) - Leaving this as more of a reminder to myself as my commit messages are lazy (and occasionally involve curse words)
 
 ### Confluent
 
