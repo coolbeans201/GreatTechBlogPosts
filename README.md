@@ -7,6 +7,16 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 ## Links
 
+### Adobe
+
+[Taking Query Optimizations to the Next Level with Iceberg](https://blog.developer.adobe.com/taking-query-optimizations-to-the-next-level-with-iceberg-6c968b83cd6f) - As someone looking to learn more about Iceberg, this was a good primer on how to optimize queries
+
+[Iceberg at Adobe](https://blog.developer.adobe.com/iceberg-at-adobe-88cf1950e866) - A good overview on how Iceberg is used at a huge company
+
+[What Is CI/CD² (CI/CD Squared)? Continuous Integration and Continuous Delivery](https://blog.developer.adobe.com/factoring-continuous-destruction-into-a-ci-cd-pipeline-495be05fe1a6) - Continuous destruction isn't a concept we think about often, but it's definitely a useful point to consider
+
+[Adobe Customer Journey Management’s Journey into the World of GitOps](https://blog.developer.adobe.com/adobe-customer-journey-managements-journey-into-the-world-of-gitops-678a65743d8f) - It's great to see more and more companies embracing GitOps
+
 ### Airbnb
 
 [Data Quality at Airbnb](https://medium.com/airbnb-engineering/data-quality-at-airbnb-e582465f3ef7) - The gold standard when it comes to data quality and how it should be followed.
@@ -555,7 +565,9 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Developer Onboarding at Shopify](https://shopify.engineering/developer-onboarding-at-shopify) - Proper onboarding can make a world of difference for engineers, and it seems like Shopify has it down pat
 
-[Unlocking Real-time Predictions with Shopify's Machine Learning Platform](https://shopifyengineering.myshopify.com/blogs/engineering/shopifys-machine-learning-platform-real-time-predictions) - Very well-done explanation of how Merlin us being used at scale today
+[Unlocking Real-time Predictions with Shopify's Machine Learning Platform](https://shopifyengineering.myshopify.com/blogs/engineering/shopifys-machine-learning-platform-real-time-predictions) - Very well-done explanation of how Merlin is being used at scale today
+
+[What Being a Staff Developer Means at Shopify](https://shopify.engineering/what-being-a-staff-developer-means-at-shopify) - Being a staff developer is considered the ultimate rank, but what does it take to get there? This is a helpful guide to getting to that point.
 
 ### Sky Betting and Gambling
 
@@ -634,6 +646,10 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 [Analytics at Spotify](https://engineering.atspotify.com/2013/05/analytics-at-spotify/) - Old post but that only goes to show how much Spotify embraces data
 
 [Agile à la Spotify](https://engineering.atspotify.com/2013/03/agile-a-la-spotify/) - You don't see many places rewriting the Agile manifesto, but the principles Spotify's outlining make sense
+
+[Fleet Management at Spotify (Part 1): Spotify’s Shift to a Fleet-First Mindset](https://engineering.atspotify.com/2023/04/spotifys-shift-to-a-fleet-first-mindset-part-1/) - Maintaining a lot of components is extremely difficult, but Spotify makes it look easy with this approach.
+
+[Getting More from Your Team Health Checks](https://engineering.atspotify.com/2023/03/getting-more-from-your-team-health-checks/) - How to get the most out of your team health/pulse checks, something that's not done enough.
 
 ### Squarespace
 
