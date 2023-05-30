@@ -169,6 +169,10 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Establishing Communication](https://blog.codelitt.com/establishing-communication/) - A good post on the importance of communication in effective graphic design.
 
+### Coinbase
+
+[Databricks cost management at Coinbase](https://www.coinbase.com/blog/databricks-cost-management-at-coinbase) - A good overview on various Databricks cost-savings practices, many of which I've implemented with successful outcomes.
+
 ### Commercetools
 
 [Product & Tech — Better Together!](https://techblog.commercetools.com/product-tech-better-together-7d8ced10d83f) - Another post stressing the importance of the interaction between tech and product teams.
