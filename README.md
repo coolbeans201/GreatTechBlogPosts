@@ -427,6 +427,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Big Savings On Big Data](https://medium.com/lyft-engineering/big-savings-on-big-data-9c74b7a35326) - A nice overview of how Lyft managed to bring down their costs in their processing
 
+[Gotchas of Streaming Pipelines: Profiling & Performance Improvements](https://medium.com/lyft-engineering/gotchas-of-streaming-pipelines-profiling-performance-improvements-301439f46412) - Good tips on optimizing streaming pipelines
+
 ### McDonald's
 
 [Searching for quality and speed? Observability can help](https://medium.com/mcdonalds-technical-blog/searching-for-quality-and-speed-observability-can-help-860e770ab1ce) - How observability is helping keep McDonald's development go quickly
