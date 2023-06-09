@@ -27,6 +27,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [How Airbnb Built “Wall” to prevent data bugs](https://medium.com/airbnb-engineering/how-airbnb-built-wall-to-prevent-data-bugs-ad1b081d6e8f) - A great framework for holding up data quality.
 
+[Metis: Building Airbnb’s Next Generation Data Management Platform](https://medium.com/airbnb-engineering/metis-building-airbnbs-next-generation-data-management-platform-d2c5219edf19) - A very good implementation of a data management platform
+
 ### Atomic Object
 
 [The Benefits of a Spiking Phase in Agile Development](https://spin.atomicobject.com/2023/01/04/spiking-phase-agile-development/) - How spiking helps for proper planning in Agile.
