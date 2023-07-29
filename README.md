@@ -3,7 +3,7 @@ A collection of my favorite tech-related blog posts from companies.
 
 Inspiration for this README comes from @kilimchoi's [repo](https://github.com/kilimchoi/engineering-blogs)
 
-**Note: I am a Data Engineer, so the majority of these links will be data-related. However, there are plenty of general ones in here as well. I do plan on organizing this better in the future (or if someone wants to take a crack at it, be my guest :))**
+**Note: I am a Data Engineer, so the majority of these links will be data-related. However, there are plenty of general ones in here as well.**
 
 ## Links
 
@@ -28,6 +28,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 [How Airbnb Built “Wall” to prevent data bugs](https://medium.com/airbnb-engineering/how-airbnb-built-wall-to-prevent-data-bugs-ad1b081d6e8f) - A great framework for holding up data quality.
 
 [Metis: Building Airbnb’s Next Generation Data Management Platform](https://medium.com/airbnb-engineering/metis-building-airbnbs-next-generation-data-management-platform-d2c5219edf19) - A very good implementation of a data management platform
+
+[Riverbed: Optimizing Data Access at Airbnb’s Scale](https://medium.com/airbnb-engineering/riverbed-optimizing-data-access-at-airbnbs-scale-c37ecf6456d9) - A very sensible way to combine Lambda and Kappa architectures.
 
 ### Atomic Object
 
