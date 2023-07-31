@@ -613,6 +613,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Data Consistency Checks](https://slack.engineering/data-consistency-checks/) - An older article, but still covers valuable points related to data quality
 
+[Service Delivery Index: A Driver for Reliability](https://slack.engineering/service-delivery-index-a-driver-for-reliability/) - For those in SRE, this is a good primer.
+
 ### Slalom
 
 [Cloud Trends: A Mainstream Evolution to DataOps](https://medium.com/slalom-data-ai/cloud-trends-a-mainstream-evolution-to-dataops-219f2d7fd764) - A good overview on the relevance of DataOps in this current era
