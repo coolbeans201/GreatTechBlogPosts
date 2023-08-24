@@ -405,6 +405,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Building for Balance](https://tech.instacart.com/building-for-balance-e61fb9511893) - A very thorough overview of how Instacart finds the balance between fast deliveries and high-earning opportunities for their drivers
 
+[The Next Era of Data at Instacart](https://medium.com/tech-at-instacart/the-next-era-of-data-at-instacart-e081d8dfa162) - Good post on the future of the data org at Instacart
+
 ### Intuit
 
 [Democratizing AI to Accelerate ML Model Development in Weeks vs. Months](https://medium.com/intuit-engineering/democratizing-ai-to-accelerate-ml-model-development-in-weeks-vs-months-9e895e3239a9) - A good overview on how the ML development process has been sped up at Intuit
