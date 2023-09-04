@@ -337,6 +337,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Scaling Out](https://engineering.fb.com/2008/08/20/core-data/scaling-out/) - An earlier post before FB was the FB we know today, but still a good lesson to be learned
 
+[Scheduling Jupyter Notebooks at Meta](https://engineering.fb.com/2023/08/29/security/scheduling-jupyter-notebooks-meta/) - A bit specific to Meta due to Bento not being open-source, but good principles nonetheless
+
 ### Funding Circle
 
 [How we manage documentation at Funding Circle for our Data Platform](https://medium.com/funding-circle/how-we-manage-documentation-at-funding-circle-for-our-data-platform-960a422b9b2e) - A great guide on properly handling documentation
