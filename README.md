@@ -265,6 +265,12 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Using Metrics Layer to Standardize and Scale Experimentation at DoorDash](https://doordash.engineering/2023/04/12/using-metrics-layer-to-standardize-and-scale-experimentation-at-doordash/) - As someone wanting to know more about the metrics layer, this was a great post with a very detailed overview
 
+[How DoorDash Defines Great Engineering Management](https://doordash.engineering/2023/09/19/how-doordash-defines-great-engineering-management/) - I love the transparency behind how DoorDash wants to deliver on their management practices. This is a good template to follow.
+
+[How DoorDash Fosters Meaningful Engineering Career Development](https://doordash.engineering/2023/09/19/how-doordash-fosters-meaningful-engineering-career-development/) - A great model to follow for engineering development.
+
+[Five Common Data Quality Gotchas in Machine Learning and How to Detect Them Quickly](https://doordash.engineering/2022/09/27/five-common-data-quality-gotchas-in-machine-learning-and-how-to-detect-them-quickly/) - A good primer on a proper data quality framework
+
 ### Doximity
 
 [Finding Joy in Git Conflict Resolution](https://technology.doximity.com/articles/finding-joy-in-git-conflict-resolution) - A cool way to make merge conflicts a lot easier
@@ -296,6 +302,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 [Rethinking Data Visualization](https://medium.com/expedia-group-tech/rethinking-data-visualization-39e105cca4e8) - Product thinking applied to data visualization
 
 [Unified Machine Learning Platforms At Expedia Group](https://medium.com/expedia-group-tech/unified-machine-learning-platform-at-expedia-group-5aee72606c74) - Awesome overview of Expedia's ML journey
+
+[The Importance of Being a Code Reviewer](https://medium.com/expedia-group-tech/the-importance-of-being-a-code-reviewer-fdbd910fbce7) - A good set of practices to follow when it comes to code review.
 
 ### Facebook/Meta
 
@@ -399,6 +407,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [How HelloFresh establishes Data Quality with an in-house tool](https://medium.com/hellofresh-dev/how-hellofresh-establishes-data-quality-with-an-in-house-tool-ecb6fe060ba2) - A very nice implementation of data quality and attempting to shift left with it as well
 
+[Data driven Snowflake optimisation at HelloFresh](https://engineering.hellofresh.com/data-driven-snowflake-optimisation-at-hellofresh-55a5b56aa9af) - It's no secret in the DE world that Snowflake can be expensive. A good guide on how to tune down those costs.
+
 ### Helpshift
 
 [Building a Data warehouse with Hive at Helpshift — Part 1](https://medium.com/helpshift-engineering/building-a-data-warehouse-with-hive-at-helpshift-part-1-443046df6484) - A little more outdated, but still a useful overview of how you can build a warehouse with Hive as your backbone
@@ -408,6 +418,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 [Building for Balance](https://tech.instacart.com/building-for-balance-e61fb9511893) - A very thorough overview of how Instacart finds the balance between fast deliveries and high-earning opportunities for their drivers
 
 [The Next Era of Data at Instacart](https://medium.com/tech-at-instacart/the-next-era-of-data-at-instacart-e081d8dfa162) - Good post on the future of the data org at Instacart
+
+[Adopting dbt as the Data Transformation Tool at Instacart](https://tech.instacart.com/adopting-dbt-as-the-data-transformation-tool-at-instacart-36c74bc407df) - Good to see bigger companies starting to adopt dbt
 
 ### Intuit
 
@@ -619,6 +631,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Service Delivery Index: A Driver for Reliability](https://slack.engineering/service-delivery-index-a-driver-for-reliability/) - For those in SRE, this is a good primer.
 
+[Executing Cron Scripts Reliably At Scale](https://slack.engineering/executing-cron-scripts-reliably-at-scale/) - A bit strange not to see Slack using a service like Airflow to handle all of this, but a good overview nonetheless.
+
 ### Slalom
 
 [Cloud Trends: A Mainstream Evolution to DataOps](https://medium.com/slalom-data-ai/cloud-trends-a-mainstream-evolution-to-dataops-219f2d7fd764) - A good overview on the relevance of DataOps in this current era
@@ -798,6 +812,14 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 [Identifying Outages with Argos, Uber Engineering’s Real-Time Monitoring and Root-Cause Exploration Tool](https://www.uber.com/blog/argos-real-time-alerts/) - An earlier but still extremely relevant post on anomaly detection and the role it plays in monitoring
 
 [The Pulse of a City: How People Move Using Uber Engineering](https://www.uber.com/blog/data-visualization-city-movement/) - For those into data visualization, a nice view into Uber transport in big cities
+
+[Evolution of Data Lifecycle Management at Uber](https://www.uber.com/blog/evolution-of-data-lifecycle-management-at-uber/?uclick_id=add05cd1-3a86-4266-b7ca-083dc79f7105) - DLM is a very relevant topic these days, especially with an increased focus on costs. How Uber handles it is a good standard to follow.
+
+[Dynamic Executor Core Resizing in Spark](https://www.uber.com/blog/dynamic-executor-core-resizing-in-spark/?uclick_id=add05cd1-3a86-4266-b7ca-083dc79f7105) - OOM errors in Spark are the worst. This is a good method to make that issue easier.
+
+[Attribute-Based Access Control at Uber](https://www.uber.com/blog/attribute-based-access-control-at-uber/?uclick_id=add05cd1-3a86-4266-b7ca-083dc79f7105) - Proper access control is tricky when it comes to tables, so this is a good foundation for others to follow.
+
+[https://www.uber.com/blog/announcing-cadence/?uclick_id=add05cd1-3a86-4266-b7ca-083dc79f7105](https://www.uber.com/blog/announcing-cadence/?uclick_id=add05cd1-3a86-4266-b7ca-083dc79f7105) - There's always more room for workflow engines, so cool to see what Cadence can bring to the table.
 
 ### VTS
 
