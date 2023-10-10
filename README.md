@@ -347,6 +347,14 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Scheduling Jupyter Notebooks at Meta](https://engineering.fb.com/2023/08/29/security/scheduling-jupyter-notebooks-meta/) - A bit specific to Meta due to Bento not being open-source, but good principles nonetheless
 
+[Data engineering at Meta: High-Level Overview of the internal tech stack](https://medium.com/@AnalyticsAtMeta/data-engineering-at-meta-high-level-overview-of-the-internal-tech-stack-a200460a44fe) - Best thing you'll ever read on comparing the Meta DE tech stack to an open-source one
+
+[The future of the data engineer — Part I](https://medium.com/@AnalyticsAtMeta/the-future-of-the-data-engineer-part-i-32bd125465be) - A great read on the future of DE
+
+[Four Analytics Best Practices We Adopted — and Why You should Too](https://medium.com/@AnalyticsAtMeta/four-analytics-best-practices-we-adopted-and-why-you-should-too-a1058ce5f8af) - Good practices to follow for a successful analytics implementation
+
+[Analytics Career Development at Meta](https://medium.com/meta-analytics/analytics-career-development-at-meta-4327c011aaea) - What career advancement at Meta looks like
+
 ### Funding Circle
 
 [How we manage documentation at Funding Circle for our Data Platform](https://medium.com/funding-circle/how-we-manage-documentation-at-funding-circle-for-our-data-platform-960a422b9b2e) - A great guide on properly handling documentation
