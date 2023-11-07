@@ -355,6 +355,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Analytics Career Development at Meta](https://medium.com/meta-analytics/analytics-career-development-at-meta-4327c011aaea) - What career advancement at Meta looks like
 
+[Automating data removal](https://engineering.fb.com/2023/10/31/data-infrastructure/automating-data-removal/) - A good system to remove data with reduced risk
+
 ### Funding Circle
 
 [How we manage documentation at Funding Circle for our Data Platform](https://medium.com/funding-circle/how-we-manage-documentation-at-funding-circle-for-our-data-platform-960a422b9b2e) - A great guide on properly handling documentation
