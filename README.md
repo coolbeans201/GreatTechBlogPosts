@@ -31,6 +31,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Riverbed: Optimizing Data Access at Airbnb’s Scale](https://medium.com/airbnb-engineering/riverbed-optimizing-data-access-at-airbnbs-scale-c37ecf6456d9) - A very sensible way to combine Lambda and Kappa architectures.
 
+[Data Quality Score: The next chapter of data quality at Airbnb](https://medium.com/airbnb-engineering/data-quality-score-the-next-chapter-of-data-quality-at-airbnb-851dccda19c3) - A great way to surface the need for data quality
+
 ### Atomic Object
 
 [The Benefits of a Spiking Phase in Agile Development](https://spin.atomicobject.com/2023/01/04/spiking-phase-agile-development/) - How spiking helps for proper planning in Agile.
