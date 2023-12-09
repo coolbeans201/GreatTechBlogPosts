@@ -359,6 +359,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Automating data removal](https://engineering.fb.com/2023/10/31/data-infrastructure/automating-data-removal/) - A good system to remove data with reduced risk
 
+[What it takes to be a Senior IC at Meta](https://medium.com/@AnalyticsAtMeta/being-a-senior-ic-59ee705ba3c1) - A good breakdown of senior vs. other levels of IC
+
 ### Funding Circle
 
 [How we manage documentation at Funding Circle for our Data Platform](https://medium.com/funding-circle/how-we-manage-documentation-at-funding-circle-for-our-data-platform-960a422b9b2e) - A great guide on properly handling documentation
