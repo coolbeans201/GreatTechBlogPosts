@@ -473,6 +473,10 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Proactive monitoring: The why, what and how](https://medium.com/mcdonalds-technical-blog/proactive-monitoring-the-why-what-and-how-c280b117a835) - Proactive monitoring helps prevent bigger incidents from ever arising. It's the best way to pull off proper monitoring.
 
+### Netflix
+
+[Navigating the Netflix Data Deluge: The Imperative of Effective Data Management](https://medium.com/@netflixtechblog/navigating-the-netflix-data-deluge-the-imperative-of-effective-data-management-e39af70f81f7) - A great post on how Netflix manages storage costs at scale
+
 ### New York Times
 
 [Congrats, You’re On Call! Now What?](https://open.nytimes.com/congrats-youre-on-call-now-what-8d36c5ad60aa) - How to effectively handle an on-call rotation
