@@ -451,6 +451,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Open Sourcing Venice – LinkedIn’s Derived Data Platform](https://engineering.linkedin.com/blog/2022/open-sourcing-venice--linkedin-s-derived-data-platform) - An impressive data platform implementation from LinkedIn
 
+[Scalable Automated Config-Driven Data Validation with ValiData](https://www.linkedin.com/blog/engineering/data-management/scalable-automated-config-driven-data-validation) - A nice way to automate data validation
+
 ### Lyft
 
 [Securing Apache Airflow UI With DAG Level Access](https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a2821) - DAG-level access may be the next evolution of Airflow UI access combined with RBAC
