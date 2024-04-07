@@ -703,6 +703,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Getting More from Your Team Health Checks](https://engineering.atspotify.com/2023/03/getting-more-from-your-team-health-checks/) - How to get the most out of your team health/pulse checks, something that's not done enough.
 
+[Data Platform Explained](https://engineering.atspotify.com/2024/04/data-platform-explained/) - A data platform at a company that handles data like Spotify is bound to be interesting. I look forward to the continuation of this series.
+
 ### Squarespace
 
 [Creating a Code Review Culture, Part 1: Organizations and Authors](https://engineering.squarespace.com/blog/2019/code-review-culture-part-1) - Good tips on how to more effectively put code together for review
