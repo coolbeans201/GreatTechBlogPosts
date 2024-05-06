@@ -453,6 +453,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Scalable Automated Config-Driven Data Validation with ValiData](https://www.linkedin.com/blog/engineering/data-management/scalable-automated-config-driven-data-validation) - A nice way to automate data validation
 
+[LakeChime: A Data Trigger Service for Modern Data Lakes](https://www.linkedin.com/blog/engineering/data-management/lakechime-a-data-trigger-service-for-modern-data-lakes) - A great idea of how to ingest data as soon as it's available
+
 ### Lyft
 
 [Securing Apache Airflow UI With DAG Level Access](https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a2821) - DAG-level access may be the next evolution of Airflow UI access combined with RBAC
