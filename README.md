@@ -361,6 +361,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [What it takes to be a Senior IC at Meta](https://medium.com/@AnalyticsAtMeta/being-a-senior-ic-59ee705ba3c1) - A good breakdown of senior vs. other levels of IC
 
+[Composable data management at Meta](https://engineering.fb.com/2024/05/22/data-infrastructure/composable-data-management-at-meta/) - A good introduction to setting up a composable data stack, which is becoming more and more relevant
+
 ### Funding Circle
 
 [How we manage documentation at Funding Circle for our Data Platform](https://medium.com/funding-circle/how-we-manage-documentation-at-funding-circle-for-our-data-platform-960a422b9b2e) - A great guide on properly handling documentation
@@ -948,6 +950,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 [Building a Data Streaming Platform - How Zillow Sends Data to its Data Lake](https://www.zillow.com/tech/building-a-data-streaming-platform/) - An interesting look at how Zillow combines all its data sources into the lake
 
 [Airflow at Zillow: Easily Authoring and Managing ETL Pipelines](https://www.zillow.com/tech/airflow-at-zillow/) - Zillow has always had a strong Airflow presence, and this article from 2017 still holds up.
+
+[Building a strong foundation to accelerate StreetEasy’s data science efforts](https://www.zillow.com/tech/building-a-strong-foundation-to-accelerate-streeteasys-data-science-efforts/) - A great post on what it takes to build a data foundation
 
 ### Zomato
 
