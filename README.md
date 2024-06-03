@@ -709,6 +709,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Data Platform Explained](https://engineering.atspotify.com/2024/04/data-platform-explained/) - A data platform at a company that handles data like Spotify is bound to be interesting. I look forward to the continuation of this series.
 
+[Data Platform Explained Part II](https://engineering.atspotify.com/2024/05/data-platform-explained-part-ii/) - A continuation of the data platform series
+
 ### Squarespace
 
 [Creating a Code Review Culture, Part 1: Organizations and Authors](https://engineering.squarespace.com/blog/2019/code-review-culture-part-1) - Good tips on how to more effectively put code together for review
