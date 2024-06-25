@@ -471,6 +471,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [From Big Data to Better Data: Ensuring Data Quality with Verity](https://medium.com/lyft-engineering/from-big-data-to-better-data-ensuring-data-quality-with-verity-a996b49343f6) - A very thorough overview of a great data quality platform
 
+[ETA (Estimated Time of Arrival) Reliability at Lyft](https://eng.lyft.com/eta-estimated-time-of-arrival-reliability-at-lyft-d4ca2720bda8) - A thorough overview of how Lyft tries to calculate ETA
+
 ### McDonald's
 
 [Searching for quality and speed? Observability can help](https://medium.com/mcdonalds-technical-blog/searching-for-quality-and-speed-observability-can-help-860e770ab1ce) - How observability is helping keep McDonald's development go quickly
