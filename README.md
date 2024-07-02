@@ -661,6 +661,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Executing Cron Scripts Reliably At Scale](https://slack.engineering/executing-cron-scripts-reliably-at-scale/) - A bit strange not to see Slack using a service like Airflow to handle all of this, but a good overview nonetheless.
 
+[Unlocking Efficiency and Performance: Navigating the Spark 3 and EMR 6 Upgrade Journey at Slack](https://slack.engineering/unlocking-efficiency-and-performance-navigating-the-spark-3-and-emr-6-upgrade-journey-at-slack/) - A walkthrough of how Slack upgraded all of their processes to use more recent versions of EMR/Spark.
+
 ### Slalom
 
 [Cloud Trends: A Mainstream Evolution to DataOps](https://medium.com/slalom-data-ai/cloud-trends-a-mainstream-evolution-to-dataops-219f2d7fd764) - A good overview on the relevance of DataOps in this current era
