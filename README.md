@@ -487,6 +487,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Navigating the Netflix Data Deluge: The Imperative of Effective Data Management](https://medium.com/@netflixtechblog/navigating-the-netflix-data-deluge-the-imperative-of-effective-data-management-e39af70f81f7) - A great post on how Netflix manages storage costs at scale
 
+[ETL development life-cycle with Dataflow](https://medium.com/@netflixtechblog/etl-development-life-cycle-with-dataflow-9c70c64aba7b) - A very good overview of the E2E ETL process with Dataflow at Netflix
+
 ### New York Times
 
 [Congrats, You’re On Call! Now What?](https://open.nytimes.com/congrats-youre-on-call-now-what-8d36c5ad60aa) - How to effectively handle an on-call rotation
