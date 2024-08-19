@@ -857,7 +857,9 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Attribute-Based Access Control at Uber](https://www.uber.com/blog/attribute-based-access-control-at-uber/?uclick_id=add05cd1-3a86-4266-b7ca-083dc79f7105) - Proper access control is tricky when it comes to tables, so this is a good foundation for others to follow.
 
-[https://www.uber.com/blog/announcing-cadence/?uclick_id=add05cd1-3a86-4266-b7ca-083dc79f7105](https://www.uber.com/blog/announcing-cadence/?uclick_id=add05cd1-3a86-4266-b7ca-083dc79f7105) - There's always more room for workflow engines, so cool to see what Cadence can bring to the table.
+[Announcing Cadence 1.0: The Powerful Workflow Platform Built for Scale and Reliability](https://www.uber.com/blog/announcing-cadence/?uclick_id=add05cd1-3a86-4266-b7ca-083dc79f7105) - There's always more room for workflow engines, so cool to see what Cadence can bring to the table.
+
+[Sparkle: Standardizing Modular ETL at Uber](https://www.uber.com/blog/sparkle-modular-etl/) - I am all for standardizing ETL development wherever it can be. Sparkle seems like a very smart approach.
 
 ### VTS
 
