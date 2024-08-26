@@ -33,6 +33,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Data Quality Score: The next chapter of data quality at Airbnb](https://medium.com/airbnb-engineering/data-quality-score-the-next-chapter-of-data-quality-at-airbnb-851dccda19c3) - A great way to surface the need for data quality
 
+[Personal Data Classification](https://medium.com/airbnb-engineering/personal-data-classification-2d816d8ea516) - A good shift-left approach for data governance
+
 ### Atomic Object
 
 [The Benefits of a Spiking Phase in Agile Development](https://spin.atomicobject.com/2023/01/04/spiking-phase-agile-development/) - How spiking helps for proper planning in Agile.
