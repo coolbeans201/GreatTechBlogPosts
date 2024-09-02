@@ -721,6 +721,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Data Platform Explained Part II](https://engineering.atspotify.com/2024/05/data-platform-explained-part-ii/) - A continuation of the data platform series
 
+[Unlocking Insights with High-Quality Dashboards at Scale](https://engineering.atspotify.com/2024/08/unlocking-insights-with-high-quality-dashboards-at-scale/) - A good set of criteria for high-quality dashboards
+
 ### Squarespace
 
 [Creating a Code Review Culture, Part 1: Organizations and Authors](https://engineering.squarespace.com/blog/2019/code-review-culture-part-1) - Good tips on how to more effectively put code together for review
