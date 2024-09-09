@@ -723,6 +723,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Unlocking Insights with High-Quality Dashboards at Scale](https://engineering.atspotify.com/2024/08/unlocking-insights-with-high-quality-dashboards-at-scale/) - A good set of criteria for high-quality dashboards
 
+[Are You a Dalia? How We Created Data Science Personas for Spotify’s Analytics Platform](https://engineering.atspotify.com/2024/09/are-you-a-dalia-how-we-created-data-science-personas-for-spotifys-analytics-platform/) - Persona usage for making sure a platform is built appropriately is a smart model
+
 ### Squarespace
 
 [Creating a Code Review Culture, Part 1: Organizations and Authors](https://engineering.squarespace.com/blog/2019/code-review-culture-part-1) - Good tips on how to more effectively put code together for review
