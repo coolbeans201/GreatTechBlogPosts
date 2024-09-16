@@ -225,6 +225,10 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Data Governance at Criteo](https://medium.com/criteo-engineering/data-governance-at-criteo-e13b4d5047a1) - A good overview of how an effective data governance process can be set in place.
 
+### dbt
+
+[The Analytics Development Lifecycle (ADLC)](https://www.getdbt.com/resources/guides/the-analytics-development-lifecycle) - A good summary of how SDLC can be applied to analytics
+
 ### D2iq
 
 [All Together Now: FinOps, Kubernetes, and Platform Engineering](https://d2iq.com/blog/all-together-finops-kubernetes-platform-engineering) - Applying FinOps to Kubernetes savings
@@ -484,6 +488,10 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 [A single source of truth: Building a design system library](https://medium.com/mcdonalds-technical-blog/a-single-source-of-truth-building-a-design-system-library-8e12188809a8) - This provides a good template for those who want to ensure they provide a consistent user experience
 
 [Proactive monitoring: The why, what and how](https://medium.com/mcdonalds-technical-blog/proactive-monitoring-the-why-what-and-how-c280b117a835) - Proactive monitoring helps prevent bigger incidents from ever arising. It's the best way to pull off proper monitoring.
+
+### Miro
+
+[Data Products Reliability: The Power of Metadata](https://miro.com/careers/life-at-miro/tech/data-products-reliability-the-power-of-metadata/): A good overview of how Miro is implementing data contracts
 
 ### Netflix
 
