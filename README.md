@@ -35,6 +35,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Personal Data Classification](https://medium.com/airbnb-engineering/personal-data-classification-2d816d8ea516) - A good shift-left approach for data governance
 
+[Sandcastle: data/AI apps for everyone](https://medium.com/airbnb-engineering/sandcastle-data-ai-apps-for-everyone-439f3b78b223) - A very good approach for bringing life to data applications
+
 ### Atomic Object
 
 [The Benefits of a Spiking Phase in Agile Development](https://spin.atomicobject.com/2023/01/04/spiking-phase-agile-development/) - How spiking helps for proper planning in Agile.
@@ -874,6 +876,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 [Announcing Cadence 1.0: The Powerful Workflow Platform Built for Scale and Reliability](https://www.uber.com/blog/announcing-cadence/?uclick_id=add05cd1-3a86-4266-b7ca-083dc79f7105) - There's always more room for workflow engines, so cool to see what Cadence can bring to the table.
 
 [Sparkle: Standardizing Modular ETL at Uber](https://www.uber.com/blog/sparkle-modular-etl/) - I am all for standardizing ETL development wherever it can be. Sparkle seems like a very smart approach.
+
+[Preon: Presto Query Analysis for Intelligent and Efficient Analytics](https://www.uber.com/blog/preon/) - Excellent approach to query optimization/analysis
 
 ### VTS
 
