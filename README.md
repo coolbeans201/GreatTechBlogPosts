@@ -237,6 +237,23 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [The Best Way to Control Kubernetes and Cloud Costs](https://d2iq.com/blog/the-best-way-to-control-kubernetes-and-cloud-costs) - More FinOps with Kubernetes
 
+### Dagster
+
+[Dagster at all 5 Steps of the Development Lifecycle](https://dagster.io/blog/dagster-five-stages-development-lifecycle) - Having an orchestrator involved at all steps of the development lifecycle is really helpful for data engineers. This is how Dagster tries to accomplish just that.
+
+[Declarative Scheduling for Data Assets](https://dagster.io/blog/declarative-scheduling) - Declarative scheduling just makes sense when it comes to managing data assets.
+
+[Partitions in Data Pipelines](https://dagster.io/blog/partitioned-data-pipelines) - Thinking in partitions helps set Dagster apart from its competitors
+
+[What Dagster Believes About Data Platforms](https://dagster.io/blog/what-dagster-believes-about-data-platforms) - "Data engineering is software engineering". Preach!
+
+[Balancing the Data Scales: Centralization vs. Decentralization
+](https://dagster.io/blog/balancing-the-data-scales-centralization-vs-decentralization) - Centralization vs. decentralization is a never-ending topic, but this is a good primer on the pros and cons of each.
+
+[How to Make Data a Team Sport](https://dagster.io/blog/how-to-make-data-a-team-sport) - Data democratization can be a big challenge at organizations, but when it's done well, it helps everyone.
+
+[Data Visibility -- A Primer](https://dagster.io/blog/data-visibility-primer) - Data quality, lineage, and more are all key to proper data visibility.
+
 ### DataKitchen
 
 [Data Observability and Monitoring with DataOps](https://medium.com/data-ops/data-observability-and-monitoring-with-dataops-45fe822196f7) - A very useful overview of DataOps and a platform that supports it
