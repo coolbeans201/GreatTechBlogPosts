@@ -334,6 +334,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [The Importance of Being a Code Reviewer](https://medium.com/expedia-group-tech/the-importance-of-being-a-code-reviewer-fdbd910fbce7) - A good set of practices to follow when it comes to code review.
 
+[Enhancing Data Reliability With An SLO Platform](https://medium.com/expedia-group-tech/enhancing-data-reliability-with-an-slo-platform-de00249756f6) - SLO platforms are very helpful for monitoring
+
 ### Facebook/Meta
 
 [Enabling static analysis of SQL queries at Meta](https://engineering.fb.com/2022/11/30/data-infrastructure/static-analysis-sql-queries/) - A really neat overview of how FB handles SQL linting, amongst other things
@@ -895,6 +897,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 [Sparkle: Standardizing Modular ETL at Uber](https://www.uber.com/blog/sparkle-modular-etl/) - I am all for standardizing ETL development wherever it can be. Sparkle seems like a very smart approach.
 
 [Preon: Presto Query Analysis for Intelligent and Efficient Analytics](https://www.uber.com/blog/preon/) - Excellent approach to query optimization/analysis
+
+[Genie: Uber’s Gen AI On-Call Copilot](https://www.uber.com/blog/genie-ubers-gen-ai-on-call-copilot/) - Excellent use of LLMs to cut down on manual on-call effort
 
 ### VTS
 
