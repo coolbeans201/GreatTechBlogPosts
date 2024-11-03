@@ -316,6 +316,12 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Lessons learned in incident management](https://dropbox.tech/infrastructure/lessons-learned-in-incident-management) - Oncall can be a messy process sometimes, but Dropbox has made it much more streamlined
 
+### Duolingo
+
+[How we reduced our cloud spending by 20%](https://blog.duolingo.com/reducing-cloud-spending/) - A good overview on various ways you can reduce your Cloud spend
+
+[Meaningful metrics: How data sharpened the focus of product teams](https://blog.duolingo.com/growth-model-duolingo/) - A good review on the importance of metrics to product teams
+
 ### Entelo
 
 [Why You Should Make Everyone a Project Lead](https://engineering.entelo.com/why-you-should-make-everyone-a-project-lead-f167472b580d) - Leading a project is a great way to further your leadership skills
