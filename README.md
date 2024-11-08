@@ -906,6 +906,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Genie: Uber’s Gen AI On-Call Copilot](https://www.uber.com/blog/genie-ubers-gen-ai-on-call-copilot/) - Excellent use of LLMs to cut down on manual on-call effort
 
+[Presto® Express: Speeding up Query Processing with Minimal Resources](https://www.uber.com/blog/presto-express/) - Good read on chunking and speeding up query processing
+
 ### VTS
 
 [Designing for Data](https://buildingvts.com/designing-for-data-e3758fb2dd2a) - Telling a story with data is underrated
