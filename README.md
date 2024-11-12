@@ -492,6 +492,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [LakeChime: A Data Trigger Service for Modern Data Lakes](https://www.linkedin.com/blog/engineering/data-management/lakechime-a-data-trigger-service-for-modern-data-lakes) - A great idea of how to ingest data as soon as it's available
 
+[Right-sizing Spark executor memory](https://www.linkedin.com/blog/engineering/infrastructure/right-sizing-spark-executor-memory) - A good overview on Spark tuning
+
 ### Lyft
 
 [Securing Apache Airflow UI With DAG Level Access](https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a2821) - DAG-level access may be the next evolution of Airflow UI access combined with RBAC
