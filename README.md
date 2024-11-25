@@ -89,6 +89,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Service-aligned Data Platform Architecture](https://canvatechblog.com/service-aligned-data-platform-architecture-6b5a6fc366c4) - A good overview of Canvas's data platform and CDC.
 
+[Our journey to Snowflake monitoring mastery](https://www.canva.dev/blog/engineering/our-journey-to-snowflake-monitoring-mastery/) - Effective practices for managing Snowflake costs
+
 ### Capital One
 
 [The evolution of issue tracking](https://medium.com/@CapitalOneTech/the-evolution-of-issue-tracking-capital-one-937a0a7ce09) - An important part of being on top of everything, how issue tracking has evolved at Capital One
