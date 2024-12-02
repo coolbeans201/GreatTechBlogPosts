@@ -37,6 +37,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Sandcastle: data/AI apps for everyone](https://medium.com/airbnb-engineering/sandcastle-data-ai-apps-for-everyone-439f3b78b223) - A very good approach for bringing life to data applications
 
+[From Data to Insights: Segmenting Airbnb’s Supply](https://medium.com/airbnb-engineering/from-data-to-insights-segmenting-airbnbs-supply-c88aa2bb9399) - Good overview on the importance of insights at Airbnb
+
 ### Atomic Object
 
 [The Benefits of a Spiking Phase in Agile Development](https://spin.atomicobject.com/2023/01/04/spiking-phase-agile-development/) - How spiking helps for proper planning in Agile.
