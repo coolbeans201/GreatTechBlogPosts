@@ -498,6 +498,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Right-sizing Spark executor memory](https://www.linkedin.com/blog/engineering/infrastructure/right-sizing-spark-executor-memory) - A good overview on Spark tuning
 
+[Practical text-to-SQL for data analytics](https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics) - Effective guide/overview of building an SQL bot and why it'd be helpful in a larger organization
+
 ### Lyft
 
 [Securing Apache Airflow UI With DAG Level Access](https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a2821) - DAG-level access may be the next evolution of Airflow UI access combined with RBAC
