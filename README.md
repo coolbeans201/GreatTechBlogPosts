@@ -534,6 +534,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [ETL development life-cycle with Dataflow](https://medium.com/@netflixtechblog/etl-development-life-cycle-with-dataflow-9c70c64aba7b) - A very good overview of the E2E ETL process with Dataflow at Netflix
 
+[Part 1: A Survey of Analytics Engineering Work at Netflix](https://netflixtechblog.com/part-1-a-survey-of-analytics-engineering-work-at-netflix-d761cfd551ee) - A good overview of how analytics engineering is applied at Netflix
+
 ### New York Times
 
 [Congrats, You’re On Call! Now What?](https://open.nytimes.com/congrats-youre-on-call-now-what-8d36c5ad60aa) - How to effectively handle an on-call rotation
