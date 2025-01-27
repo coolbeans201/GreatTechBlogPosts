@@ -402,6 +402,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Composable data management at Meta](https://engineering.fb.com/2024/05/22/data-infrastructure/composable-data-management-at-meta/) - A good introduction to setting up a composable data stack, which is becoming more and more relevant
 
+[How Meta discovers data flows via lineage at scale](https://engineering.fb.com/2025/01/22/security/how-meta-discovers-data-flows-via-lineage-at-scale/) - Nice overview of how Meta is able to successfully capture lineage across their gigantic codebase
+
 ### Funding Circle
 
 [How we manage documentation at Funding Circle for our Data Platform](https://medium.com/funding-circle/how-we-manage-documentation-at-funding-circle-for-our-data-platform-960a422b9b2e) - A great guide on properly handling documentation
