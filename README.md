@@ -502,6 +502,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Practical text-to-SQL for data analytics](https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics) - Effective guide/overview of building an SQL bot and why it'd be helpful in a larger organization
 
+[Journey of next generation control plane for data systems](https://www.linkedin.com/blog/engineering/infrastructure/journey-of-next-generation-control-plane-for-data-systems) - A really helpful control plane for data to cut down on time and effort
+
 ### Lyft
 
 [Securing Apache Airflow UI With DAG Level Access](https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a2821) - DAG-level access may be the next evolution of Airflow UI access combined with RBAC
