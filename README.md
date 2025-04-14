@@ -284,6 +284,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [How Discord Uses Open-Source Tools for Scalable Data Orchestration & Transformation](https://discord.com/blog/how-discord-uses-open-source-tools-for-scalable-data-orchestration-transformation) - A good overview of how Discord overhauled their orchestration platform to Dagster and dbt
 
+[Overclocking dbt: Discord's Custom Solution in Processing Petabytes of Data](https://discord.com/blog/overclocking-dbt-discords-custom-solution-in-processing-petabytes-of-data) - How Discord runs at scale (shoutout to my former coworker Chris for this one!)
+
 ### Doordash
 
 [Building a Source of Truth for an Inventory with Disparate Data Sources](https://doordash.engineering/2022/06/21/building-a-source-of-truth-for-a-digital-inventory-with-disparate-data-sources/) - Bringing together a single source of truth in a massive organization is definitely a challenge
