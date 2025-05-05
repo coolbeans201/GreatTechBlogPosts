@@ -406,6 +406,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [How Meta discovers data flows via lineage at scale](https://engineering.fb.com/2025/01/22/security/how-meta-discovers-data-flows-via-lineage-at-scale/) - Nice overview of how Meta is able to successfully capture lineage across their gigantic codebase
 
+[How Meta understands data at scale](https://engineering.fb.com/2025/04/28/security/how-meta-understands-data-at-scale/) - Cool blog on how Meta makes the most of their sprawling data
+
 ### Funding Circle
 
 [How we manage documentation at Funding Circle for our Data Platform](https://medium.com/funding-circle/how-we-manage-documentation-at-funding-circle-for-our-data-platform-960a422b9b2e) - A great guide on properly handling documentation
