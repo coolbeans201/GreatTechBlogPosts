@@ -408,6 +408,10 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [How Meta understands data at scale](https://engineering.fb.com/2025/04/28/security/how-meta-understands-data-at-scale/) - Cool blog on how Meta makes the most of their sprawling data
 
+### Flipkart
+
+[Transforming Data Analytics at Flipkart: Self Serve Insights on Petabytes scale data](https://blog.flipkart.tech/transforming-data-analytics-at-flipkart-self-serve-insights-on-petabytes-scale-data-fa59caf2bc54) - Self-serving analytics is all the rage in our current AI age. This is a good overview of how to build a platform to handle that.
+
 ### Funding Circle
 
 [How we manage documentation at Funding Circle for our Data Platform](https://medium.com/funding-circle/how-we-manage-documentation-at-funding-circle-for-our-data-platform-960a422b9b2e) - A great guide on properly handling documentation
