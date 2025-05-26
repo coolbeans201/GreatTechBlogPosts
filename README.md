@@ -576,6 +576,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [How Pinterest runs Kafka at scale](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be) - A good overview on how Kafka can be effectively scaled within an organization
 
+[500X Scalability of Experiment Metric Computing with Unified Dynamic Framework](https://medium.com/pinterest-engineering/500x-scalability-of-experiment-metric-computing-with-unified-dynamic-framework-9eb356fee676) - Running metrics at scale is tricky, but Pinterest has a good practice here with the use of Druid
+
 ### Postman
 
 [How (and Why) Postman Created a Data-Driven Hiring Process](https://medium.com/better-practices/how-and-why-postman-created-a-data-driven-hiring-process-d2269a025ae6) - I have never really liked the interviewing process, on both sides. Postman has a good model in place here.
