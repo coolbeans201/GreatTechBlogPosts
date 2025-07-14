@@ -1024,6 +1024,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Dedicated Ownership for Teams at Zalon](https://engineering.zalando.com/posts/2017/11/dedicated-ownership-for-teams-at-zalon.html) - A good model on team structure
 
+[Direct Data Sharing using Delta Sharing - Introduction: Our Journey to Empower Partners at Zalando](https://engineering.zalando.com/posts/2025/07/direct-data-sharing-using-delta-sharing.html) - A helpful introduction to Delta Sharing
+
 ### Zapier
 
 [Thinking Fast and Estimating Wrong](https://zapier.com/engineering/estimating/) - Estimation never seems to be right when it comes to planning in software development, so I totally agree with the message of this post.
