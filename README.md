@@ -157,6 +157,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [The Mon-ifesto Part 3: Alert Response and Post-Mortem](https://medium.com/capital-one-tech/the-mon-ifesto-part-3-alert-response-and-post-mortem-cd227c684ac0) - Postmortems are an underappreciated aspect of monitoring and incident management, but they're very relevant to helping ensure that issues suppress themselves in the future
 
+[Delta Lake transaction logs explained](https://medium.com/capital-one-tech/delta-lake-transaction-logs-explained-6b5f036e64e2) - A helpful guide to understanding what _delta_log can be used for
+
 ### Chick-fil-A
 
 [Enterprise Architecture at Chick-fil-A](https://medium.com/chick-fil-atech/enterprise-architecture-at-chick-fil-a-41bc263cf81d) - A great view of how important architecture can be in the restaurant industry.
@@ -568,7 +570,11 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [The Journey of Metadata at PayPal](https://medium.com/paypal-tech/the-journey-of-metadata-at-paypal-c374ac66e2e6) - Bringing data ownership and discoverability to the masses at PayPal
 
-[Gimel: PayPal’s Analytics Data Processing Platform](https://medium.com/paypal-tech/gimel-paypals-analytics-data-processing-platform-22ec5890f4af) - The coolest part of this blog was realizing Romit now works in a related team at Disney :). But this platform is certainly impressive nonetheless. 
+[Gimel: PayPal’s Analytics Data Processing Platform](https://medium.com/paypal-tech/gimel-paypals-analytics-data-processing-platform-22ec5890f4af) - The coolest part of this blog was realizing Romit now works in a related team at Disney :). But this platform is certainly impressive nonetheless.
+
+### Peloton
+
+[Modernizing Data Infrastructure at Peloton Using Apache Hudi](https://hudi.apache.org/blog/2025/07/15/modernizing-datainfra-peloton-hudi/) - How Peloton benefitted by migrating to Hudi
 
 ### Pinterest
 
@@ -931,6 +937,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 [Genie: Uber’s Gen AI On-Call Copilot](https://www.uber.com/blog/genie-ubers-gen-ai-on-call-copilot/) - Excellent use of LLMs to cut down on manual on-call effort
 
 [Presto® Express: Speeding up Query Processing with Minimal Resources](https://www.uber.com/blog/presto-express/) - Good read on chunking and speeding up query processing
+
+[Unlocking Financial Insights with Finch: Uber’s Conversational AI Data Agent](https://www.uber.com/en-IN/blog/unlocking-financial-insights-with-finch/) - A nice use of AI agents to help simplify SQL for non-data personas
 
 ### VTS
 
