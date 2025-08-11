@@ -159,6 +159,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Delta Lake transaction logs explained](https://medium.com/capital-one-tech/delta-lake-transaction-logs-explained-6b5f036e64e2) - A helpful guide to understanding what _delta_log can be used for
 
+[AI agents vs. predefined workflows: practical decision guide](https://medium.com/capital-one-tech/ai-agents-vs-predefined-workflows-practical-decision-guide-83edda33dad6) - When to use AI agents vs. pre-defined workflows
+
 ### Chick-fil-A
 
 [Enterprise Architecture at Chick-fil-A](https://medium.com/chick-fil-atech/enterprise-architecture-at-chick-fil-a-41bc263cf81d) - A great view of how important architecture can be in the restaurant industry.
@@ -409,6 +411,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 [How Meta discovers data flows via lineage at scale](https://engineering.fb.com/2025/01/22/security/how-meta-discovers-data-flows-via-lineage-at-scale/) - Nice overview of how Meta is able to successfully capture lineage across their gigantic codebase
 
 [How Meta understands data at scale](https://engineering.fb.com/2025/04/28/security/how-meta-understands-data-at-scale/) - Cool blog on how Meta makes the most of their sprawling data
+
+[Table Compare: Safeguarding Data Integrity at Meta](https://medium.com/@AnalyticsAtMeta/table-compare-safeguarding-data-integrity-at-meta-bb77e5363dd4) - A good showcase on applying data validation within the code review process
 
 ### Flipkart
 
@@ -999,6 +1003,10 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 [Effective Software Design Documents](https://wecode.wepay.com/posts/effective-software-design-documents) - Effective design documents are super helpful when iterating on a product
 
 [Improving Airflow UI Security](https://wecode.wepay.com/posts/improving-airflow-ui-security) - A good model for ensuring proper security within the Airflow UI
+
+### Wix
+
+[The AI Code Velocity Trap: When “Done” Isn’t Done.](https://medium.com/wix-engineering/the-ai-code-velocity-trap-when-done-isnt-done-8c39e403fc48) - How the code review process has changed with AI
 
 ### Xandr
 
