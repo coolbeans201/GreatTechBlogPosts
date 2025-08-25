@@ -452,6 +452,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Trident - Real-time Event Processing at Scale](https://engineering.grab.com/trident-real-time-event-processing-at-scale) - I was not too familiar with IFTTT (if this, then that) design before, so this was an interesting read
 
+[Data mesh at Grab part I: Building trust through certification](https://engineering.grab.com/signals-market-place) - A great overview of a proper certification implementation
+
 ### Gusto
 
 [The Accidental Tech Lead](https://engineering.gusto.com/the-accidental-tech-lead/) - Growing into being a tech lead, which can sometimes happen by accident just on account of experience
@@ -1007,6 +1009,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 ### Wix
 
 [The AI Code Velocity Trap: When “Done” Isn’t Done.](https://medium.com/wix-engineering/the-ai-code-velocity-trap-when-done-isnt-done-8c39e403fc48) - How the code review process has changed with AI
+
+[How Wix Slashed Spark Costs by 50% and Migrated 5,000+ Daily Workflows from EMR to EMR on EKS](http://wix.engineering/post/how-wix-slashed-spark-costs-by-60-and-migrated-5-000-daily-workflows-from-emr-to-emr-on-eks) - A nice breakdown on how migrating from EMR to EMR on EKS saved on costs
 
 ### Xandr
 
