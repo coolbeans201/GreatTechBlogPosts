@@ -352,6 +352,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Enhancing Data Reliability With An SLO Platform](https://medium.com/expedia-group-tech/enhancing-data-reliability-with-an-slo-platform-de00249756f6) - SLO platforms are very helpful for monitoring
 
+[Chill Your Data with Iceberg Write Audit Publish](https://medium.com/expedia-group-tech/chill-your-data-with-iceberg-write-audit-publish-746c9eb3db48) - A good overview of implementing the WAP pattern within Iceberg
+
 ### Facebook/Meta
 
 [Enabling static analysis of SQL queries at Meta](https://engineering.fb.com/2022/11/30/data-infrastructure/static-analysis-sql-queries/) - A really neat overview of how FB handles SQL linting, amongst other things
