@@ -948,7 +948,9 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Unlocking Financial Insights with Finch: Uber’s Conversational AI Data Agent](https://www.uber.com/en-IN/blog/unlocking-financial-insights-with-finch/) - A nice use of AI agents to help simplify SQL for non-data personas
 
-[uReview: Scalable, Trustworthy GenAI for Code Review at Uber](https://www.uber.com/en-IN/blog/ureview/): AI code review is only going to become more and more common, so Uber's usage is a good model to follow.
+[uReview: Scalable, Trustworthy GenAI for Code Review at Uber](https://www.uber.com/en-IN/blog/ureview/) - AI code review is only going to become more and more common, so Uber's usage is a good model to follow.
+
+[Uber’s Strategy to Upgrading 2M+ Spark Jobs](https://www.uber.com/en-IN/blog/ubers-strategy-to-upgrading-2m-spark-jobs/) - A good overview of how to upgrade Spark at scale
 
 ### VTS
 
