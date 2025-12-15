@@ -17,6 +17,10 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Adobe Customer Journey Management’s Journey into the World of GitOps](https://blog.developer.adobe.com/adobe-customer-journey-managements-journey-into-the-world-of-gitops-678a65743d8f) - It's great to see more and more companies embracing GitOps
 
+### Agoda
+
+[How Agoda Enhanced the Uptime and Consistency of Financial Metrics](https://medium.com/agoda-engineering/how-agoda-enhanced-the-uptime-and-consistency-of-financial-metrics-ef7d54c4e4f0) - A good overview on ensuring uptime across disparate processes
+
 ### Airbnb
 
 [Data Quality at Airbnb](https://medium.com/airbnb-engineering/data-quality-at-airbnb-e582465f3ef7) - The gold standard when it comes to data quality and how it should be followed.
