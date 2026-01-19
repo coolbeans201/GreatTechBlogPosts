@@ -958,6 +958,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Uber’s Strategy to Upgrading 2M+ Spark Jobs](https://www.uber.com/en-IN/blog/ubers-strategy-to-upgrading-2m-spark-jobs/) - A good overview of how to upgrade Spark at scale
 
+[Apache Hudi™ at Uber: Engineering for Trillion-Record-Scale Data Lake Operations](https://www.uber.com/en-IN/blog/apache-hudi-at-uber/) - A good overview of the different data layers at Uber and how Hudi helps tie it all together
+
 ### VTS
 
 [Designing for Data](https://buildingvts.com/designing-for-data-e3758fb2dd2a) - Telling a story with data is underrated
