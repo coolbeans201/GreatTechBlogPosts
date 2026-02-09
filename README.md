@@ -564,6 +564,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Data as a Product: Applying a Product Mindset to Data at Netflix](https://netflixtechblog.medium.com/data-as-a-product-applying-a-product-mindset-to-data-at-netflix-4a4d1287a31d) - The usefulness of data as a product on display at Netflix
 
+[The Data Canary: How Netflix Validates Catalog Metadata](https://netflixtechblog.medium.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36) - A good overview on how to proper valdiate and rollout data changes
+
 ### New York Times
 
 [Congrats, You’re On Call! Now What?](https://open.nytimes.com/congrats-youre-on-call-now-what-8d36c5ad60aa) - How to effectively handle an on-call rotation
