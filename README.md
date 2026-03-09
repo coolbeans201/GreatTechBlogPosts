@@ -600,6 +600,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [500X Scalability of Experiment Metric Computing with Unified Dynamic Framework](https://medium.com/pinterest-engineering/500x-scalability-of-experiment-metric-computing-with-unified-dynamic-framework-9eb356fee676) - Running metrics at scale is tricky, but Pinterest has a good practice here with the use of Druid
 
+[Unified Context-Intent Embeddings for Scalable Text-to-SQL](https://medium.com/pinterest-engineering/unified-context-intent-embeddings-for-scalable-text-to-sql-793635e60aac) - A great perspective on building out an analytics agent and the steps that go into it
+
 ### Postman
 
 [How (and Why) Postman Created a Data-Driven Hiring Process](https://medium.com/better-practices/how-and-why-postman-created-a-data-driven-hiring-process-d2269a025ae6) - I have never really liked the interviewing process, on both sides. Postman has a good model in place here.
