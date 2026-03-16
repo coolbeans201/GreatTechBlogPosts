@@ -768,6 +768,10 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Building a Culture of Data and Insights](https://medium.com/slalom-data-ai/building-a-culture-of-data-and-insights-ed0c6a81f943) - A nice overview of how to enable a data-driven culture
 
+### Snap
+
+[Agent Format: A Declarative Standard for AI Agents](https://eng.snap.com/agent-format) - Nice post detailing how to parameterize agent setup
+
 ### Soundcloud
 
 [Building a Healthy On-Call Culture](https://developers.soundcloud.com/blog/building-a-healthy-on-call-culture) - Tips for helping ensure a smooth on-call process
@@ -807,6 +811,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 [Unlocking Insights with High-Quality Dashboards at Scale](https://engineering.atspotify.com/2024/08/unlocking-insights-with-high-quality-dashboards-at-scale/) - A good set of criteria for high-quality dashboards
 
 [Are You a Dalia? How We Created Data Science Personas for Spotify’s Analytics Platform](https://engineering.atspotify.com/2024/09/are-you-a-dalia-how-we-created-data-science-personas-for-spotifys-analytics-platform/) - Persona usage for making sure a platform is built appropriately is a smart model
+
+[Inside the Archive: The Tech Behind Your 2025 Wrapped Highlights](https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped) - Interesting deep-dive into building a massive report like Spotify Wrapped
 
 ### Squarespace
 
