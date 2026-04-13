@@ -420,6 +420,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [Table Compare: Safeguarding Data Integrity at Meta](https://medium.com/@AnalyticsAtMeta/table-compare-safeguarding-data-integrity-at-meta-bb77e5363dd4) - A good showcase on applying data validation within the code review process
 
+[How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipelines](https://engineering.fb.com/2026/04/06/developer-tools/how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines/) - Cool overview of using AI to better document missing context in codebases
+
 ### Flipkart
 
 [Transforming Data Analytics at Flipkart: Self Serve Insights on Petabytes scale data](https://blog.flipkart.tech/transforming-data-analytics-at-flipkart-self-serve-insights-on-petabytes-scale-data-fa59caf2bc54) - Self-serving analytics is all the rage in our current AI age. This is a good overview of how to build a platform to handle that.
