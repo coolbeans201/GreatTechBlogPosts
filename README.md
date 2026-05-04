@@ -165,6 +165,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [AI agents vs. predefined workflows: practical decision guide](https://medium.com/capital-one-tech/ai-agents-vs-predefined-workflows-practical-decision-guide-83edda33dad6) - When to use AI agents vs. pre-defined workflows
 
+[Spark tuning: executor optimization for performance](https://medium.com/capital-one-tech/spark-tuning-executor-optimization-for-performance-c757b39f0efe) - The math behind Spark optimal execution
+
 ### Chick-fil-A
 
 [Enterprise Architecture at Chick-fil-A](https://medium.com/chick-fil-atech/enterprise-architecture-at-chick-fil-a-41bc263cf81d) - A great view of how important architecture can be in the restaurant industry.
@@ -461,6 +463,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 [Trident - Real-time Event Processing at Scale](https://engineering.grab.com/trident-real-time-event-processing-at-scale) - I was not too familiar with IFTTT (if this, then that) design before, so this was an interesting read
 
 [Data mesh at Grab part I: Building trust through certification](https://engineering.grab.com/signals-market-place) - A great overview of a proper certification implementation
+
+[Data Mesh at Grab Part II: The Foundational Tools behind Certification](https://engineering.grab.com/data-mesh-2) - A really good deep-dive on the certification infrastructure
 
 ### Gusto
 
