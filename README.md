@@ -572,6 +572,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [The Data Canary: How Netflix Validates Catalog Metadata](https://netflixtechblog.medium.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36) - A good overview on how to proper valdiate and rollout data changes
 
+[Data Projects: Managing Data Assets at Netflix Scale](https://netflixtechblog.medium.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e) - A good model to handle IAM permissions alongside ever-changing data flows
+
 ### New York Times
 
 [Congrats, You’re On Call! Now What?](https://open.nytimes.com/congrats-youre-on-call-now-what-8d36c5ad60aa) - How to effectively handle an on-call rotation
