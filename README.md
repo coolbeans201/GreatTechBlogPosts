@@ -43,6 +43,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 
 [From Data to Insights: Segmenting Airbnb’s Supply](https://medium.com/airbnb-engineering/from-data-to-insights-segmenting-airbnbs-supply-c88aa2bb9399) - Good overview on the importance of insights at Airbnb
 
+[Scaling beyond one: How Airbnb evolved its data architecture for a multi-product world](https://medium.com/airbnb-engineering/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world-6125645d470c) - How to rearchitect for a data product future
+
 ### Atomic Object
 
 [The Benefits of a Spiking Phase in Agile Development](https://spin.atomicobject.com/2023/01/04/spiking-phase-agile-development/) - How spiking helps for proper planning in Agile.
@@ -166,6 +168,8 @@ Inspiration for this README comes from @kilimchoi's [repo](https://github.com/ki
 [AI agents vs. predefined workflows: practical decision guide](https://medium.com/capital-one-tech/ai-agents-vs-predefined-workflows-practical-decision-guide-83edda33dad6) - When to use AI agents vs. pre-defined workflows
 
 [Spark tuning: executor optimization for performance](https://medium.com/capital-one-tech/spark-tuning-executor-optimization-for-performance-c757b39f0efe) - The math behind Spark optimal execution
+
+[DataAgents: How we turned 9 months of analysis into 10 days](https://medium.com/capital-one-tech/dataagents-how-we-turned-9-months-of-analysis-into-10-days-8d6ed482f5d7) - A good use case of using data agents to speed up analysis
 
 ### Chick-fil-A
 
